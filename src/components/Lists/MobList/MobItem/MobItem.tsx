@@ -23,7 +23,7 @@ const MobItem: React.FC<MobItemProps> = ({item, mob}) => {
     const handleDeleteItem = () => {
         removeElementAnimation(mobItem.current, ()=> deleteItem({
             id: item.id,
-            count: item.count,
+            amount: item.amount,
             chance: item.chance,
         } as ItemInMob, mob))
     }
@@ -32,7 +32,14 @@ const MobItem: React.FC<MobItemProps> = ({item, mob}) => {
         setEdit((toggle) => !toggle)
     }
     function getItemName(value: number) {
-        let itemName = itemNames.find((item: ItemName) => item.value === value).label
+       let itemName;
+        try{
+            itemName = itemNames.find((item: ItemName) => item.value === value).label
+        }
+        catch (e) {
+            return "Przedmiot Nieznany"
+          } 
+        
         return removeIdFromName(itemName)
     }
 
@@ -77,7 +84,7 @@ const MobItemContentEdit: React.FC<MobItemContentEditProps> = ({edit, item, stop
 
     const { editItem } = useContext(GlobalContext) as any;
     const inputRef = useRef(null!) as React.MutableRefObject<HTMLInputElement>;;
-    const [amountInputValue, setAmountInputValue] = useState(item.count);
+    const [amountInputValue, setAmountInputValue] = useState(item.amount);
     const [chanceInputValue, setChanceInputValue] = useState(item.chance);
 
     useEffect(() => {
@@ -133,7 +140,7 @@ const MobItemContentEdit: React.FC<MobItemContentEditProps> = ({edit, item, stop
 const MobItemContent = ({item} : any) => {
     return (
         <div className="MobItem__stats">
-            <p className="MobItem__amount">{item.count}x</p> 
+            <p className="MobItem__amount">{item.amount}x</p> 
             <p className="MobItem__chance">{item.chance}%</p>
         </div>
     );

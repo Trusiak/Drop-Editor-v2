@@ -12,7 +12,14 @@ const ItemMob: React.FC<ItemMobProps> = ({mobData}) => {
     const {mobNames } = useContext(GlobalContext) as any;
     const itemMob = useRef(null);
     const getMobName = (value: number) => {
-        let mobName: string = mobNames.find((mob: MobName) => mob.value === value).label
+        let mobName: string = "";
+        try{
+            mobName = mobNames.find((mob: MobName) => mob.value === value).label
+        }
+        catch(e){
+            return `Potwór nieznany`
+        }
+        
         return removeIdFromName(mobName)
     }
     useLayoutEffect(()=>{
@@ -23,8 +30,10 @@ const ItemMob: React.FC<ItemMobProps> = ({mobData}) => {
           ref={itemMob} 
           scroll={(el) => el.scrollIntoView({ behavior: 'auto', block: 'center' })}
           className="ItemMob">
-                <h3 className="ItemMob__mob-title">{getMobName(mobData.id)}</h3>
-                <p className="ItemMob__mob-id">({mobData.id})</p>
+                <div className="ItemMob__text-content">
+                    <h3 className="ItemMob__mob-title">{getMobName(mobData.id)}</h3>
+                    <p className="ItemMob__mob-id">({mobData.id})</p>
+                </div>
                 <div className="ItemMob__link">
                     <img className="ItemMob__mob-image"  alt="ikona moba" src={`/../mobs/${mobData.id}.png`} onError={(e: any)=>{e.target.onerror = null; e.target.src="/images/unknown-icon.png"}}></img>
                 </div>

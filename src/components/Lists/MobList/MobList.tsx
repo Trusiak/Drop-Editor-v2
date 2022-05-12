@@ -32,7 +32,15 @@ const MobList: React.FC<MobListProps> = ({id, items, level}) => {
     }
 
     const getMobName = (value: number) => {
-        return mobNames.find((mob: MobName) => mob.value === value).label
+        let tempMobNames;
+        try{
+            tempMobNames = mobNames.find((mob: MobName) => mob.value === value).label
+        }
+        catch(e){
+            return `Nieznany potwór (${value})`
+        }
+        
+        return tempMobNames;
     }
 
     const handleDeleteMob = () => {

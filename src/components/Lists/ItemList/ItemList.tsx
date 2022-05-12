@@ -23,7 +23,7 @@ const ItemList: React.FC<ItemListProps> = ({match}) => {
             items.forEach((item: ItemInMob) => p.push(
                 {
                     id: n.mob, 
-                    count: item.count,
+                    amount: item.amount,
                     chance: item.chance
                 }));
         }
