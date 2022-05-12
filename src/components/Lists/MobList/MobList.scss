@@ -1,0 +1,133 @@
+.MobList{
+    position: relative;
+    width: 660px;
+    background-color: var(--color-halfGray);
+    box-shadow: 0px 0px 8px 2px rgba(0, 0, 0, 0.1);
+    margin-top: 60px;
+    font-family: 'Poppins', sans-serif;
+    transform: scale(0);
+    z-index: 3;
+
+    @include breakpoint-down("small"){
+        width: 80vw;
+    }
+    @include breakpoint-down("tiny"){
+        width: 90vw;
+        margin-top: 40px;
+    }
+    
+    &__header{
+        @include flex(i,c, row);
+        position: relative;
+        padding: 10px 0px 0px 110px;
+        height: 70px;
+        z-index: 7;
+        border-bottom: 1px solid var(--color-disabledGray);
+        background: linear-gradient(90deg, rgb(49, 49, 49) 25%, rgba(55,55,55,1) 84%);
+
+        @include breakpoint-down("tiny"){
+            padding: 10px 0px 0px 70px;
+            background: none;
+            background-color: var(--color-halfGray);
+            margin: 0 14px;
+        }
+
+        @include breakpoint-down("mobile"){
+            padding: 10px 0px 0px 10px;
+        }
+    }
+
+    &__image-container{
+        @include flex(fe, fe, row);
+        position: absolute;
+        width: 60px;
+        height: 120px;
+        left: 35px;
+        top: -60px;
+
+        @include breakpoint-down("tiny"){
+            left: 0px;
+        }
+        @include breakpoint-down("mobile"){
+            display: none;
+        }
+    }
+
+    &__image{
+        max-height: 110px;
+        max-width: 60px;
+        bottom: 0;
+        position: absolute;
+        filter: drop-shadow(0px 0px 6px rgb(30, 37, 39));
+
+        @include breakpoint-down("tiny"){
+            max-width: 50px;
+        }
+        
+    }
+    &__title-containter{
+        @include flex(c, c, row);
+        @include breakpoint-down("tiny"){
+            @include flex(c, fs, column);
+        }
+     
+    }
+    &__name{
+        color: var(--color-white);
+        text-align: center;
+    }
+    &__level{
+        margin-left: 6px;
+        color: var(--color-lightGray);
+
+        @include breakpoint-down("tiny"){
+            margin-left: 0px;
+        }
+    }
+    &__id{
+        margin-left: 5px;
+        color: var(--color-white);
+    }
+
+    &__actionButton{
+        position: absolute;
+        outline: none;
+        border: none;
+        background-color: transparent;
+        cursor: pointer;
+    }
+
+    &__actionButton--add{
+        right: 70px;
+        
+        @include breakpoint-down("tiny"){
+            right: 35px;
+        }
+    }
+    &__actionButton--delete{
+        right: 40px;
+        @include breakpoint-down("tiny"){
+            right: 10px;
+        }
+    }
+
+    &__actionButton:hover{
+        filter: drop-shadow(0 0 14px rgb(240, 243, 252)) invert(80%) sepia(29%) saturate(1186%) hue-rotate(164deg) brightness(102%) contrast(98%);
+    }
+    &__addIcon{
+        @include breakpoint-down("tiny"){
+            width: 20px;
+            height: 20px;
+        }
+    }
+
+    &__list{
+        list-style-type: none;
+        padding: 25px 30px;
+
+        @include breakpoint-down("tiny"){
+            padding: 15px 2.5vw;
+        }
+    }
+
+}

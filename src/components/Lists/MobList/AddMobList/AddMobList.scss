@@ -1,0 +1,97 @@
+.AddMobList {
+    @include flex(se, c, row);
+    position: relative;
+    width: 660px;
+    background-color: var(--color-halfGray);
+    border-radius: 5px;
+    box-shadow: 0px 0px 21px rgba(0, 0, 0, 0.11);
+    border: 1px solid var(--color-disabledGray);
+    transition: .1s;
+    margin-top: 80px;
+    padding: 15px 20px 25px 20px;
+    z-index: 5;
+
+    @include breakpoint-down("small") {
+        width: 620px;
+    }
+
+    @include breakpoint-down("tiny") {
+        @include flex(se, c, column);
+        width: 90vw;
+        padding: 25px 20px 25px 20px;
+        margin-top: 50px;
+    }
+
+    &--error {
+        border: 1px solid var(--color-error);
+        padding-bottom: 35px;
+    }
+
+    &__error {
+        position: absolute;
+        display: none;
+        color: var(--color-error);
+        font-size: 12px;
+        bottom: 8px;
+        left: 40px;
+
+        @include breakpoint-down("tiny") {
+            left: 50%;
+            transform: translateX(-50%);
+            width: 100%;
+            text-align: center;
+        }
+    }
+
+    &__error--show {
+        display: block;
+    }
+
+    &__title {
+        position: absolute;
+        left: 30px;
+        color: white;
+        top: -12px;
+        background: linear-gradient(0deg, rgba(55, 55, 55, 1) 50%, rgba(50, 50, 50, 1) 50%);
+        border-radius: 2px;
+        padding: 0 20px;
+    }
+
+    &__input-container {
+        @include flex(sa, c, row);
+        width: 200px;
+
+        @include breakpoint-down("tiny") {
+            @include flex(sb, c, row);
+            width: 100%;
+            margin-top: 10px;
+        }
+    }
+
+    &__input-db {
+        margin-top: 0px !important;
+        width: 300px !important;
+        position: relative !important;
+    }
+
+    &__input {
+        position: relative;
+        font-weight: 300;
+        border: none;
+        padding: 12px 10px;
+        height: 31px;
+        font-size: 13px;
+        border-radius: 2px;
+        width: 75px;
+        margin-top: 11px;
+
+        @include breakpoint-down("tiny") {
+            width: 49%;
+        }
+    }
+
+    &__input:focus {
+        outline: none;
+        box-shadow: 0px 0px 1px 2px var(--color-enabledGray);
+    }
+}

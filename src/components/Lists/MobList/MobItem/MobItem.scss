@@ -1,0 +1,248 @@
+.MobItem {
+    @include flex(sb, c, row);
+    position: relative;
+    background-color: var(--color-lightGray);
+    margin: 2px 0;
+    min-height: 40px;
+    max-height: 104px;
+    border-radius: 4px 0 0 4px;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+    font-family: 'Poppins', sans-serif;
+    opacity: 0;
+    transform: scale(0);
+
+
+    @include breakpoint-down("small") {
+        @include flex(i, c, row);
+    }
+
+    &__content {
+        position: relative;
+        @include flex(i, c, row);
+        cursor: pointer;
+        text-decoration: none;
+        color: black;
+        box-sizing: border-box;
+
+    }
+
+    &__content:hover>&__name {
+        color: rgb(65, 47, 27);
+        padding: 0 5px;
+        transition: .15s all;
+        font-weight: 600;
+
+        @include breakpoint-down("mobile") {
+            padding: 0;
+            font-weight: 400;
+        }
+    }
+
+    &__content:hover>*>img {
+        filter: drop-shadow(0 0 3px rgb(112, 164, 241));
+    }
+
+    &__button {
+        background: none;
+        border: none;
+    }
+
+    &__icon {
+        position: relative;
+        display: block;
+        height: 100%;
+
+    }
+
+    &__icon-wrapper {
+        @include flex(c, c, row);
+        position: relative;
+        padding: 4px 12px;
+        background-color: rgba(48, 47, 47, 0.788);
+        background: linear-gradient(270deg, rgb(65, 84, 97) 29%, rgba(55, 55, 55, 1) 84%);
+        border-radius: 4px 0 0 4px;
+        min-height: 40px;
+        margin-right: 10px;
+        border-left: 4px solid rgb(51, 133, 255);
+        border-right: 1px solid rgb(46, 36, 36);
+
+        @include breakpoint-down("tiny") {
+            padding: 4px 4px;
+            margin-right: 5px;
+            border-left: 1px solid rgb(46, 36, 36);
+            border-radius: 0px;
+        }
+    }
+
+    &__stats {
+        @include flex(sb, c, row);
+        position: absolute;
+        left: 370px;
+        width: 100px;
+
+        @include breakpoint-down("small") {
+            left: unset;
+            right: 110px;
+            width: 80px;
+        }
+
+        @include breakpoint-down("tiny") {
+            @include flex(sa, c, row);
+            right: fluid-size(360px, 840px, 57px, 90px);
+            width: 50px;
+        }
+    }
+
+    &__amount {
+        text-align: center;
+        display: inline-block;
+    }
+
+    &__button-wrapper {
+        @include flex(se, c, row);
+        background-color: white;
+        height: 100%;
+        right: 0;
+        min-height: 40px;
+        min-width: 75px;
+        border-left: 2px solid var(--color-disabledGray);
+        padding-left: 2px;
+        position: absolute;
+
+        @include breakpoint-down("tiny") {
+            min-width: 35px;
+            padding: 0 8px;
+        }
+    }
+
+    &__button-icon {
+        display: block;
+        height: 100%;
+        cursor: pointer;
+
+        @include breakpoint-down("tiny") {
+            width: 16px;
+        }
+    }
+
+    &__button:hover {
+        filter: invert(80%) sepia(29%) saturate(1416%) hue-rotate(344deg) brightness(102%) contrast(98%);
+        filter: invert(35%) sepia(28%) saturate(6112%) hue-rotate(194deg) brightness(92%) contrast(84%);
+    }
+
+    &__button-icon--delete {
+
+        margin-left: 8px;
+
+        @include breakpoint-down("tiny") {
+            margin-left: 8px;
+        }
+    }
+
+    &__button-wrapper::before {
+        content: "";
+        position: absolute;
+        width: 1px;
+        height: 20px;
+        background-color: var(--color-lightGray);
+        left: 50%;
+        top: 25;
+
+        @include breakpoint-down("tiny") {
+            display: none;
+        }
+    }
+
+    &__button--finish-edit {
+        background-color: var(--color-gray);
+        position: absolute;
+        right: -27px;
+        width: 25px;
+        padding: 4px 6px;
+        color: white;
+        border-radius: 5px;
+        border: none;
+        cursor: pointer;
+        transition: .3s;
+        font-size: 10px;
+        margin-top: 1px;
+
+        @include breakpoint-down("small") {
+            top: 30px;
+            right: 15px;
+            width: 100px;
+            border-radius: 0px;
+        }
+
+        @include breakpoint-down("tiny") {
+            top: 15px;
+            right: 37px;
+            width: 54px;
+            padding: 2px 6px;
+            border-radius: 0px;
+        }
+    }
+
+    &__button--finish-edit:hover {
+        background-color: var(--color-enabledGray);
+    }
+
+    &__input {
+        height: 25px;
+        border-radius: 3px;
+        border: none;
+        padding-left: 7px;
+        padding-top: 2px;
+        width: 50px;
+
+        @include breakpoint-down("tiny") {
+            height: 14px;
+            padding-top: 0;
+            padding-left: 2px;
+            border-radius: 0px;
+            width: 25px;
+        }
+    }
+
+    &__input:focus {
+        outline: none;
+    }
+
+    &__input--name {
+        width: 165px;
+    }
+
+    &__input--amount {
+        margin-left: 12px;
+    }
+
+    &__input--chance {
+        margin-left: 3px;
+    }
+
+    &__form {
+        @include flex (sa, c, row);
+        width: 140px;
+        margin-right: 20px;
+        position: absolute;
+        left: 340px;
+
+        @include breakpoint-down("small") {
+            @include flex (c, sa, row);
+            left: unset;
+            right: 70px;
+            top: 50%;
+            transform: translateY(-100%);
+        }
+
+        @include breakpoint-down("tiny") {
+            right: 15px;
+        }
+
+        @include breakpoint-down("mobile") {
+            right: 5px;
+            top: calc(50% - 1px)
+        }
+    }
+
+}

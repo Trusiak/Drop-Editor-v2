@@ -1,0 +1,85 @@
+.AddMobItem{
+    @include flex(sa,i,row);
+    position: relative;
+     background-color: #414141;
+    box-shadow: 0px 20px 0px 0px #414141;
+    border-radius: 0px 0px 10px 10px ;
+    margin-bottom: 10px;
+    z-index: 6;
+    padding: 0 35px;
+    padding-bottom: 5px;
+    transform: translateY(-50px);
+    opacity: 0;
+
+    @include breakpoint-down("small"){
+        @include flex(sa,i,column);
+    }
+
+    @include breakpoint-down("tiny"){
+        background-color: var(--color-halfGray);
+        box-shadow: 0px 20px 0px 0px var(--color-halfGray);
+        padding: 0 14px 5px 14px;
+    }
+    @include breakpoint-down("mobile"){
+        padding: 0 12px 5px 12px;
+    }
+
+    &__input-wrapper{
+        @include flex(sb, i, row);
+        width: 460px;
+    
+        @include breakpoint-down("small"){
+            width: 100%;
+        }
+    }
+    &__input{
+        position: relative;
+        border: none;
+        padding: 12px 10px;
+        height: 32px;
+        border-radius: 2px;
+        width: 75px;
+        top: 15px;
+    
+        @include breakpoint-down("small"){
+            margin-left: 20px;
+            width: 15%;
+        }
+    
+        @include breakpoint-down("tiny"){
+            margin-left: 5px;
+            width: 15%;
+            padding: 12px 5px;
+        }
+    }
+    &__input:focus{
+        outline: none;
+        box-shadow: 0px 0px 1px 2px var(--color-enabledGray);
+    }
+    &__input-db{
+        position: relative !important;
+    }
+    &__button{
+        font-family: 'Poppins', sans-serif;
+        font-weight: 500;
+        transition: .3s;
+        position: relative;
+        top: 14px;
+        padding: 0 20px;
+        background-color: var(--color-enabledGray);
+        background-image: linear-gradient(90deg,  #226bd8 0%, rgba(16, 70, 150, 0.795) 90%);
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        height: 32px;
+    
+        @include breakpoint-down("small"){
+            margin-top: 5px;
+        }
+    }
+    &__button:hover{
+        box-shadow: 0px 0px 2px 1px rgb(78, 186, 248);
+    }
+}
+

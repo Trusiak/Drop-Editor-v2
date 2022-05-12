@@ -1,0 +1,31 @@
+.Search{
+    width: 200px;
+    position: relative;
+    &__input{
+        background-color: var(--color-gray);
+        color: var(--color-lightGray);
+        width: 200px;
+        height: 40px;
+        border-radius: 40px;
+        padding-left: 42px;
+        padding-right: 20px;
+        border: none;
+        font-size: 16px;
+        transition: .3s;
+    }
+    &__input:focus{
+        border: none;
+        outline: none;
+        width: 250px;
+    }
+    &__input::placeholder{
+        font-size: 12px;
+    }
+    &__icon{
+        position: absolute;
+        display: block;
+        left: 15px;
+        top: 10px;
+        
+    }
+}

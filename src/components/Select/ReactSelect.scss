@@ -1,0 +1,55 @@
+@mixin react-select{
+    width: 250px;
+    height: 20px;
+    margin-top: 15px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+
+    &__control{ 
+        min-height: 32px !important;
+        height: 32px;
+        border-color: none;
+    }
+    &__control--is-focused,
+    &__control--menu-is-open{
+        box-shadow: 0px 0px 2px 1px var(--color-enabledGray) !important;
+        border-color: var(--color-enabledGray) !important;
+    }
+    &__value-container{
+        padding: 0 !important;
+    }
+
+    &__single-value{
+        padding-left: 10px !important;
+    }
+
+    &__placeholder{
+        padding-left: 10px;
+    }
+    &__indicator {
+        padding: 5px !important;
+    }
+}
+
+.MobListSelect{
+   @include react-select;
+
+    &__menu{
+        margin-top: 0px !important;
+        font-size: 12px;
+    }
+}
+
+.AddMobListSelect{
+    @include react-select;
+    margin-top: 0px;
+    transition: .4s all !important;
+ 
+     &__menu{
+         margin-top: 12px !important;
+     }
+
+     @include breakpoint-down("tiny"){
+        width: 100%;
+    }
+ }

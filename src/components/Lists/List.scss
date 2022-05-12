@@ -1,0 +1,5 @@
+.List{
+   margin-bottom: 50px;
+   @include flex(i,c, column);
+   min-height: calc(100vh - 400px);
+}

@@ -1,0 +1,40 @@
+.Footer{
+    @include flex(sa,c,row);
+    position: relative;
+    min-height: 100px;
+    width: 100%;
+    background-color: #3a3838;
+    box-shadow: 0px -1px 1px rgba(0, 0, 0, 0.25);
+    color: #bbbaba;
+    padding: 0 50px;
+
+    @include breakpoint-down("medium"){
+        @include flex(sa, c, column);
+        min-height: 190px;
+    }
+    @include breakpoint-down("mobile"){
+        min-height: 250px;
+    }
+    
+    &__list{
+        @include flex(sa,c, row);
+        list-style-type: none;
+        flex-grow: 1;
+
+        @include breakpoint-down("mobile"){
+            @include flex(sa,c, column);
+        }
+    }
+
+    &__rights {
+        text-align: center;
+    }
+
+    &__item{
+        padding: 0 10px;
+        @include breakpoint-down("mobile"){
+            margin-bottom: 10px;
+        }
+    }
+    
+}

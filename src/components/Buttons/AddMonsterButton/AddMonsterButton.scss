@@ -1,0 +1,61 @@
+.AddMonsterButton{
+        font-family: 'Poppins', sans-serif;
+        font-weight: 500;
+        transition: .3s;
+        position: relative;
+        margin-top: 11px;
+        width: 110px;
+        padding: 10px 0px 10px 20px;
+        background-color: var(--color-disabledGray);
+        background-image: linear-gradient(90deg,  #226bd8 0%, rgba(16, 70, 150, 0.795) 90%);
+        color: white;
+        border: none;
+        cursor: pointer;
+        height: 32px;
+        @include flex(se,c, row);
+        border-radius: 23px 23px 10px 23px;
+
+        @include breakpoint-down("tiny"){
+            width: 100%;
+            margin-top: 8px;
+            border-radius: 0px;
+        }
+    &:before{
+        width: 37px;
+        height: 32px;
+        border-radius: 25px;
+        position: absolute;
+        content: "";
+        left: 0px;
+        top: 0px;
+        background-color: rgb(255, 255, 255);
+        box-shadow: 0px 0px 6px 3px rgba(0, 0, 0, 0.24);
+        @include breakpoint-down("tiny"){
+            display: none;
+        }
+    }
+    &:hover{
+        background-color: #545c63;
+        box-shadow: 0px 0px 2px 1px rgb(78, 186, 248);
+        background-color: #114e83;
+    }
+    &:hover > &__icon {
+        transform: rotate(90deg) scale(1.3);
+    }
+    &:hover > &:before{ 
+        background-color: red;
+    }
+    &__icon {
+        display: block;
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        left: 8px;
+        transition: .3s;
+
+        @include breakpoint-down("tiny"){
+            display: none;
+        }
+    }
+
+}

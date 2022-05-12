@@ -1,0 +1,63 @@
+.Menu{
+    height: 100%;
+
+    &__list{
+        @include flex(c,c,row);
+        list-style: none;
+        height: 100%;
+        position: relative;
+
+        @include breakpoint-down("tiny"){
+            transform: translateX(-700px);
+            @include flex(sa,c,row);
+            position: absolute;
+            top: 111px;
+            left: 0;
+            z-index: 9;
+            width: 100%;
+        }
+        @include breakpoint-down("mobile"){
+            @include flex(sa,c,column);
+            position: absolute;
+            top: 160px;
+            left: 0;
+            z-index: 9;
+        }
+    }
+    &__items-container{
+        position: relative;
+        @include flex(sa, c, row);
+        flex-grow: 1;
+        @include breakpoint-down("mobile"){
+            width: 100%;
+            margin: 10px 0;
+        }
+    }
+    &__items-container::before{
+        @include breakpoint-down("tiny"){
+            background-color: rgb(65, 62, 60);
+            position: absolute;
+            content: "";
+             width: 100%;
+             height: 100%;
+            padding: 20px;
+            z-index: 3;
+        }
+        @include breakpoint-down("mobile"){
+            padding: 14px 20px;
+        }
+    }
+    &__item{
+        @include flex(c,c,column);
+        border-left: 1px solid black;
+        z-index: 4;
+        width: 100px;
+        height: 100%;
+    }
+    &__icon{
+        width: 64px;
+        height: 64px;
+        display: block;
+    }
+  
+}
