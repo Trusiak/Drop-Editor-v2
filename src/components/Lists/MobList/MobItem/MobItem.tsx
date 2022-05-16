@@ -5,25 +5,26 @@ import { ItemInMob } from '../../../../types/interfaces/ItemInMob';
 import { ItemName } from '../../../../types/interfaces/ItemName';
 import { GlobalContext } from "../../../../context/GlobalState";
 import { Link } from 'react-router-dom'
-import { convertItemId } from "../../../../helpers/itemIdConverter"
 import { removeElementAnimation, createListElementAnimation } from "../../../../helpers/animations";
-import { removeIdFromName } from "../../../../helpers/idRemover"
+import { removeIdFromName } from "../../../../helpers/idRemover";
+import { useItemName } from "../../../../helpers/useItemName";
+import MobItemIcon from "./MobItemIcon/MobItemIcon";
 
 interface MobItemProps {
     item: ItemInMob,
     mob: number
 }
-const MobItem: React.FC<MobItemProps> = ({item, mob}) => {
+const MobItem: React.FC<MobItemProps> = React.memo(({item, mob}) => {
 
-    const {deleteItem, itemNames } = useContext(GlobalContext) as any;
+    const {deleteItem } = useContext(GlobalContext) as any;
     const [edit, setEdit] = useState(false);
-    const itemName = getItemName(item.id);
+    const itemName = useItemName(item.id);
     const mobItem = useRef(null);
 
     const handleDeleteItem = () => {
         removeElementAnimation(mobItem.current, ()=> deleteItem({
             id: item.id,
-            count: item.count,
+            amount: item.amount,
             chance: item.chance,
         } as ItemInMob, mob))
     }
@@ -31,11 +32,7 @@ const MobItem: React.FC<MobItemProps> = ({item, mob}) => {
     const handleEdit = () => {
         setEdit((toggle) => !toggle)
     }
-    function getItemName(value: number) {
-        let itemName = itemNames.find((item: ItemName) => item.value === value).label
-        return removeIdFromName(itemName)
-    }
-
+    
     useLayoutEffect(()=>{
         createListElementAnimation(mobItem.current);
     }, [])
@@ -43,10 +40,8 @@ const MobItem: React.FC<MobItemProps> = ({item, mob}) => {
     return (
         <li ref={mobItem} className="MobItem">
             <Link className="MobItem__content" to={`/items/${item.id}`}>
-            <div className="MobItem__icon-wrapper">
-                <img className="MobItem__icon"  src={`https://m2icondb.com/img/${convertItemId(item.id, itemName)}.png`} onError={(e: any)=>{e.target.onerror = null; e.target.src="/images/unknown-icon.png"}} /* src={`/${item.id}.png`} */ alt=" "/>
-            </div>
-            <h4 className="MobItem__name">{itemName}</h4> 
+                <MobItemIcon itemName={itemName} itemId={item.id} />
+                <h4 className="MobItem__name">{itemName}</h4> 
             </Link>
                 { edit ? (
                     <MobItemContentEdit stopEditing={()=>handleEdit()} edit={edit} mob={mob} item={item}/>
@@ -64,7 +59,7 @@ const MobItem: React.FC<MobItemProps> = ({item, mob}) => {
             </div>
         </li>
     );
-};
+});
 
 interface MobItemContentEditProps {
     item: ItemInMob,
@@ -77,7 +72,7 @@ const MobItemContentEdit: React.FC<MobItemContentEditProps> = ({edit, item, stop
 
     const { editItem } = useContext(GlobalContext) as any;
     const inputRef = useRef(null!) as React.MutableRefObject<HTMLInputElement>;;
-    const [amountInputValue, setAmountInputValue] = useState(item.count);
+    const [amountInputValue, setAmountInputValue] = useState(item.amount);
     const [chanceInputValue, setChanceInputValue] = useState(item.chance);
 
     useEffect(() => {
@@ -90,7 +85,7 @@ const MobItemContentEdit: React.FC<MobItemContentEditProps> = ({edit, item, stop
         stopEditing();
         editItem({
             id: item.id,
-            count: Number(amountInputValue),
+            amount: Number(amountInputValue),
             chance: Number(chanceInputValue)
         }, item, mob)
     }
@@ -133,7 +128,7 @@ const MobItemContentEdit: React.FC<MobItemContentEditProps> = ({edit, item, stop
 const MobItemContent = ({item} : any) => {
     return (
         <div className="MobItem__stats">
-            <p className="MobItem__amount">{item.count}x</p> 
+            <p className="MobItem__amount">{item.amount}x</p> 
             <p className="MobItem__chance">{item.chance}%</p>
         </div>
     );

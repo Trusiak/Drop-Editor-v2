@@ -24,9 +24,9 @@ interface AddMobItemProps {
 
         addItem({
             id: chosenItem.value,
-            count: parseInt(chosenItemAmount),
+            amount: parseInt(chosenItemAmount),
             chance: parseFloat(chosenItemChance)
-        } as ItemInMob, mobId)
+        }, mobId)
 
         setChosenItemAmount('')
         setChosenItemChance('')

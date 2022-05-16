@@ -23,7 +23,7 @@ const ItemList: React.FC<ItemListProps> = ({match}) => {
             items.forEach((item: ItemInMob) => p.push(
                 {
                     id: n.mob, 
-                    count: item.count,
+                    amount: item.amount,
                     chance: item.chance
                 }));
         }
@@ -32,7 +32,14 @@ const ItemList: React.FC<ItemListProps> = ({match}) => {
     },[])
 
     const getItemName = (value: number) => {
-        return itemNames.find((item: ItemName) => item.value === value).label
+        let getItem;
+        try{
+            getItem = itemNames.find((item: ItemName) => item.value === value).label
+        }
+        catch(e){
+            return `Przedmiot Nieznany (${value})`
+        }
+        return getItem;
     }
     
     const renderMobs = mobList.map((mob: MobInItem, index: number) => {

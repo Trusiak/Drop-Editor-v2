@@ -18,49 +18,49 @@ import AppReducer from './AppReducer';
         "items": [
           {
             "id": 25040,
-            "count": 1,
+            "amount": 1,
             "chance": 20
           },
           {
             "id": 50513,
-            "count": 1,
+            "amount": 1,
             "chance": 1
           },
           {
             "id": 13087,
-            "count": 1,
+            "amount": 1,
             "chance": 1
           },
           {
             "id": 14221,
-            "count": 1,
+            "amount": 1,
             "chance": 1
           },
           {
             "id": 12396,
-            "count": 1,
+            "amount": 1,
             "chance": 1
           },
           {
             "id": 71045,
-            "count": 1,
+            "amount": 1,
             "chance": 3
           },
           {
             "id": 71044,
-            "count": 1,
+            "amount": 1,
             "chance": 1
           },
           {
             "oneOf": [
               {
                 "id": 30031,
-                "count": 1,
+                "amount": 1,
                 "chance": 30
               },
               {
                 "id": 30031,
-                "count": 2,
+                "amount": 2,
                 "chance": 70
               }
             ],
@@ -85,24 +85,24 @@ import AppReducer from './AppReducer';
         "items": [
           {
             "id": 3079,
-            "count": 1,
+            "amount": 1,
             "chance": 1
           },
           {
             "id": 25040,
-            "count": 5,
+            "amount": 5,
             "chance": 33
           },
           {
             "oneOf": [
               {
                 "id": 30031,
-                "count": 1,
+                "amount": 1,
                 "chance": 30
               },
               {
                 "id": 30031,
-                "count": 2,
+                "amount": 2,
                 "chance": 70
               }
             ],
@@ -126,17 +126,17 @@ import AppReducer from './AppReducer';
         "items": [
           {
             "id": 30061,
-            "count": 1,
+            "amount": 1,
             "chance": 1
           },
           {
             "id": 25040,
-            "count": 12,
+            "amount": 12,
             "chance": 1
           },
           {
             "id": 30019,
-            "count": 5,
+            "amount": 5,
             "chance": 0.3
           },
       
@@ -157,22 +157,22 @@ import AppReducer from './AppReducer';
         "items": [
           {
             "id": 50050,
-            "count": 1,
+            "amount": 1,
             "chance": 1
           },
           {
             "id": 11299,
-            "count": 1,
+            "amount": 1,
             "chance": 0.05
           },
           {
             "id": 50513,
-            "count": 1,
+            "amount": 1,
             "chance": 0.3
           },
           {
             "id": 50114,
-            "count": 1,
+            "amount": 1,
             "chance": 35
           }
         ],
@@ -193,34 +193,34 @@ import AppReducer from './AppReducer';
         "items": [
           {
             "id": 283,
-            "count": 1,
+            "amount": 1,
             "chance": 1
           },
           {
             "id": 50513,
-            "count": 1,
+            "amount": 1,
             "chance": 1
           },
           {
             "id": 71032,
-            "count": 1,
+            "amount": 1,
             "chance": 1
           },
           {
             "id": 25040,
-            "count": 1,
+            "amount": 1,
             "chance": 1
           },
           {
             "oneOf": [
               {
                 "id": 30034,
-                "count": 1,
+                "amount": 1,
                 "chance": 30
               },
               {
                 "id": 30035,
-                "count": 2,
+                "amount": 2,
                 "chance": 70
               }
             ],
