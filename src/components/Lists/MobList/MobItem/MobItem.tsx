@@ -2,11 +2,9 @@ import React, {useContext, useState, useEffect, useRef, useLayoutEffect} from 'r
 import deleteIcon from "../../../../img/icon-delete.svg"
 import editIcon from "../../../../img/icon-edit.svg"
 import { ItemInMob } from '../../../../types/interfaces/ItemInMob';
-import { ItemName } from '../../../../types/interfaces/ItemName';
 import { GlobalContext } from "../../../../context/GlobalState";
 import { Link } from 'react-router-dom'
 import { removeElementAnimation, createListElementAnimation } from "../../../../helpers/animations";
-import { removeIdFromName } from "../../../../helpers/idRemover";
 import { useItemName } from "../../../../helpers/useItemName";
 import MobItemIcon from "./MobItemIcon/MobItemIcon";
 

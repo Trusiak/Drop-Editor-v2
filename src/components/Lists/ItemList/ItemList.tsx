@@ -5,7 +5,7 @@ import { convertItemId } from "../../../helpers/itemIdConverter";
 import { createListAnimation } from "../../../helpers/animations";
 import { MobInItem } from "../../../types/interfaces/MobInItem";
 import { ItemInMob } from "../../../types/interfaces/ItemInMob";
-import { ItemName } from "../../../types/interfaces/ItemName";
+import { useItemName } from "../../../helpers/useItemName";
 
 interface ItemListProps {
     match: {params: {id: string}}
@@ -13,7 +13,7 @@ interface ItemListProps {
 
 const ItemList: React.FC<ItemListProps> = ({match}) => {
 
-    const {itemNames, dropList } = useContext(GlobalContext);
+    const { dropList } = useContext(GlobalContext);
     const itemID = parseInt(match.params.id);
     const itemList = useRef(null);
 
@@ -27,21 +27,9 @@ const ItemList: React.FC<ItemListProps> = ({match}) => {
                     chance: item.chance
                 }));
         }
-               
         return p
     },[])
 
-    const getItemName = (value: number) => {
-        let getItem;
-        try{
-            getItem = itemNames.find((item: ItemName) => item.value === value).label
-        }
-        catch(e){
-            return `Przedmiot Nieznany (${value})`
-        }
-        return getItem;
-    }
-    
     const renderMobs = mobList.map((mob: MobInItem, index: number) => {
         return <ItemMob mobData={mob} key={index}/>
     }) 
@@ -54,9 +42,9 @@ const ItemList: React.FC<ItemListProps> = ({match}) => {
         <section ref={itemList} className="ItemList">
             <header className="ItemList__header">
                 <div className="ItemList__image-container">
-                    <img className="ItemList__image" src={`https://m2icondb.com/img/${convertItemId(itemID, getItemName(itemID))}.png`} alt="ikona itemu" /* src={`${itemID}.png`} */></img>
+                    <img className="ItemList__image" src={`https://m2icondb.com/img/${convertItemId(itemID, useItemName(itemID))}.png`} alt="ikona itemu"></img>
                 </div>
-                <h2 className="ItemList__title">{getItemName(itemID)} </h2>
+                <h2 className="ItemList__title">{useItemName(itemID)} </h2>
             </header>
             <ul className="ItemList__list">
                 {renderMobs}

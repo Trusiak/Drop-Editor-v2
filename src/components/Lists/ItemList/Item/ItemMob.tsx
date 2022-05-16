@@ -1,37 +1,26 @@
-import React, {useContext, useRef, useLayoutEffect} from 'react';
-import { GlobalContext } from "../../../../context/GlobalState";
+import React, { useRef, useLayoutEffect} from 'react';
 import amountIcon from "../../../../img/icon-amount.svg";
 import chanceIcon from "../../../../img/icon-chance.svg";
-import { removeIdFromName } from "../../../../helpers/idRemover";
 import { createListElementAnimation } from "../../../../helpers/animations";
 import { ItemMobProps } from './ItemMob.interface';
-import { MobName } from '../../../../types/interfaces/MobName';
+import { useMobName } from '../../../../helpers/useMobName';
 import { HashLink } from 'react-router-hash-link';
 
+
 const ItemMob: React.FC<ItemMobProps> = ({mobData}) => {
-    const {mobNames } = useContext(GlobalContext) as any;
     const itemMob = useRef(null);
-    const getMobName = (value: number) => {
-        let mobName: string = "";
-        try{
-            mobName = mobNames.find((mob: MobName) => mob.value === value).label
-        }
-        catch(e){
-            return `Potwór nieznany`
-        }
-        
-        return removeIdFromName(mobName)
-    }
+
     useLayoutEffect(()=>{
         createListElementAnimation(itemMob.current)
     }, [])
+    
     return (
         <HashLink to={`/#${mobData.id}`} 
           ref={itemMob} 
           scroll={(el) => el.scrollIntoView({ behavior: 'auto', block: 'center' })}
           className="ItemMob">
                 <div className="ItemMob__text-content">
-                    <h3 className="ItemMob__mob-title">{getMobName(mobData.id)}</h3>
+                    <h3 className="ItemMob__mob-title">{useMobName(mobData.id)}</h3>
                     <p className="ItemMob__mob-id">({mobData.id})</p>
                 </div>
                 <div className="ItemMob__link">

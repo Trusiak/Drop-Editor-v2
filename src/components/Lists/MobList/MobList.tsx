@@ -1,13 +1,13 @@
-import React, {useState, useContext, useRef, useEffect, useLayoutEffect} from 'react';
+import React, {useState, useContext, useRef, useLayoutEffect} from 'react';
 import { ItemInMob } from '../../../types/interfaces/ItemInMob';
 import { LevelDrop } from '../../../types/interfaces/LevelDrop';
-import { MobName } from '../../../types/interfaces/MobName';
 import AddMobItem from "./MobItem/AddMobItem/AddMobItem";
 import addIcon from "../../../img/icon-add.svg";
 import removeIcon from "../../../img/icon-remove.svg";
 import MobItem from './MobItem/MobItem';
 import { GlobalContext } from '../../../context/GlobalState';
 import { createListAnimation, removeListAnimation } from "../../../helpers/animations"
+import { useMobName } from "../../../helpers/useMobName";
 
 interface MobListProps {
     id: number,
@@ -15,12 +15,13 @@ interface MobListProps {
     level: LevelDrop
 }
 
-
 const MobList: React.FC<MobListProps> = React.memo(({id, items, level}) => {
 
     const [isAddingNewItem, setIsAddingNewItem] = useState(false);
-    const { mobNames, deleteMob } = useContext(GlobalContext) as any;
+    const { deleteMob } = useContext(GlobalContext) as any;
     const mobList = useRef(null);
+
+    console.log("MobList has rendered")
 
     const mobItems = items
                         .filter(item => item.id)
@@ -32,17 +33,6 @@ const MobList: React.FC<MobListProps> = React.memo(({id, items, level}) => {
                         
     const handleAddItem = () => {
         setIsAddingNewItem((isAddingNewItem)=> !isAddingNewItem);
-    }
-
-    const getMobName = (value: number) => {
-        let tempMobNames;
-        try{
-            tempMobNames = mobNames.find((mob: MobName) => mob.value === value).label
-        }
-        catch(e){
-            return `Nieznany potwór (${value})`
-        }
-        return tempMobNames;
     }
 
     const handleDeleteMob = () => {
@@ -60,7 +50,7 @@ const MobList: React.FC<MobListProps> = React.memo(({id, items, level}) => {
                         <img src={`/mobs/${id}.png`} onError={(e: any)=>{e.target.onerror = null; e.target.src="/images/unknown-monster.png"}} className="MobList__image" alt="moblist icon"/>
                     </div>
                     <div className="MobList__title-containter">
-                        <h2 className="MobList__name">{getMobName(id)}</h2>
+                        <h2 className="MobList__name">{useMobName(id)}</h2>
                         <p className="MobList__level">[{level.min} - {level.max}] Lvl</p>
                     </div>
                     <button onClick={handleAddItem} className="MobList__actionButton MobList__actionButton--add">

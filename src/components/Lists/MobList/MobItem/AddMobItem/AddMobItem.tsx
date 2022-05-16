@@ -1,7 +1,6 @@
 import React, {useState, useContext, useRef, useEffect} from 'react';
 import { GlobalContext } from '../../../../../context/GlobalState';
 import ReactSelect from "../../../../Select/ReactSelect"
-import { ItemInMob } from '../../../../../types/interfaces/ItemInMob';
 import { createElementAnimation } from "../../../../../helpers/animations"
 
 interface AddMobItemProps {
