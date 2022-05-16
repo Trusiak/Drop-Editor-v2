@@ -40,7 +40,7 @@ const ItemMob: React.FC<ItemMobProps> = ({mobData}) => {
                 <div className="ItemMob__stats">
                     <div className="ItemMob__amount">
                         <img className="ItemMob__amount-icon"  alt="ikona ilosci" src={amountIcon}/>
-                        <p className="ItemMob__amount-text">{mobData.count}x</p>
+                        <p className="ItemMob__amount-text">{mobData.amount}x</p>
                     </div>
                     <div className="ItemMob__percent">
                         <img className="ItemMob__percent-icon"  alt="ikona procent" src={chanceIcon}/>

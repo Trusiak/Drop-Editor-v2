@@ -1,0 +1,27 @@
+.MobItemIcon {
+    &__icon{
+        position: relative;
+        display: block;
+        height: 100%;
+    }
+    
+    &__icon-wrapper {
+        @include flex(c, c, row);
+        position: relative;
+        padding: 4px 12px;
+        background-color: rgba(48, 47, 47, 0.788);
+        background: linear-gradient(270deg, rgb(65, 84, 97) 29%, rgba(55, 55, 55, 1) 84%);
+        border-radius: 4px 0 0 4px;
+        min-height: 40px;
+        margin-right: 10px;
+        border-left: 4px solid rgb(51, 133, 255);
+        border-right: 1px solid rgb(46, 36, 36);
+
+        @include breakpoint-down("tiny") {
+            padding: 4px 4px;
+            margin-right: 5px;
+            border-left: 1px solid rgb(46, 36, 36);
+            border-radius: 0px;
+        }
+    }
+}

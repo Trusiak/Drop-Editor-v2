@@ -31,7 +31,6 @@ function removeItemUpgradeSystemPostfix(id: any){
 }
 
 function checkIsStoneOfSoul(id: any){
-    if(id >= 28030 && id < 28443){
         if(id >= 28030 && id < 28044)
             id -= 30;
         else if (id >= 28130 && id < 28144)
@@ -44,9 +43,5 @@ function checkIsStoneOfSoul(id: any){
             id -= 430;
 
         return id
-    }
-    else {
-        return id
-    }
         
 }

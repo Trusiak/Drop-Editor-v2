@@ -1,4 +1,4 @@
-import React, {useState, useContext, useRef, useLayoutEffect} from 'react';
+import React, {useState, useContext, useRef, useEffect, useLayoutEffect} from 'react';
 import { ItemInMob } from '../../../types/interfaces/ItemInMob';
 import { LevelDrop } from '../../../types/interfaces/LevelDrop';
 import { MobName } from '../../../types/interfaces/MobName';
@@ -15,18 +15,21 @@ interface MobListProps {
     level: LevelDrop
 }
 
-const MobList: React.FC<MobListProps> = ({id, items, level}) => {
+
+const MobList: React.FC<MobListProps> = React.memo(({id, items, level}) => {
 
     const [isAddingNewItem, setIsAddingNewItem] = useState(false);
     const { mobNames, deleteMob } = useContext(GlobalContext) as any;
     const mobList = useRef(null);
 
     const mobItems = items
-        .filter(item => item.id)
-        .map((item, index)=>{
-            const key = item.id + (index * item.id + items.length);
-            return <MobItem key={key} mob={id} item={item}/>
-    })
+                        .filter(item => item.id)
+                        .map((item, index)=>
+                        {
+                            const key = item.id + (index * item.id + items.length);
+                            return <MobItem key={key} mob={id} item={item}/>
+                        })
+                        
     const handleAddItem = () => {
         setIsAddingNewItem((isAddingNewItem)=> !isAddingNewItem);
     }
@@ -39,7 +42,6 @@ const MobList: React.FC<MobListProps> = ({id, items, level}) => {
         catch(e){
             return `Nieznany potwór (${value})`
         }
-        
         return tempMobNames;
     }
 
@@ -74,6 +76,9 @@ const MobList: React.FC<MobListProps> = ({id, items, level}) => {
                 </ul>
             </section>
     );
-};
+}, (prevProps, nextProps) => { return (
+prevProps.items.length === nextProps.items.length &&
+prevProps.level.min === nextProps.level.min &&
+prevProps.level.max === nextProps.level.max)})
 
 export default MobList;

@@ -18,7 +18,7 @@ const List = () => {
     dropList
         .sort((a:Drop, b:Drop)=>a.mob-b.mob)
         .map((drop: Drop) => <MobList level={drop.level} items={drop.items} key={drop.mob} id={drop.mob}/>)
-    
+
     
     useEffect(() => {
       const fetchItemNames = fetch('/item_names.txt')
