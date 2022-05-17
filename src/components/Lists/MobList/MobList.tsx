@@ -40,6 +40,8 @@ const MobList: React.FC<MobListProps> = React.memo(({id, items, level}) => {
     useLayoutEffect(()=>{
         createListAnimation(mobList.current)
     }, [])
+
+    console.log("odświeżone")
         
     return (
             <section ref={mobList} className="MobList" id={`${id}`}>
@@ -65,7 +67,7 @@ const MobList: React.FC<MobListProps> = React.memo(({id, items, level}) => {
             </section>
     );
 }, (prevProps, nextProps) => { return (
-prevProps.items.length === nextProps.items.length &&
+prevProps.items=== nextProps.items &&
 prevProps.level.min === nextProps.level.min &&
 prevProps.level.max === nextProps.level.max)})
 
