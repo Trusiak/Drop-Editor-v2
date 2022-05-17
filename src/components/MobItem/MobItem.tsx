@@ -1,12 +1,13 @@
 import React, {useContext, useState, useEffect, useRef, useLayoutEffect} from 'react';
-import deleteIcon from "../../../../img/icon-delete.svg"
-import editIcon from "../../../../img/icon-edit.svg"
-import { ItemInMob } from '../../../../types/interfaces/ItemInMob';
-import { GlobalContext } from "../../../../context/GlobalState";
+import deleteIcon from "../../img/icon-delete.svg"
+import editIcon from "../../img/icon-edit.svg"
+import { ItemInMob } from '../../types/interfaces/ItemInMob';
+import { GlobalContext } from "../../context/GlobalState";
 import { Link } from 'react-router-dom'
-import { removeElementAnimation, createListElementAnimation } from "../../../../helpers/animations";
-import { useItemName } from "../../../../helpers/useItemName";
+import { removeElementAnimation, createListElementAnimation } from "../../helpers/animations";
+import { useItemName } from "../../helpers/useItemName";
 import MobItemIcon from "./MobItemIcon/MobItemIcon";
+import MobItemContentEdit from "../../components/MobItem/EditMobItem/EditMobItem";
 
 interface MobItemProps {
     item: ItemInMob,
@@ -38,7 +39,9 @@ const MobItem: React.FC<MobItemProps> = React.memo(({item, mob}) => {
     return (
         <li ref={mobItem} className="MobItem">
             <Link className="MobItem__content" to={`/items/${item.id}`}>
-                <MobItemIcon itemName={itemName} itemId={item.id} />
+                <div className="MobItem__icon-wrapper">
+                    <MobItemIcon itemName={itemName} itemId={item.id} />
+                </div>
                 <h4 className="MobItem__name">{itemName}</h4> 
             </Link>
                 { edit ? (
@@ -59,7 +62,7 @@ const MobItem: React.FC<MobItemProps> = React.memo(({item, mob}) => {
     );
 });
 
-interface MobItemContentEditProps {
+/* interface MobItemContentEditProps {
     item: ItemInMob,
     stopEditing: ()=> void,
     mob: number,
@@ -121,7 +124,7 @@ const MobItemContentEdit: React.FC<MobItemContentEditProps> = ({edit, item, stop
             <button className="MobItem__button--finish-edit" type="submit">OK</button>
         </form>
     );
-};
+}; */
 
 const MobItemContent = ({item} : any) => {
     return (

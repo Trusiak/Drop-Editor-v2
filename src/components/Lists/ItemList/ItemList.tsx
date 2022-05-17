@@ -1,11 +1,11 @@
 import React, {useContext, useLayoutEffect, useRef} from 'react';
 import { GlobalContext }  from "../../../context/GlobalState";
-import ItemMob from "./Item/ItemMob"
-import { convertItemId } from "../../../helpers/itemIdConverter";
+import ItemMob from "../../ItemMob/ItemMob"
 import { createListAnimation } from "../../../helpers/animations";
 import { MobInItem } from "../../../types/interfaces/MobInItem";
 import { ItemInMob } from "../../../types/interfaces/ItemInMob";
 import { useItemName } from "../../../helpers/useItemName";
+import MobItemIcon from '../../MobItem/MobItemIcon/MobItemIcon';
 
 interface ItemListProps {
     match: {params: {id: string}}
@@ -15,6 +15,7 @@ const ItemList: React.FC<ItemListProps> = ({match}) => {
 
     const { dropList } = useContext(GlobalContext);
     const itemID = parseInt(match.params.id);
+    const itemName = useItemName(itemID);
     const itemList = useRef(null);
 
     const mobList = dropList.reduce((p,n)=>{
@@ -42,9 +43,9 @@ const ItemList: React.FC<ItemListProps> = ({match}) => {
         <section ref={itemList} className="ItemList">
             <header className="ItemList__header">
                 <div className="ItemList__image-container">
-                    <img className="ItemList__image" src={`https://m2icondb.com/img/${convertItemId(itemID, useItemName(itemID))}.png`} alt="ikona itemu"></img>
+                    <MobItemIcon itemId={itemID} itemName={itemName}/>
                 </div>
-                <h2 className="ItemList__title">{useItemName(itemID)} </h2>
+                <h2 className="ItemList__title">{itemName} </h2>
             </header>
             <ul className="ItemList__list">
                 {renderMobs}

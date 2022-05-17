@@ -1,10 +1,10 @@
 import React, {useState, useContext, useRef, useLayoutEffect} from 'react';
 import { ItemInMob } from '../../../types/interfaces/ItemInMob';
 import { LevelDrop } from '../../../types/interfaces/LevelDrop';
-import AddMobItem from "./MobItem/AddMobItem/AddMobItem";
+import AddMobItem from "../../MobItem/AddMobItem/AddMobItem";
 import addIcon from "../../../img/icon-add.svg";
 import removeIcon from "../../../img/icon-remove.svg";
-import MobItem from './MobItem/MobItem';
+import MobItem from '../../MobItem/MobItem';
 import { GlobalContext } from '../../../context/GlobalState';
 import { createListAnimation, removeListAnimation } from "../../../helpers/animations"
 import { useMobName } from "../../../helpers/useMobName";
@@ -20,8 +20,6 @@ const MobList: React.FC<MobListProps> = React.memo(({id, items, level}) => {
     const [isAddingNewItem, setIsAddingNewItem] = useState(false);
     const { deleteMob } = useContext(GlobalContext) as any;
     const mobList = useRef(null);
-
-    console.log("MobList has rendered")
 
     const mobItems = items
                         .filter(item => item.id)

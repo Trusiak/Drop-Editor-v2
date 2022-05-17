@@ -1,7 +1,7 @@
 import React, {useState, useContext, useRef, useEffect} from 'react';
-import { GlobalContext } from '../../../../../context/GlobalState';
-import ReactSelect from "../../../../Select/ReactSelect"
-import { createElementAnimation } from "../../../../../helpers/animations"
+import { GlobalContext } from '../../../context/GlobalState';
+import ReactSelect from "../../Select/ReactSelect"
+import { createElementAnimation } from "../../../helpers/animations"
 
 interface AddMobItemProps {
     isAddingNewItem: boolean,

@@ -1,9 +1,9 @@
 import React, { useRef, useLayoutEffect} from 'react';
-import amountIcon from "../../../../img/icon-amount.svg";
-import chanceIcon from "../../../../img/icon-chance.svg";
-import { createListElementAnimation } from "../../../../helpers/animations";
+import amountIcon from "../../img/icon-amount.svg";
+import chanceIcon from "../../img/icon-chance.svg";
+import { createListElementAnimation } from "../../helpers/animations";
 import { ItemMobProps } from './ItemMob.interface';
-import { useMobName } from '../../../../helpers/useMobName';
+import { useMobName } from '../../helpers/useMobName';
 import { HashLink } from 'react-router-hash-link';
 
 

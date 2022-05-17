@@ -1,3 +1,5 @@
+//Item names and mob names converter
+
 export function convertTextData(data: any, type: any){
   const textNames =
     data

@@ -312,6 +312,7 @@ export const GlobalProvider = ({children}) => {
     }
 
     function editItem(updatedItem: any, item: any, mob: any){
+      console.log(updatedItem, item, mob)
        dispatch({
           type: 'EDIT_ITEM_FROM_MOB',
           payload: {updatedItem, item, mob}

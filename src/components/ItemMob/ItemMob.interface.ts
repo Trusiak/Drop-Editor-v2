@@ -1,4 +1,4 @@
-import { MobInItem } from "../../../../types/interfaces/MobInItem";
+import { MobInItem } from "../../types/interfaces/MobInItem";
 
 export interface ItemMobProps {
      /** Mob in item */
