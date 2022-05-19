@@ -16,6 +16,7 @@ export const convertMobDroptoJSON = (mobDrop: any) => {
                     tempResult.push({mob: parseInt(actualMob), item: {id: parseInt(itemTab[1]), amount: parseInt(itemTab[2]), chance: parseFloat(itemTab[3])}})
                 }
             })
+        console.log(tempResult)
 
     const finalResult = tempResult
                         .reduce((p,n)=>{

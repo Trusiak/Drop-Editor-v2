@@ -1,6 +1,7 @@
 import React, {useContext} from 'react';
 import downloadIcon from "../../../img/icon-download.svg";
 import { GlobalContext } from "../../../context/GlobalState";
+import jsonToMobDropConverter from '../../../helpers/jsonToMobDropConverter';
 
 const DownloadDrop = () => {
     const  { dropList } = useContext(GlobalContext);
@@ -12,10 +13,12 @@ const DownloadDrop = () => {
     }
 
     const viewDropInNewTab = () => {
-        const newTab = window.open();
-        newTab!.document.open();
-        newTab!.document.write('<html><body><pre>' + dropToJSON + '</pre></body></html>');
-        newTab!.document.close();
+        /* const newTab = window.open(); */
+        jsonToMobDropConverter(dropList);
+        
+      /*   newTab!.document.open();
+        newTab!.document.write('<html><body><pre>' + test + '</pre></body></html>');
+        newTab!.document.close(); */
     }
 
     const saveDropToLocalStorage = () => {

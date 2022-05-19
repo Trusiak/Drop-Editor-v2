@@ -51,22 +51,6 @@ import AppReducer from './AppReducer';
             "amount": 1,
             "chance": 1
           },
-          {
-            "oneOf": [
-              {
-                "id": 30031,
-                "amount": 1,
-                "chance": 30
-              },
-              {
-                "id": 30031,
-                "amount": 2,
-                "chance": 70
-              }
-            ],
-            "hide_wiki": true,
-            "chance": 15
-          }
         ],
         "gold": 
           {
@@ -93,21 +77,6 @@ import AppReducer from './AppReducer';
             "amount": 5,
             "chance": 33
           },
-          {
-            "oneOf": [
-              {
-                "id": 30031,
-                "amount": 1,
-                "chance": 30
-              },
-              {
-                "id": 30031,
-                "amount": 2,
-                "chance": 70
-              }
-            ],
-            "chance": 15
-          }
         ],
         "gold": 
           {
@@ -211,21 +180,6 @@ import AppReducer from './AppReducer';
             "amount": 1,
             "chance": 1
           },
-          {
-            "oneOf": [
-              {
-                "id": 30034,
-                "amount": 1,
-                "chance": 30
-              },
-              {
-                "id": 30035,
-                "amount": 2,
-                "chance": 70
-              }
-            ],
-            "chance": 15
-          }
         ],
         "gold": 
           {
