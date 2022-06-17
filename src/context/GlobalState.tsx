@@ -1,5 +1,6 @@
 // @ts-nocheck
 import React, { createContext, useReducer } from 'react';
+import { ItemInMob } from '../types/interfaces/ItemInMob';
 import AppReducer from './AppReducer';
 
  const initialState = {
@@ -8,6 +9,7 @@ import AppReducer from './AppReducer';
     itemNames: [],
     mobNames: [],
     firstRun: false,
+    firstRenderMobList: true,
     dropList: JSON.parse(localStorage.getItem("drop"))  || [
       {
         "mob": 101,
@@ -190,7 +192,9 @@ import AppReducer from './AppReducer';
         
       }
     ],
-    isHamburgerOpen: false
+    dropListCopy: [],
+    kurnik: [],
+    isHamburgerOpen: false,
 } 
 
 interface IinitialState {
@@ -199,8 +203,11 @@ interface IinitialState {
   itemNames: ItemName[],
   mobNames: MobName[],
   dropList: Drop[],
+  dropListCopy: Drop[],
   isHamburgerOpen: boolean,
-  firstRun: boolean
+  firstRun: boolean,
+  firstRenderMobList: boolean,
+  kurnik: any[]
 }
 
 export const GlobalContext = createContext<IinitialState>(initialState);
@@ -208,6 +215,13 @@ export const GlobalContext = createContext<IinitialState>(initialState);
 // @ts-ignore
 export const GlobalProvider = ({children}) => {
     const [state, dispatch] = useReducer(AppReducer, initialState);
+
+    function changeJajko(jajko){
+      dispatch({
+          type: 'CHANGE_JAJKO',
+          payload: jajko
+      });
+    }
 
     function addDrop(drop: any){
       dispatch({
@@ -234,6 +248,19 @@ export const GlobalProvider = ({children}) => {
       dispatch({
           type: 'ADD_MOB_TO_DROP',
           payload: mob
+      });
+    }
+
+    function createDeepDropCopy(){
+      dispatch({
+          type: 'CREATE_DEEP_DROP_COPY'
+      });
+    }
+
+    function updateDeepDropCopy(mobId: number){
+      dispatch({
+          type: 'UPDATE_DEEP_DROP_COPY',
+          payload: {mobId}
       });
     }
 
@@ -279,6 +306,12 @@ export const GlobalProvider = ({children}) => {
       });
     }
 
+    function changeFirstRenderMobListStatus(){
+      dispatch({
+          type: 'CHANGE_FIRST_RENDER_MOB_LIST_STATUS',
+      });
+    }
+
     function toogleHamburgerMenu(){
       dispatch({
           type: 'CHANGE_HAMBURGER_STATUS',
@@ -289,10 +322,15 @@ export const GlobalProvider = ({children}) => {
         <GlobalContext.Provider value={{
             activeList: state.activeList, 
             firstRun: state.firstRun,
+            firstRenderMobList: state.firstRenderMobList,
             dropList: state.dropList, 
             itemNames: state.itemNames, 
             mobNames: state.mobNames, 
             isHamburgerOpen: state.isHamburgerOpen,
+            dropListCopy: state.dropListCopy,
+            changeJajko,
+            createDeepDropCopy,
+            updateDeepDropCopy,
             addDrop,
             addItem, 
             changeActiveList, 
@@ -303,7 +341,8 @@ export const GlobalProvider = ({children}) => {
             addMob, 
             deleteMob, 
             changeFirstRunStatus,
-            toogleHamburgerMenu
+            toogleHamburgerMenu,
+            changeFirstRenderMobListStatus
           }}>
           {children}
         </GlobalContext.Provider>)

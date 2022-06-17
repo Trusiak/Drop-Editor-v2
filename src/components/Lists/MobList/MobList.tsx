@@ -1,4 +1,4 @@
-import React, {useState, useContext, useRef, useLayoutEffect} from 'react';
+import React, {useState, useContext, useRef, useLayoutEffect, useEffect, createContext, useMemo} from 'react';
 import { ItemInMob } from '../../../types/interfaces/ItemInMob';
 import { LevelDrop } from '../../../types/interfaces/LevelDrop';
 import AddMobItem from "../../MobItem/AddMobItem/AddMobItem";
@@ -8,67 +8,106 @@ import MobItem from '../../MobItem/MobItem';
 import { GlobalContext } from '../../../context/GlobalState';
 import { createListAnimation, removeListAnimation } from "../../../helpers/animations"
 import { useMobName } from "../../../helpers/useMobName";
+import { MobListContext, MobListProvider } from '../../../context/MobList';
+import { Drop } from "../../../types/interfaces/Drop";
+import ExpandMobList from './ExpandMobList/ExpandMobList';
+import { useLocation } from 'react-router-dom'
+
 
 interface MobListProps {
     id: number,
     items: ItemInMob[],
     level: LevelDrop
+    key: number,
+    index: number
 }
 
-const MobList: React.FC<MobListProps> = React.memo(({id, items, level}) => {
 
+const MobList: React.FC<MobListProps> = ({id, items, level, index}) => {
     const [isAddingNewItem, setIsAddingNewItem] = useState(false);
-    const { deleteMob } = useContext(GlobalContext) as any;
+    const location = useLocation(); 
+    const [isOpened, setIsOpened] = useState(()=> index < 4 ? false : true)
+    const { addLocalDrop, mobDropList } = useContext(MobListContext) as any;
+    const { deleteMob, updateDeepDropCopy } = useContext(GlobalContext) as any;
     const mobList = useRef(null);
+    const mobName = useMobName(id)
 
-    const mobItems = items
-                        .filter(item => item.id)
-                        .map((item, index)=>
-                        {
-                            const key = item.id + (index * item.id + items.length);
-                            return <MobItem key={key} mob={id} item={item}/>
-                        })
-                        
+    const handleToogleList = () => {
+        setIsOpened(!isOpened)
+    }
+
     const handleAddItem = () => {
         setIsAddingNewItem((isAddingNewItem)=> !isAddingNewItem);
     }
 
     const handleDeleteMob = () => {
         removeListAnimation(mobList.current, ()=> deleteMob(id))
+        sessionStorage.removeItem(`${id}`);
+        updateDeepDropCopy(id);
     }
 
-    useLayoutEffect(()=>{
-        createListAnimation(mobList.current)
+    const checkIsLocactionHash = () =>{
+        if(location.hash === `#${id}`){
+            setTimeout(() => {
+                handleToogleList();
+            }, 350);
+        }
+    }
+
+    const updateLocalContext = () => {
+        let mobDrop: any = sessionStorage.getItem(`${id}`) 
+
+        if(mobDrop === null)
+            addLocalDrop(items)
+        else
+            addLocalDrop(JSON.parse(mobDrop))
+    }
+
+    const mobItems = useMemo(()=>{
+        if(!isOpened){
+            return mobDropList
+                .map((item: any, index: any)=>
+                {
+                    const key = item.id + (index * item.id + mobDropList.length);
+                    return <MobItem key={key} mob={id} item={item}/>
+                })
+        }
+        else return <ExpandMobList numberOfItems={items.length} handleToogleList={handleToogleList}/>
+        
+    }, [isOpened, mobDropList.length, mobDropList])
+
+    useEffect(()=>{
+        createListAnimation(mobList.current);
+        updateLocalContext(); 
+        checkIsLocactionHash();
     }, [])
 
-    console.log("odświeżone")
-        
-    return (
-            <section ref={mobList} className="MobList" id={`${id}`}>
-                <header className="MobList__header">
-                    <div className="MobList__image-container">
-                        <img src={`/mobs/${id}.png`} onError={(e: any)=>{e.target.onerror = null; e.target.src="/images/unknown-monster.png"}} className="MobList__image" alt="moblist icon"/>
-                    </div>
-                    <div className="MobList__title-containter">
-                        <h2 className="MobList__name">{useMobName(id)}</h2>
-                        <p className="MobList__level">[{level.min} - {level.max}] Lvl</p>
-                    </div>
-                    <button onClick={handleAddItem} className="MobList__actionButton MobList__actionButton--add">
-                        <img src={addIcon} className="MobList__addIcon" alt="moblist icon"/>
-                    </button>
-                    <button onClick={handleDeleteMob} className="MobList__actionButton MobList__actionButton--delete">
-                        <img className="MobList__addIcon" src={removeIcon} alt="ikona usuwania"/>
-                    </button>
-                </header>
-                { isAddingNewItem ? <AddMobItem handleAddItem={handleAddItem} isAddingNewItem={isAddingNewItem} mobId={id}/> : null}
-                <ul className="MobList__list">
-                    {mobItems}
-                </ul>
-            </section>
-    );
-}, (prevProps, nextProps) => { return (
-prevProps.items=== nextProps.items &&
-prevProps.level.min === nextProps.level.min &&
-prevProps.level.max === nextProps.level.max)})
+    return useMemo(()=> {
+        return (
+                <section ref={mobList} className="MobList" id={`${id}`}>
+                    <header className="MobList__header">
+                        <div className="MobList__image-container">
+                            <img src={`/mobs/${id}.png`} onError={(e: any)=>{e.target.onerror = null; e.target.src="/images/unknown-monster.png"}} className="MobList__image" alt="moblist icon"/>
+                        </div>
+                        <div className="MobList__title-containter">
+                            <h2 className="MobList__name">{mobName} ({id})</h2>
+                            <p className="MobList__level">[{level.min} - {level.max}] Lvl</p>
+                        </div>
+                        <button onClick={handleAddItem} className="MobList__actionButton MobList__actionButton--add">
+                            <img src={addIcon} className="MobList__addIcon" alt="moblist icon"/>
+                        </button>
+{/*                         {console.log("☆ MOBLISTA została wyrenderowana ☆", id)} */}
+                        <button onClick={handleDeleteMob} className="MobList__actionButton MobList__actionButton--delete">
+                            <img className="MobList__addIcon" src={removeIcon} alt="ikona usuwania"/>
+                        </button>
+                    </header>
+                    { isAddingNewItem ? <AddMobItem handleAddItem={handleAddItem} isAddingNewItem={isAddingNewItem} mob={id}/> : null}
+                    <ul className="MobList__list">
+                        {mobItems}
+                    </ul>
+                </section>
+    )
+}, [mobDropList, isAddingNewItem, isOpened]) 
+}
 
 export default MobList;

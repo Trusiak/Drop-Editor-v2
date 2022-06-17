@@ -24,7 +24,7 @@
 
     &:hover{
         transform: rotate(360deg) scale(1.1);
-        filter: drop-shadow(0 0 3px rgb(0, 132, 255));
+        filter:  brightness(111%) contrast(101%) drop-shadow(0 0 2px rgb(0, 140, 255));
 
         @include breakpoint-down("small"){
             transform: translateX(50%) rotate(360deg);

@@ -2,9 +2,10 @@ import React, {useContext} from 'react';
 import downloadIcon from "../../../img/icon-download.svg";
 import { GlobalContext } from "../../../context/GlobalState";
 import jsonToMobDropConverter from '../../../helpers/jsonToMobDropConverter';
+import { Drop } from '../../../types/interfaces/Drop';
 
 const DownloadDrop = () => {
-    const  { dropList } = useContext(GlobalContext);
+    const  { dropList, dropListCopy } = useContext(GlobalContext);
     const dropToJSON = JSON.stringify(dropList, null, 2);
     
     const handleClick = () => {
@@ -13,12 +14,26 @@ const DownloadDrop = () => {
     }
 
     const viewDropInNewTab = () => {
-        /* const newTab = window.open(); */
-        jsonToMobDropConverter(dropList);
+       /*  const tempKeys = Object.keys(sessionStorage)
+        let tempDrop: any = [];
         
-      /*   newTab!.document.open();
-        newTab!.document.write('<html><body><pre>' + test + '</pre></body></html>');
-        newTab!.document.close(); */
+        tempKeys.forEach(mob => {
+            let tempElement:any = sessionStorage.getItem(mob);
+            tempElement = JSON.parse(tempElement)
+            tempDrop.push({mob: Number(mob), tempElement})
+        })
+
+        const finalDropList = dropList.map((drop:Drop)=>{
+            let dropElement = tempDrop.find((el:any) => el.mob == drop.mob)
+            if(dropElement !==undefined){
+                drop.items = dropElement.tempElement
+            }
+            return drop
+        }) */
+
+         const sortedDropList = dropListCopy.sort((a:Drop, b:Drop)=>a.mob-b.mob)
+        jsonToMobDropConverter(sortedDropList);
+        
     }
 
     const saveDropToLocalStorage = () => {

@@ -2,15 +2,17 @@ import React, {useState, useContext, useRef, useEffect} from 'react';
 import { GlobalContext } from '../../../context/GlobalState';
 import ReactSelect from "../../Select/ReactSelect"
 import { createElementAnimation } from "../../../helpers/animations"
+import { MobListContext } from '../../../context/MobList';
 
 interface AddMobItemProps {
     isAddingNewItem: boolean,
     handleAddItem: ()=>void,
-    mobId: number
+    mob: number
 }
- const AddMobItem: React.FC<AddMobItemProps> = ({isAddingNewItem, handleAddItem, mobId}) => {
+ const AddMobItem: React.FC<AddMobItemProps> = ({ handleAddItem, mob}) => {
 
-    const  { itemNames, addItem } = useContext(GlobalContext) as any;
+    const  { itemNames, updateDeepDropCopy } = useContext(GlobalContext) as any;
+    const  { addItem2, saveLocalDropToSessionStorage } = useContext(MobListContext) as any;
     const [chosenItem, setChosenItem] = useState({value: 0, label: "x"});
     const [chosenItemAmount, setChosenItemAmount] = useState('');
     const [chosenItemChance, setChosenItemChance] = useState('');
@@ -21,16 +23,18 @@ interface AddMobItemProps {
         if(chosenItem.value === 0)
             return
 
-        addItem({
+        addItem2({
             id: chosenItem.value,
             amount: parseInt(chosenItemAmount),
             chance: parseFloat(chosenItemChance)
-        }, mobId)
+        })
 
+        saveLocalDropToSessionStorage(mob);
         setChosenItemAmount('')
         setChosenItemChance('')
         setChosenItem({value: 0, label: "x"})
         handleAddItem();
+        updateDeepDropCopy(mob);
     }
 
     useEffect(()=>{
