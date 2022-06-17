@@ -4,7 +4,6 @@ import uploadIcon from "../../../img/icon-send.svg";
 import { GlobalContext } from "../../../context/GlobalState";
 import { convertMobDroptoJSON } from "../../../helpers/mobDropToJsonConverter";
 import { separateMobDrop } from '../../../helpers/separateMobDrop';
-import { MobListContext } from '../../../context/MobList';
 
 const UploadDrop = () => {
     const  { addDrop } = useContext(GlobalContext) as any;

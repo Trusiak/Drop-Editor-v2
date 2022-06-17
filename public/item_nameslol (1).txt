@@ -1,6 +1,6 @@
-﻿VNUM	LOCALE_NAME
+﻿ID	VNUM
 1	Yang
-2	By TMP4
+2	Polska wersja
 10	Miecz+0
 11	Miecz+1
 12	Miecz+2
@@ -175,7 +175,7 @@
 181	Zatruty miecz+1
 182	Zatruty miecz+2
 183	Zatruty miecz+3
-184	Zatruty miecz+4s
+184	Zatruty miecz+4
 185	Zatruty miecz+5
 186	Zatruty miecz+6
 187	Zatruty miecz+7
@@ -1161,6 +1161,106 @@
 5347	Dzwon Smoczego Ducha+7
 5348	Dzwon Smoczego Ducha+8
 5349	Dzwon Smoczego Ducha+9
+6000	Stalowa Pochodnia+0
+6001	Stalowa Pochodnia+1
+6002	Stalowa Pochodnia+2
+6003	Stalowa Pochodnia+3
+6004	Stalowa Pochodnia+4
+6005	Stalowa Pochodnia+5
+6006	Stalowa Pochodnia+6
+6007	Stalowa Pochodnia+7
+6008	Stalowa Pochodnia+8
+6009	Stalowa Pochodnia+9
+6010	Dzida Feniksa+0
+6011	Dzida Feniksa+1
+6012	Dzida Feniksa+2
+6013	Dzida Feniksa+3
+6014	Dzida Feniksa+4
+6015	Dzida Feniksa+5
+6016	Dzida Feniksa+6
+6017	Dzida Feniksa+7
+6018	Dzida Feniksa+8
+6019	Dzida Feniksa+9
+6020	Żelazny Szpon+0
+6021	Żelazny Szpon+1
+6022	Żelazny Szpon+2
+6023	Żelazny Szpon+3
+6024	Żelazny Szpon+4
+6025	Żelazny Szpon+5
+6026	Żelazny Szpon+6
+6027	Żelazny Szpon+7
+6028	Żelazny Szpon+8
+6029	Żelazny Szpon+9
+6030	Stalowy Szpon+0
+6031	Stalowy Szpon+1
+6032	Stalowy Szpon+2
+6033	Stalowy Szpon+3
+6034	Stalowy Szpon+4
+6035	Stalowy Szpon+5
+6036	Stalowy Szpon+6
+6037	Stalowy Szpon+7
+6038	Stalowy Szpon+8
+6039	Stalowy Szpon+9
+6040	Szpon Gryfa+0
+6041	Szpon Gryfa+1
+6042	Szpon Gryfa+2
+6043	Szpon Gryfa+3
+6044	Szpon Gryfa+4
+6045	Szpon Gryfa+5
+6046	Szpon Gryfa+6
+6047	Szpon Gryfa+7
+6048	Szpon Gryfa+8
+6049	Szpon Gryfa+9
+6050	Szpon Skarabeusza+0
+6051	Szpon Skarabeusza+1
+6052	Szpon Skarabeusza+2
+6053	Szpon Skarabeusza+3
+6054	Szpon Skarabeusza+4
+6055	Szpon Skarabeusza+5
+6056	Szpon Skarabeusza+6
+6057	Szpon Skarabeusza+7
+6058	Szpon Skarabeusza+8
+6059	Szpon Skarabeusza+9
+6060	Jastrzębi Szpon+0
+6061	Jastrzębi Szpon+1
+6062	Jastrzębi Szpon+2
+6063	Jastrzębi Szpon+3
+6064	Jastrzębi Szpon+4
+6065	Jastrzębi Szpon+5
+6066	Jastrzębi Szpon+6
+6067	Jastrzębi Szpon+7
+6068	Jastrzębi Szpon+8
+6069	Jastrzębi Szpon+9
+6070	Kolczasty Szpon+0
+6071	Kolczasty Szpon+1
+6072	Kolczasty Szpon+2
+6073	Kolczasty Szpon+3
+6074	Kolczasty Szpon+4
+6075	Kolczasty Szpon+5
+6076	Kolczasty Szpon+6
+6077	Kolczasty Szpon+7
+6078	Kolczasty Szpon+8
+6079	Kolczasty Szpon+9
+6080	Zielony Wilczy Kieł+0
+6081	Zielony Wilczy Kieł+1
+6082	Zielony Wilczy Kieł+2
+6083	Zielony Wilczy Kieł+3
+6084	Zielony Wilczy Kieł+4
+6085	Zielony Wilczy Kieł+5
+6086	Zielony Wilczy Kieł+6
+6087	Zielony Wilczy Kieł+7
+6088	Zielony Wilczy Kieł+8
+6089	Zielony Wilczy Kieł+9
+6090	Władca Smoków+0
+6091	Władca Smoków+1
+6092	Władca Smoków+2
+6093	Władca Smoków+3
+6094	Władca Smoków+4
+6095	Władca Smoków+5
+6096	Władca Smoków+6
+6097	Władca Smoków+7
+6098	Władca Smoków+8
+6099	Władca Smoków+9
 7000	Wachlarz+0
 7001	Wachlarz+1
 7002	Wachlarz+2
@@ -1391,39 +1491,8 @@
 8007	Trująca Strzała
 8008	Lodowa Strzała
 8009	Przeklęta Strzała
-9001	Zbroja Nahan+5
-9002	Zbroja Tanma+5
-9003	Zbroja Jinhon+5
-9004	Zbroja Chung+5
-9501	Miecz+5
-9502	Krótki Miecz+5
-9503	Krótka Strzała+5
-9504	Długi Miecz+5
-9505	Duży Wachlarz+5
-11000	Zbroja Wilka
-11010	Zbroja  Dzikiego Knura
-11020	Zbroja Niedźwiedzia
-11030	Zbroja Tygrysa
-11200	Mnisia Zbr. Płyt.+0
-11201	Mnisia Zbr. Płyt.+1
-11202	Mnisia Zbr. Płyt.+2
-11203	Mnisia Zbr. Płyt.+3
-11204	Mnisia Zbr. Płyt.+4
-11205	Mnisia Zbr. Płyt.+5
-11206	Mnisia Zbr. Płyt.+6
-11207	Mnisia Zbr. Płyt.+7
-11208	Mnisia Zbr. Płyt.+8
-11209	Mnisia Zbr. Płyt.+9
-11210	Żelazna Zbr. Płyt.+0
-11211	Żelazna Zbr. Płyt.+1
-11212	Żelazna Zbr. Płyt.+2
-11213	Żelazna Zbr. Płyt.+3
-11214	Żelazna Zbr. Płyt.+4
-11215	Żelazna Zbr. Płyt.+5
-11216	Żelazna Zbr. Płyt.+6
-11217	Żelazna Zbr. Płyt.+7
-11218	Żelazna Zbr. Płyt.+8
-11219	Żelazna Zbr. Płyt.+9
+11200	Mnisia Zbr. Płyt.
+11210	Żelazna Zbr. Płyt.
 11220	Zbr. Płyt. Tygrysa+0
 11221	Zbr. Płyt. Tygrysa+1
 11222	Zbr. Płyt. Tygrysa+2
@@ -1504,36 +1573,8 @@
 11297	Zbroja Z Czarnej Stali+7
 11298	Zbroja Z Czarnej Stali+8
 11299	Zbroja Z Czarnej Stali+9
-11300	Ciągliwość
-11301	Ciągliwość
-11302	Dobra Wytrzymałość
-11303	Słaba Zbroja
-11304	Wrogi Mur
-11305	Inteligencja
-11306	Żołnierze
-11307	Pierwszorzędne Buty
-11308	Wytrzymałość Wroga
-11309	Inna Wroga Wytrzymałość
-11400	Błękitne Ubranie+0
-11401	Błękitne Ubranie+1
-11402	Błękitne Ubranie+2
-11403	Błękitne Ubranie+3
-11404	Błękitne Ubranie+4
-11405	Błękitne Ubranie+5
-11406	Błękitne Ubranie+6
-11407	Błękitne Ubranie+7
-11408	Błękitne Ubranie+8
-11409	Błękitne Ubranie+9
-11410	Kremowe Ubranie+0
-11411	Kremowe Ubranie+1
-11412	Kremowe Ubranie+2
-11413	Kremowe Ubranie+3
-11414	Kremowe Ubranie+4
-11415	Kremowe Ubranie+5
-11416	Kremowe Ubranie+6
-11417	Kremowe Ubranie+7
-11418	Kremowe Ubranie+8
-11419	Kremowe Ubranie+9
+11400	Błękitne Ubranie
+11410	Kremowe Ubranie
 11420	Czerwone Ubranie+0
 11421	Czerwone Ubranie+1
 11422	Czerwone Ubranie+2
@@ -1614,36 +1655,8 @@
 11497	Ubranie Czarn. Wiatru+7
 11498	Ubranie Czarn. Wiatru+8
 11499	Ubranie Czarn. Wiatru+9
-11500	Gang-Ma
-11501	Zung-Seon
-11502	Chung-Zin
-11503	Ho-Young
-11504	Young-Seon
-11505	Su-Sin
-11506	O-Gyo
-11507	Bi-Pung
-11508	Zeok-Hyoun
-11509	Ho-Gu
-11600	Żałobna Zbr. Płyt.+0
-11601	Żałobna Zbr. Płyt.+1
-11602	Żałobna Zbr. Płyt.+2
-11603	Żałobna Zbr. Płyt.+3
-11604	Żałobna Zbr. Płyt.+4
-11605	Żałobna Zbr. Płyt.+5
-11606	Żałobna Zbr. Płyt.+6
-11607	Żałobna Zbr. Płyt.+7
-11608	Żałobna Zbr. Płyt.+8
-11609	Żałobna Zbr. Płyt.+9
-11610	Burzowa Zbroj. Płyt.+0
-11611	Burzowa Zbroj. Płyt.+1
-11612	Burzowa Zbroj. Płyt.+2
-11613	Burzowa Zbroj. Płyt.+3
-11614	Burzowa Zbroj. Płyt.+4
-11615	Burzowa Zbroj. Płyt.+5
-11616	Burzowa Zbroj. Płyt.+6
-11617	Burzowa Zbroj. Płyt.+7
-11618	Burzowa Zbroj. Płyt.+8
-11619	Burzowa Zbroj. Płyt.+9
+11600	Żałobna Zbr. Płyt.
+11610	Burzowa Zbroj. Płyt.
 11620	Nieszczęsna Zbr. Płyt.+0
 11621	Nieszczęsna Zbr. Płyt.+1
 11622	Nieszczęsna Zbr. Płyt.+2
@@ -1724,36 +1737,8 @@
 11697	Zbr. Płyt. Czar. Magii+7
 11698	Zbr. Płyt. Czar. Magii+8
 11699	Zbr. Płyt. Czar. Magii+9
-11700	Gang-Ryoung-Gab
-11701	Geuk-Hon-Gab
-11702	Ha-An-Gab
-11703	Bi-Sang-Gab
-11704	Ya-Sang-Gab
-11705	Noe-Un-Gab
-11706	Zeok-Sang-Gab
-11707	Heuk-Gui-Gab
-11708	Ma-Sin-Gab
-11709	Ma-Ryoung-Sin-Gab
-11800	Błękitna Szata+0
-11801	Błękitna Szata+1
-11802	Błękitna Szata+2
-11803	Błękitna Szata+3
-11804	Błękitna Szata+4
-11805	Błękitna Szata+5
-11806	Błękitna Szata+6
-11807	Błękitna Szata+7
-11808	Błękitna Szata+8
-11809	Błękitna Szata+9
-11810	Turkusowa Szata+0
-11811	Turkusowa Szata+1
-11812	Turkusowa Szata+2
-11813	Turkusowa Szata+3
-11814	Turkusowa Szata+4
-11815	Turkusowa Szata+5
-11816	Turkusowa Szata+6
-11817	Turkusowa Szata+7
-11818	Turkusowa Szata+8
-11819	Turkusowa Szata+9
+11800	Błękitna Szata
+11810	Turkusowa Szata
 11820	Różowa Szata+0
 11821	Różowa Szata+1
 11822	Różowa Szata+2
@@ -1835,21 +1820,7 @@
 11898	Czarna Szata+8
 11899	Czarna Szata+9
 11901	Smoking
-11902	Smoking
 11903	Suknia Ślubna
-11904	Suknia Ślubna
-11911	Smoking
-11912	Smoking
-11913	Suknia Ślubna
-11914	Suknia Ślubna
-11951	Mnisia Zbr. Płytowa
-11952	Błękitne Ubranie
-11953	Żałobna Zbr. Płyt.
-11954	Błękitna Szata
-11971	Zbroja Hwang
-11972	Czerw. Zbroja Hwang
-11973	Zbroja Zin-Hwang
-11974	Zbroja Sang-Hwang
 12000	Wodna Szata+0
 12001	Wodna Szata+1
 12002	Wodna Szata+2
@@ -1900,16 +1871,7 @@
 12047	Szata Smoka+7
 12048	Szata Smoka+8
 12049	Szata Smoka+9
-12200	Tradycyjny Hełm+0
-12201	Tradycyjny Hełm+1
-12202	Tradycyjny Hełm+2
-12203	Tradycyjny Hełm+3
-12204	Tradycyjny Hełm+4
-12205	Tradycyjny Hełm+5
-12206	Tradycyjny Hełm+6
-12207	Tradycyjny Hełm+7
-12208	Tradycyjny Hełm+8
-12209	Tradycyjny Hełm+9
+12200	Tradycyjny Hełm
 12220	Żelazny Hełm+0
 12221	Żelazny Hełm+1
 12222	Żelazny Hełm+2
@@ -1950,16 +1912,7 @@
 12287	Hełm Mistrza Wojny+7
 12288	Hełm Mistrza Wojny+8
 12289	Hełm Mistrza Wojny+9
-12340	Skórzana Maska+0
-12341	Skórzana Maska+1
-12342	Skórzana Maska+2
-12343	Skórzana Maska+3
-12344	Skórzana Maska+4
-12345	Skórzana Maska+5
-12346	Skórzana Maska+6
-12347	Skórzana Maska+7
-12348	Skórzana Maska+8
-12349	Skórzana Maska+9
+12340	Skórzana Maska
 12360	Maska Kolcza+0
 12361	Maska Kolcza+1
 12362	Maska Kolcza+2
@@ -2000,16 +1953,7 @@
 12407	Pajęczy Kaptur+7
 12408	Pajęczy Kaptur+8
 12409	Pajęczy Kaptur+9
-12480	Krwawy Hełm+0
-12481	Krwawy Hełm+1
-12482	Krwawy Hełm+2
-12483	Krwawy Hełm+3
-12484	Krwawy Hełm+4
-12485	Krwawy Hełm+5
-12486	Krwawy Hełm+6
-12487	Krwawy Hełm+7
-12488	Krwawy Hełm+8
-12489	Krwawy Hełm+9
+12480	Krwawy Hełm
 12500	Wyzywający Hełm+0
 12501	Wyzywający Hełm+1
 12502	Wyzywający Hełm+2
@@ -2050,16 +1994,7 @@
 12547	Magiczny Hełm+7
 12548	Magiczny Hełm+8
 12549	Magiczny Hełm+9
-12620	Czapka Mnicha+0
-12621	Czapka Mnicha+1
-12622	Czapka Mnicha+2
-12623	Czapka Mnicha+3
-12624	Czapka Mnicha+4
-12625	Czapka Mnicha+5
-12626	Czapka Mnicha+6
-12627	Czapka Mnicha+7
-12628	Czapka Mnicha+8
-12629	Czapka Mnicha+9
+12620	Czapka Mnicha
 12640	Czapka Feniksa+0
 12641	Czapka Feniksa+1
 12642	Czapka Feniksa+2
@@ -2100,16 +2035,47 @@
 12687	Kapelusz Duszy+7
 12688	Kapelusz Duszy+8
 12689	Kapelusz Duszy+9
-13000	Bojowa Tarcza+0
-13001	Bojowa Tarcza+1
-13002	Bojowa Tarcza+2
-13003	Bojowa Tarcza+3
-13004	Bojowa Tarcza+4
-13005	Bojowa Tarcza+5
-13006	Bojowa Tarcza+6
-13007	Bojowa Tarcza+7
-13008	Bojowa Tarcza+8
-13009	Bojowa Tarcza+9
+12690	Stalowy Hełm Smoków +0
+12691	Stalowy Hełm Smoków +1
+12692	Stalowy Hełm Smoków +2
+12693	Stalowy Hełm Smoków +3
+12694	Stalowy Hełm Smoków +4
+12695	Stalowy Hełm Smoków +5
+12696	Stalowy Hełm Smoków +6
+12697	Stalowy Hełm Smoków +7
+12698	Stalowy Hełm Smoków +8
+12699	Stalowy Hełm Smoków +9
+12700	Smoczy Kaptur +0
+12701	Smoczy Kaptur +1
+12702	Smoczy Kaptur +2
+12703	Smoczy Kaptur +3
+12704	Smoczy Kaptur +4
+12705	Smoczy Kaptur +5
+12706	Smoczy Kaptur +6
+12707	Smoczy Kaptur +7
+12708	Smoczy Kaptur +8
+12709	Smoczy Kaptur +9
+12710	Pancerny Hełm Smoków +0
+12711	Pancerny Hełm Smoków +1
+12712	Pancerny Hełm Smoków +2
+12713	Pancerny Hełm Smoków +3
+12714	Pancerny Hełm Smoków +4
+12715	Pancerny Hełm Smoków +5
+12716	Pancerny Hełm Smoków +6
+12717	Pancerny Hełm Smoków +7
+12718	Pancerny Hełm Smoków +8
+12719	Pancerny Hełm Smoków +9
+12720	Smoczy Kapelusz +0
+12721	Smoczy Kapelusz +1
+12722	Smoczy Kapelusz +2
+12723	Smoczy Kapelusz +3
+12724	Smoczy Kapelusz +4
+12725	Smoczy Kapelusz +5
+12726	Smoczy Kapelusz +6
+12727	Smoczy Kapelusz +7
+12728	Smoczy Kapelusz +8
+12729	Smoczy Kapelusz +9
+13000	Bojowa Tarcza
 13020	Pięciokątna Tarcza+0
 13021	Pięciokątna Tarcza+1
 13022	Pięciokątna Tarcza+2
@@ -2220,26 +2186,8 @@
 13207	Czarna Okrągła Tarcza+7
 13208	Czarna Okrągła Tarcza+8
 13209	Czarna Okrągła Tarcza+9
-14000	Drewniana Bransoleta+0
-14001	Drewniana Bransoleta+1
-14002	Drewniana Bransoleta+2
-14003	Drewniana Bransoleta+3
-14004	Drewniana Bransoleta+4
-14005	Drewniana Bransoleta+5
-14006	Drewniana Bransoleta+6
-14007	Drewniana Bransoleta+7
-14008	Drewniana Bransoleta+8
-14009	Drewniana Bransoleta+9
-14020	Miedziana Bransoleta+0
-14021	Miedziana Bransoleta+1
-14022	Miedziana Bransoleta+2
-14023	Miedziana Bransoleta+3
-14024	Miedziana Bransoleta+4
-14025	Miedziana Bransoleta+5
-14026	Miedziana Bransoleta+6
-14027	Miedziana Bransoleta+7
-14028	Miedziana Bransoleta+8
-14029	Miedziana Bransoleta+9
+14000	Drewniana Bransoleta
+14020	Miedziana Bransoleta
 14040	Srebrna Bransoleta+0
 14041	Srebrna Bransoleta+1
 14042	Srebrna Bransoleta+2
@@ -2380,36 +2328,28 @@
 14567	Szafirowa Bransoleta+7
 14568	Szafirowa Bransoleta+8
 14569	Szafirowa Bransoleta+9
-15000	Skórzane Buty+0
-15001	Skórzane Buty+1
-15002	Skórzane Buty+2
-15003	Skórzane Buty+3
-15004	Skórzane Buty+4
-15005	Skórzane Buty+5
-15006	Skórzane Buty+6
-15007	Skórzane Buty+7
-15008	Skórzane Buty+8
-15009	Skórzane Buty+9
-15020	Bambusowe Buty+0
-15021	Bambusowe Buty+1
-15022	Bambusowe Buty+2
-15023	Bambusowe Buty+3
-15024	Bambusowe Buty+4
-15025	Bambusowe Buty+5
-15026	Bambusowe Buty+6
-15027	Bambusowe Buty+7
-15028	Bambusowe Buty+8
-15029	Bambusowe Buty+9
-15040	Drewniane Buty+0
-15041	Drewniane Buty+1
-15042	Drewniane Buty+2
-15043	Drewniane Buty+3
-15044	Drewniane Buty+4
-15045	Drewniane Buty+5
-15046	Drewniane Buty+6
-15047	Drewniane Buty+7
-15048	Drewniane Buty+8
-15049	Drewniane Buty+9
+14570	Bransoleta z Turmalinu+0
+14571	Bransoleta z Turmalinu+1
+14572	Bransoleta z Turmalinu+2
+14573	Bransoleta z Turmalinu+3
+14574	Bransoleta z Turmalinu+4
+14575	Bransoleta z Turmalinu+5
+14576	Bransoleta z Turmalinu+6
+14577	Bransoleta z Turmalinu+7
+14578	Bransoleta z Turmalinu+8
+14579	Bransoleta z Turmalinu+9
+15000	Skórzane Buty
+15020	Drewniane Buty
+15040	Bambusowe Buty+0
+15041	Bambusowe Buty+1
+15042	Bambusowe Buty+2
+15043	Bambusowe Buty+3
+15044	Bambusowe Buty+4
+15045	Bambusowe Buty+5
+15046	Bambusowe Buty+6
+15047	Bambusowe Buty+7
+15048	Bambusowe Buty+8
+15049	Bambusowe Buty+9
 15060	Buty Wyszywane Złotem+0
 15061	Buty Wyszywane Złotem+1
 15062	Buty Wyszywane Złotem+2
@@ -2550,26 +2490,28 @@
 15437	Buty Zimorodka+7
 15438	Buty Zimorodka+8
 15439	Buty Zimorodka+9
-16000	Drewniany Naszyjnik+0
-16001	Drewniany Naszyjnik+1
-16002	Drewniany Naszyjnik+2
-16003	Drewniany Naszyjnik+3
-16004	Drewniany Naszyjnik+4
-16005	Drewniany Naszyjnik+5
-16006	Drewniany Naszyjnik+6
-16007	Drewniany Naszyjnik+7
-16008	Drewniany Naszyjnik+8
-16009	Drewniany Naszyjnik+9
-16020	Miedziany Naszyjnik+0
-16021	Miedziany Naszyjnik+1
-16022	Miedziany Naszyjnik+2
-16023	Miedziany Naszyjnik+3
-16024	Miedziany Naszyjnik+4
-16025	Miedziany Naszyjnik+5
-16026	Miedziany Naszyjnik+6
-16027	Miedziany Naszyjnik+7
-16028	Miedziany Naszyjnik+8
-16029	Miedziany Naszyjnik+9
+15440	Ogniste Buty+0
+15441	Ogniste Buty+1
+15442	Ogniste Buty+2
+15443	Ogniste Buty+3
+15444	Ogniste Buty+4
+15445	Ogniste Buty+5
+15446	Ogniste Buty+6
+15447	Ogniste Buty+7
+15448	Ogniste Buty+8
+15449	Ogniste Buty+9
+15450	Buty Oceanu+0
+15451	Buty Oceanu+1
+15452	Buty Oceanu+2
+15453	Buty Oceanu+3
+15454	Buty Oceanu+4
+15455	Buty Oceanu+5
+15456	Buty Oceanu+6
+15457	Buty Oceanu+7
+15458	Buty Oceanu+8
+15459	Buty Oceanu+9
+16000	Drewniany Naszyjnik
+16020	Miedziany Naszyjnik
 16040	Srebrny Naszyjnik+0
 16041	Srebrny Naszyjnik+1
 16042	Srebrny Naszyjnik+2
@@ -2710,26 +2652,18 @@
 16567	Szafirowy Naszyjnik+7
 16568	Szafirowy Naszyjnik+8
 16569	Szafirowy Naszyjnik+9
-17000	Drewniane Kolczyki+0
-17001	Drewniane Kolczyki+1
-17002	Drewniane Kolczyki+2
-17003	Drewniane Kolczyki+3
-17004	Drewniane Kolczyki+4
-17005	Drewniane Kolczyki+5
-17006	Drewniane Kolczyki+6
-17007	Drewniane Kolczyki+7
-17008	Drewniane Kolczyki+8
-17009	Drewniane Kolczyki+9
-17020	Miedziane Kolczyki+0
-17021	Miedziane Kolczyki+1
-17022	Miedziane Kolczyki+2
-17023	Miedziane Kolczyki+3
-17024	Miedziane Kolczyki+4
-17025	Miedziane Kolczyki+5
-17026	Miedziane Kolczyki+6
-17027	Miedziane Kolczyki+7
-17028	Miedziane Kolczyki+8
-17029	Miedziane Kolczyki+9
+16570	Naszyjnik z Turmalinu+0
+16571	Naszyjnik z Turmalinu+1
+16572	Naszyjnik z Turmalinu+2
+16573	Naszyjnik z Turmalinu+3
+16574	Naszyjnik z Turmalinu+4
+16575	Naszyjnik z Turmalinu+5
+16576	Naszyjnik z Turmalinu+6
+16577	Naszyjnik z Turmalinu+7
+16578	Naszyjnik z Turmalinu+8
+16579	Naszyjnik z Turmalinu+9
+17000	Drewniane Kolczyki
+17020	Miedziane Kolczyki
 17040	Srebrne Kolczyki+0
 17041	Srebrne Kolczyki+1
 17042	Srebrne Kolczyki+2
@@ -2910,57 +2844,39 @@
 18037	Pas Mądrości+7
 18038	Pas Mądrości+8
 18039	Pas Mądrości+9
-18040	Pas Króla+0
-18041	Pas Króla+1
-18042	Pas Króla+2
-18043	Pas Króla+3
-18044	Pas Króla+4
-18045	Pas Króla+5
-18046	Pas Króla+6
-18047	Pas Króla+7
-18048	Pas Króla+8
-18049	Pas Króla+9
-18050	Pas Mroku+0
-18051	Pas Mroku+1
-18052	Pas Mroku+2
-18053	Pas Mroku+3
-18054	Pas Mroku+4
-18055	Pas Mroku+5
-18056	Pas Mroku+6
-18057	Pas Mroku+7
-18058	Pas Mroku+8
-18059	Pas Mroku+9
-18060	Pas Runiczny+0
-18061	Pas Runiczny+1
-18062	Pas Runiczny+2
-18063	Pas Runiczny+3
-18064	Pas Runiczny+4
-18065	Pas Runiczny+5
-18066	Pas Runiczny+6
-18067	Pas Runiczny+7
-18068	Pas Runiczny+8
-18069	Pas Runiczny+9
-18070	Pas Niedźwiedzi+0
-18071	Pas Niedźwiedzi+1
-18072	Pas Niedźwiedzi+2
-18073	Pas Niedźwiedzi+3
-18074	Pas Niedźwiedzi+4
-18075	Pas Niedźwiedzi+5
-18076	Pas Niedźwiedzi+6
-18077	Pas Niedźwiedzi+7
-18078	Pas Niedźwiedzi+8
-18079	Pas Niedźwiedzi+9
-18080	Pas Dusz+0
-18081	Pas Dusz+1
-18082	Pas Dusz+2
-18083	Pas Dusz+3
-18084	Pas Dusz+4
-18085	Pas Dusz+5
-18086	Pas Dusz+6
-18087	Pas Dusz+7
-18088	Pas Dusz+8
-18089	Pas Dusz+9
+18100	Pas Mroku+0
+18101	Pas Mroku+1
+18102	Pas Mroku+2
+18103	Pas Mroku+3
+18104	Pas Mroku+4
+18105	Pas Mroku+5
+18106	Pas Mroku+6
+18107	Pas Mroku+7
+18108	Pas Mroku+8
+18109	Pas Mroku+9
+18110	Pas Niedźwiedzi+0
+18111	Pas Niedźwiedzi+1
+18112	Pas Niedźwiedzi+2
+18113	Pas Niedźwiedzi+3
+18114	Pas Niedźwiedzi+4
+18115	Pas Niedźwiedzi+5
+18116	Pas Niedźwiedzi+6
+18117	Pas Niedźwiedzi+7
+18118	Pas Niedźwiedzi+8
+18119	Pas Niedźwiedzi+9
+18120	Pas Dusz+0
+18121	Pas Dusz+1
+18122	Pas Dusz+2
+18123	Pas Dusz+3
+18124	Pas Dusz+4
+18125	Pas Dusz+5
+18126	Pas Dusz+6
+18127	Pas Dusz+7
+18128	Pas Dusz+8
+18129	Pas Dusz+9
 18900	Kamień Czerw. Płomienia
+18901	Wzmocnienie Pasa
+18902	Zaczarowanie Pasa
 20000	Pancerz Diabel. Rogu+0
 20001	Pancerz Diabel. Rogu+1
 20002	Pancerz Diabel. Rogu+2
@@ -3001,16 +2917,379 @@
 20757	Złote Ubranie+7
 20758	Złote Ubranie+8
 20759	Złote Ubranie+9
-22000	Zwój Powrotu Do Miasta
-22001	Zwój Powrotu Do Miasta
+20760	Polarny Pancerz+0
+20761	Polarny Pancerz+1
+20762	Polarny Pancerz+2
+20763	Polarny Pancerz+3
+20764	Polarny Pancerz+4
+20765	Polarny Pancerz+5
+20766	Polarny Pancerz+6
+20767	Polarny Pancerz+7
+20768	Polarny Pancerz+8
+20769	Polarny Pancerz+9
+20770	Ubranie Zasadzki+0
+20771	Ubranie Zasadzki+1
+20772	Ubranie Zasadzki+2
+20773	Ubranie Zasadzki+3
+20774	Ubranie Zasadzki+4
+20775	Ubranie Zasadzki+5
+20776	Ubranie Zasadzki+6
+20777	Ubranie Zasadzki+7
+20778	Ubranie Zasadzki+8
+20779	Ubranie Zasadzki+9
+20780	Diabelski Pancerz+0
+20781	Diabelski Pancerz+1
+20782	Diabelski Pancerz+2
+20783	Diabelski Pancerz+3
+20784	Diabelski Pancerz+4
+20785	Diabelski Pancerz+5
+20786	Diabelski Pancerz+6
+20787	Diabelski Pancerz+7
+20788	Diabelski Pancerz+8
+20789	Diabelski Pancerz+9
+20790	Szata Wiary+0
+20791	Szata Wiary+1
+20792	Szata Wiary+2
+20793	Szata Wiary+3
+20794	Szata Wiary+4
+20795	Szata Wiary+5
+20796	Szata Wiary+6
+20797	Szata Wiary+7
+20798	Szata Wiary+8
+20799	Szata Wiary+9
+20800	Panc. Mrocz. Wojownika+0
+20801	Panc. Mrocz. Wojownika+1
+20802	Panc. Mrocz. Wojownika+2
+20803	Panc. Mrocz. Wojownika+3
+20804	Panc. Mrocz. Wojownika+4
+20805	Panc. Mrocz. Wojownika+5
+20806	Panc. Mrocz. Wojownika+6
+20807	Panc. Mrocz. Wojownika+7
+20808	Panc. Mrocz. Wojownika+8
+20809	Panc. Mrocz. Wojownika+9
+20810	Pancerz Magmy+0
+20811	Pancerz Magmy+1
+20812	Pancerz Magmy+2
+20813	Pancerz Magmy+3
+20814	Pancerz Magmy+4
+20815	Pancerz Magmy+5
+20816	Pancerz Magmy+6
+20817	Pancerz Magmy+7
+20818	Pancerz Magmy+8
+20819	Pancerz Magmy+9
+20820	Ubr. Krwaw. Księżyca+0
+20821	Ubr. Krwaw. Księżyca+1
+20822	Ubr. Krwaw. Księżyca+2
+20823	Ubr. Krwaw. Księżyca+3
+20824	Ubr. Krwaw. Księżyca+4
+20825	Ubr. Krwaw. Księżyca+5
+20826	Ubr. Krwaw. Księżyca+6
+20827	Ubr. Krwaw. Księżyca+7
+20828	Ubr. Krwaw. Księżyca+8
+20829	Ubr. Krwaw. Księżyca+9
+20830	Piekielny Pancerz+0
+20831	Piekielny Pancerz+1
+20832	Piekielny Pancerz+2
+20833	Piekielny Pancerz+3
+20834	Piekielny Pancerz+4
+20835	Piekielny Pancerz+5
+20836	Piekielny Pancerz+6
+20837	Piekielny Pancerz+7
+20838	Piekielny Pancerz+8
+20839	Piekielny Pancerz+9
+20840	Szata Ognia+0
+20841	Szata Ognia+1
+20842	Szata Ognia+2
+20843	Szata Ognia+3
+20844	Szata Ognia+4
+20845	Szata Ognia+5
+20846	Szata Ognia+6
+20847	Szata Ognia+7
+20848	Szata Ognia+8
+20849	Szata Ognia+9
+20850	Agatowy Pancerz+0
+20851	Agatowy Pancerz+1
+20852	Agatowy Pancerz+2
+20853	Agatowy Pancerz+3
+20854	Agatowy Pancerz+4
+20855	Agatowy Pancerz+5
+20856	Agatowy Pancerz+6
+20857	Agatowy Pancerz+7
+20858	Agatowy Pancerz+8
+20859	Agatowy Pancerz+9
+20860	Wielorybi Pancerz+0
+20861	Wielorybi Pancerz+1
+20862	Wielorybi Pancerz+2
+20863	Wielorybi Pancerz+3
+20864	Wielorybi Pancerz+4
+20865	Wielorybi Pancerz+5
+20866	Wielorybi Pancerz+6
+20867	Wielorybi Pancerz+7
+20868	Wielorybi Pancerz+8
+20869	Wielorybi Pancerz+9
+20870	Ubranie Morfa+0
+20871	Ubranie Morfa+1
+20872	Ubranie Morfa+2
+20873	Ubranie Morfa+3
+20874	Ubranie Morfa+4
+20875	Ubranie Morfa+5
+20876	Ubranie Morfa+6
+20877	Ubranie Morfa+7
+20878	Ubranie Morfa+8
+20879	Ubranie Morfa+9
+20880	Panc. Błędnego Ognika+0
+20881	Panc. Błędnego Ognika+1
+20882	Panc. Błędnego Ognika+2
+20883	Panc. Błędnego Ognika+3
+20884	Panc. Błędnego Ognika+4
+20885	Panc. Błędnego Ognika+5
+20886	Panc. Błędnego Ognika+6
+20887	Panc. Błędnego Ognika+7
+20888	Panc. Błędnego Ognika+8
+20889	Panc. Błędnego Ognika+9
+20890	Szata Harmonii+0
+20891	Szata Harmonii+1
+20892	Szata Harmonii+2
+20893	Szata Harmonii+3
+20894	Szata Harmonii+4
+20895	Szata Harmonii+5
+20896	Szata Harmonii+6
+20897	Szata Harmonii+7
+20898	Szata Harmonii+8
+20899	Szata Harmonii+9
+20900	Księżycowy Pancerz+0
+20901	Księżycowy Pancerz+1
+20902	Księżycowy Pancerz+2
+20903	Księżycowy Pancerz+3
+20904	Księżycowy Pancerz+4
+20905	Księżycowy Pancerz+5
+20906	Księżycowy Pancerz+6
+20907	Księżycowy Pancerz+7
+20908	Księżycowy Pancerz+8
+20909	Księżycowy Pancerz+9
+20910	Panc. Deszczu Popiołu+0
+20911	Panc. Deszczu Popiołu+1
+20912	Panc. Deszczu Popiołu+2
+20913	Panc. Deszczu Popiołu+3
+20914	Panc. Deszczu Popiołu+4
+20915	Panc. Deszczu Popiołu+5
+20916	Panc. Deszczu Popiołu+6
+20917	Panc. Deszczu Popiołu+7
+20918	Panc. Deszczu Popiołu+8
+20919	Panc. Deszczu Popiołu+9
+20920	Ubr. Śmiertelnej Nocy+0
+20921	Ubr. Śmiertelnej Nocy+1
+20922	Ubr. Śmiertelnej Nocy+2
+20923	Ubr. Śmiertelnej Nocy+3
+20924	Ubr. Śmiertelnej Nocy+4
+20925	Ubr. Śmiertelnej Nocy+5
+20926	Ubr. Śmiertelnej Nocy+6
+20927	Ubr. Śmiertelnej Nocy+7
+20928	Ubr. Śmiertelnej Nocy+8
+20929	Ubr. Śmiertelnej Nocy+9
+20930	Pancerz Czarnego Ognia+0
+20931	Pancerz Czarnego Ognia+1
+20932	Pancerz Czarnego Ognia+2
+20933	Pancerz Czarnego Ognia+3
+20934	Pancerz Czarnego Ognia+4
+20935	Pancerz Czarnego Ognia+5
+20936	Pancerz Czarnego Ognia+6
+20937	Pancerz Czarnego Ognia+7
+20938	Pancerz Czarnego Ognia+8
+20939	Pancerz Czarnego Ognia+9
+20940	Szata Księżyca+0
+20941	Szata Księżyca+1
+20942	Szata Księżyca+2
+20943	Szata Księżyca+3
+20944	Szata Księżyca+4
+20945	Szata Księżyca+5
+20946	Szata Księżyca+6
+20947	Szata Księżyca+7
+20948	Szata Księżyca+8
+20949	Szata Księżyca+9
+20950	Onyksowy Pancerz+0
+20951	Onyksowy Pancerz+1
+20952	Onyksowy Pancerz+2
+20953	Onyksowy Pancerz+3
+20954	Onyksowy Pancerz+4
+20955	Onyksowy Pancerz+5
+20956	Onyksowy Pancerz+6
+20957	Onyksowy Pancerz+7
+20958	Onyksowy Pancerz+8
+20959	Onyksowy Pancerz+9
+21000	Niebiańska Zbr.Wiatru+0
+21001	Niebiańska Zbr.Wiatru+1
+21002	Niebiańska Zbr.Wiatru+2
+21003	Niebiańska Zbr.Wiatru+3
+21004	Niebiańska Zbr.Wiatru+4
+21005	Niebiańska Zbr.Wiatru+5
+21006	Niebiańska Zbr.Wiatru+6
+21007	Niebiańska Zbr.Wiatru+7
+21008	Niebiańska Zbr.Wiatru+8
+21009	Niebiańska Zbr.Wiatru+9
+21010	Zbroja Płytowa Orkanu+0
+21011	Zbroja Płytowa Orkanu+1
+21012	Zbroja Płytowa Orkanu+2
+21013	Zbroja Płytowa Orkanu+3
+21014	Zbroja Płytowa Orkanu+4
+21015	Zbroja Płytowa Orkanu+5
+21016	Zbroja Płytowa Orkanu+6
+21017	Zbroja Płytowa Orkanu+7
+21018	Zbroja Płytowa Orkanu+8
+21019	Zbroja Płytowa Orkanu+9
+21020	Malachitowa Zbr. Płyt.+0
+21021	Malachitowa Zbr. Płyt.+1
+21022	Malachitowa Zbr. Płyt.+2
+21023	Malachitowa Zbr. Płyt.+3
+21024	Malachitowa Zbr. Płyt.+4
+21025	Malachitowa Zbr. Płyt.+5
+21026	Malachitowa Zbr. Płyt.+6
+21027	Malachitowa Zbr. Płyt.+7
+21028	Malachitowa Zbr. Płyt.+8
+21029	Malachitowa Zbr. Płyt.+9
+21030	Zbroja Płytowa Ulewy+0
+21031	Zbroja Płytowa Ulewy+1
+21032	Zbroja Płytowa Ulewy+2
+21033	Zbroja Płytowa Ulewy+3
+21034	Zbroja Płytowa Ulewy+4
+21035	Zbroja Płytowa Ulewy+5
+21036	Zbroja Płytowa Ulewy+6
+21037	Zbroja Płytowa Ulewy+7
+21038	Zbroja Płytowa Ulewy+8
+21039	Zbroja Płytowa Ulewy+9
+21040	Zbroja Płytowa z Brązu+0
+21041	Zbroja Płytowa z Brązu+1
+21042	Zbroja Płytowa z Brązu+2
+21043	Zbroja Płytowa z Brązu+3
+21044	Zbroja Płytowa z Brązu+4
+21045	Zbroja Płytowa z Brązu+5
+21046	Zbroja Płytowa z Brązu+6
+21047	Zbroja Płytowa z Brązu+7
+21048	Zbroja Płytowa z Brązu+8
+21049	Zbroja Płytowa z Brązu+9
+21050	Zbroja Płytowa Kobolda+0
+21051	Zbroja Płytowa Kobolda+1
+21052	Zbroja Płytowa Kobolda+2
+21053	Zbroja Płytowa Kobolda+3
+21054	Zbroja Płytowa Kobolda+4
+21055	Zbroja Płytowa Kobolda+5
+21056	Zbroja Płytowa Kobolda+6
+21057	Zbroja Płytowa Kobolda+7
+21058	Zbroja Płytowa Kobolda+8
+21059	Zbroja Płytowa Kobolda+9
+21060	Zbroja Płytowa Zodiaku+0
+21061	Zbroja Płytowa Zodiaku+1
+21062	Zbroja Płytowa Zodiaku+2
+21063	Zbroja Płytowa Zodiaku+3
+21064	Zbroja Płytowa Zodiaku+4
+21065	Zbroja Płytowa Zodiaku+5
+21066	Zbroja Płytowa Zodiaku+6
+21067	Zbroja Płytowa Zodiaku+7
+21068	Zbroja Płytowa Zodiaku+8
+21069	Zbroja Płytowa Zodiaku+9
+21070	Zbroja Nocnego Cienia+0
+21071	Zbroja Nocnego Cienia+1
+21072	Zbroja Nocnego Cienia+2
+21073	Zbroja Nocnego Cienia+3
+21074	Zbroja Nocnego Cienia+4
+21075	Zbroja Nocnego Cienia+5
+21076	Zbroja Nocnego Cienia+6
+21077	Zbroja Nocnego Cienia+7
+21078	Zbroja Nocnego Cienia+8
+21079	Zbroja Nocnego Cienia+9
+21080	Zbr.Strażnika Leśnego+0
+21081	Zbr.Strażnika Leśnego+1
+21082	Zbr.Strażnika Leśnego+2
+21083	Zbr.Strażnika Leśnego+3
+21084	Zbr.Strażnika Leśnego+4
+21085	Zbr.Strażnika Leśnego+5
+21086	Zbr.Strażnika Leśnego+6
+21087	Zbr.Strażnika Leśnego+7
+21088	Zbr.Strażnika Leśnego+8
+21089	Zbr.Strażnika Leśnego+9
+21090	Zbroja Dowódcy+0
+21091	Zbroja Dowódcy+1
+21092	Zbroja Dowódcy+2
+21093	Zbroja Dowódcy+3
+21094	Zbroja Dowódcy+4
+21095	Zbroja Dowódcy+5
+21096	Zbroja Dowódcy+6
+21097	Zbroja Dowódcy+7
+21098	Zbroja Dowódcy+8
+21099	Zbroja Dowódcy+9
+21500	Szkieletowy Hełm+0
+21501	Szkieletowy Hełm+1
+21502	Szkieletowy Hełm+2
+21503	Szkieletowy Hełm+3
+21504	Szkieletowy Hełm+4
+21505	Szkieletowy Hełm+5
+21506	Szkieletowy Hełm+6
+21507	Szkieletowy Hełm+7
+21508	Szkieletowy Hełm+8
+21509	Szkieletowy Hełm+9
+21510	Hełm z Czarnej Chusty+0
+21511	Hełm z Czarnej Chusty+1
+21512	Hełm z Czarnej Chusty+2
+21513	Hełm z Czarnej Chusty+3
+21514	Hełm z Czarnej Chusty+4
+21515	Hełm z Czarnej Chusty+5
+21516	Hełm z Czarnej Chusty+6
+21517	Hełm z Czarnej Chusty+7
+21518	Hełm z Czarnej Chusty+8
+21519	Hełm z Czarnej Chusty+9
+21520	Hełm Gromu+0
+21521	Hełm Gromu+1
+21522	Hełm Gromu+2
+21523	Hełm Gromu+3
+21524	Hełm Gromu+4
+21525	Hełm Gromu+5
+21526	Hełm Gromu+6
+21527	Hełm Gromu+7
+21528	Hełm Gromu+8
+21529	Hełm Gromu+9
+21530	Hełm Łaski Niebios+0
+21531	Hełm Łaski Niebios+1
+21532	Hełm Łaski Niebios+2
+21533	Hełm Łaski Niebios+3
+21534	Hełm Łaski Niebios+4
+21535	Hełm Łaski Niebios+5
+21536	Hełm Łaski Niebios+6
+21537	Hełm Łaski Niebios+7
+21538	Hełm Łaski Niebios+8
+21539	Hełm Łaski Niebios+9
+21540	Hełm Zielonego Lasu+0
+21541	Hełm Zielonego Lasu+1
+21542	Hełm Zielonego Lasu+2
+21543	Hełm Zielonego Lasu+3
+21544	Hełm Zielonego Lasu+4
+21545	Hełm Zielonego Lasu+5
+21546	Hełm Zielonego Lasu+6
+21547	Hełm Zielonego Lasu+7
+21548	Hełm Zielonego Lasu+8
+21549	Hełm Zielonego Lasu+9
+21550	Rogowy Hełm Smoków +0
+21551	Rogowy Hełm Smoków +1
+21552	Rogowy Hełm Smoków +2
+21553	Rogowy Hełm Smoków +3
+21554	Rogowy Hełm Smoków +4
+21555	Rogowy Hełm Smoków +5
+21556	Rogowy Hełm Smoków +6
+21557	Rogowy Hełm Smoków +7
+21558	Rogowy Hełm Smoków +8
+21559	Rogowy Hełm Smoków +9
+21900	Mściciel Durendala
+21901	Skrytobójcza Wykałaczka
+21902	Łowca Snów
+21903	Rzeźnik Orków
+21904	Pocałunek Elfa
+21905	Mściciel Wdowy
+21906	Błyskawica i Grzmot
 22010	Zwój Powrotu
-22011	Zwój Powrotu
-22020	Zwój Teleportacji
-22030	Zwój Teleporu
-22040	Zwój Życia
-22050	Zwój Inkarnacji
 25040	Zwój Błogosławieństwa
 25041	Magiczny Kamień
+25043	Zwój Górnictwa
+25044	Zwój Łowiectwa
+25045	Zwój Zielarstwa
 25100	Zwój Kamienia Duszy
 27001	Czerwona Mikstura(M)
 27002	Czerwona Mikstura(Ś)
@@ -3018,51 +3297,30 @@
 27004	Niebieska Mikstura(M)
 27005	Niebieska Mikstura(Ś)
 27006	Niebieska Mikstura(D)
-27051	Czerwona Mikstura (M)
-27052	Niebieska Mikstura (M)
-27053	Zielona Mikstura (M)
-27054	Fioletowa Mikstura (M)
+27051	Czerwona Mikstura (M|B)
+27052	Niebieska Mikstura (M|B)
+27053	Zielona Mikstura (M|B)
+27054	Fioletowa Mikstura (M|B)
 27100	Zielona Mikstura(M)
 27101	Zielona Mikstura(Ś)
 27102	Zielona Mikstura(D)
 27103	Fioletowa Mikstura(M)
 27104	Fioletowa Mikstura(Ś)
 27105	Fioletowa Mikstura(D)
-27110	Zielona Mikstura(M)
-27111	Zielona Mikstura(Ś)
-27112	Zielona Mikstura(D)
-27113	Fioletowa Mikstura(M)
-27114	Fioletowa Mikstura(Ś)
-27115	Fioletowa Mikstura(D)
-27116	Różowa Mikstura(M)
-27117	Różowa Mikstura(Ś)
-27118	Różowa Mikstura(D)
-27119	Błękitna Mikstura(M)
-27120	Błękitna Mikstura(Ś)
-27121	Błękitna Mikstura(D)
-27400	Wędka+1
-27410	Wędka+2
-27420	Wędka+3
-27430	Wędka+4
-27440	Wędka+5
-27450	Wędka+6
-27460	Wędka+7
-27470	Wędka+8
-27480	Wędka+9
-27490	Wędka+10
-27500	Wędka+11
-27510	Wędka+12
-27520	Wędka+13
-27530	Wędka+14
-27540	Wędka+15
-27550	Wędka+16
-27560	Wędka+17
-27570	Wędka+18
-27580	Wędka+19
-27590	Wędka+20
+27399	Wędka Startowa
+27400	Wędka+0
+27410	Wędka+1
+27420	Wędka+2
+27430	Wędka+3
+27440	Wędka+4
+27450	Wędka+5
+27460	Wędka+6
+27470	Wędka+7
+27480	Wędka+8
+27490	Wędka+9
 27600	Wysuszone Drzewo
-27610	Marmur Rybaka
 27620	Rybie Wnętrzności
+27798	Ryba dla Rybaka
 27799	Rybia Ość
 27800	Papka
 27801	Robak
@@ -3134,19 +3392,9 @@
 27988	Mapa Skarbów
 27989	Wykrywacz Kamieni Metin
 27990	Kawałek Kamienia
-27991	Kamień Wodny
 27992	Biała Perła
 27993	Niebieska Perła
 27994	Krwawa Perła
-27995	Pusta Butelka
-27996	Butelka Z Trucizną
-27997	Marmur Witalności
-27998	Sakiewka Alchemika
-27999	Sakiewka Kamieni Dusz
-28000	Kamień Duszy Masakry+0
-28004	Kamień Duszy Paranoi+0
-28008	Kamień Duszy Traumy+0
-28012	Kamień Duszy Likanów+0
 28030	Kamień Duszy Penetr.+0
 28031	Kamień Duszy Śmierci+0
 28032	Kamień Duszy Powtórki+0
@@ -3161,10 +3409,6 @@
 28041	Kamień Witalności+0
 28042	Kamień Duszy Obrony+0
 28043	Kamień Duszy Przysp.+0
-28100	Kamień Duszy Masakry+1
-28104	Kamień Duszy Paranoi+1
-28108	Kamień Duszy Traumy+1
-28112	Kamień Duszy Likanów+1
 28130	Kamień Duszy Penetr.+1
 28131	Kamień Duszy Śmierci+1
 28132	Kamień Duszy Powtórki+1
@@ -3179,10 +3423,6 @@
 28141	Kamień Witalności+1
 28142	Kamień Duszy Obrony+1
 28143	Kamień Duszy Przysp.+1
-28200	Kamień Duszy Masakry+2
-28204	Kamień Duszy Paranoi+2
-28208	Kamień Duszy Traumy+2
-28212	Kamień Duszy Likanów+2
 28230	Kamień Duszy Penetr.+2
 28231	Kamień Duszy Śmierci+2
 28232	Kamień Duszy Powtórki+2
@@ -3197,10 +3437,6 @@
 28241	Kamień Witalności+2
 28242	Kamień Duszy Obrony+2
 28243	Kamień Duszy Przysp.+2
-28300	Kamień Duszy Masakry+3
-28304	Kamień Duszy Paranoi+3
-28308	Kamień Duszy Traumy+3
-28312	Kamień Duszy Likanów+3
 28330	Kamień Duszy Penetr.+3
 28331	Kamień Duszy Śmierci+3
 28332	Kamień Duszy Powtórki+3
@@ -3215,10 +3451,6 @@
 28341	Kamień Witalności+3
 28342	Kamień Duszy Obrony+3
 28343	Kamień Duszy Przysp.+3
-28400	Kamień Duszy Masakry+4
-28404	Kamień Duszy Paranoi+4
-28408	Kamień Duszy Traumy+4
-28412	Kamień Duszy Likanów+4
 28430	Kamień Duszy Penetr.+4
 28431	Kamień Duszy Śmierci+4
 28432	Kamień Duszy Powtórki+4
@@ -3233,152 +3465,22 @@
 28441	Kamień Witalności+4
 28442	Kamień Duszy Obrony+4
 28443	Kamień Duszy Przysp.+4
-28500	Kamień Duszy Masakry+5
-28504	Kamień Duszy Paranoi+5
-28508	Kamień Duszy Traumy+5
-28512	Kamień Duszy Głupoty+5
-28530	Kamień Duszy Penetr.+5
-28531	Kamień Duszy Śmierci+5
-28532	Kamień Duszy Powtórki+5
-28533	Kamień Duszy Wojownika+5
-28534	Kamień Duszy Ninja+5
-28535	Kamień Duszy Sury+5
-28536	Kamień Duszy Szamana+5
-28537	Kamień Duszy Potwora+5
-28538	Kamień Duszy Uchylenia+5
-28539	Kamień Duszy Uniku+5
-28540	Kamień Duszy Magii+5
-28541	Kamień Witalności+5
-28542	Kamień Duszy Obrony+5
-28543	Kamień Duszy Przysp.+5
-28600	Kamień Duszy Penetr.+6
-28601	Kamień Duszy Śmierci+6
-28602	Kamień Duszy Powtórki+6
-28603	Kamień Duszy Wojownika+6
-28604	Kamień Duszy Ninja+6
-28605	Kamień Duszy Sury+6
-28606	Kamień Duszy Szamana+6
-28607	Kamień Duszy Potwora+6
-28608	Kamień Duszy Uchylenia+6
-28609	Kamień Duszy Uniku+6
-28610	Kamień Duszy Magii+6
-28611	Kamień Witalności+6
-28612	Kamień Duszy Obrony+6
-28613	Kamień Duszy Przysp.+6
-28630	Wodny Kamień Penetr.+5
-28631	Wodny Kamień Śmierci+5
-28632	Wodny Kamień Powtórki+5
-28633	Wodny Kamień Ninja+5
-28634	Wodny Kamień Ninja+5
-28635	Wodny Kamień Sury+5
-28636	Wodny Kamień Szamana+5
-28637	Wodny Kamień Potwora+5
-28638	Wodny Kamień Uchylenia+5
-28639	Wodny Kamień Uniku+5
-28640	Wodny Kamień Magii+5
-28641	Wodny Kamień Wital.+5
-28642	Wodny Kamień Obrony+5
-28643	Wodny Kamień Przysp.+5
-28700	Kamień Duszy Penetr.+7
-28701	Kamień Duszy Śmierci+7
-28702	Kamień Duszy Powtórki+7
-28703	Kamień Duszy Wojownika+7
-28704	Kamień Duszy Ninja+7
-28705	Kamień Duszy Sury+7
-28706	Kamień Duszy Szamana+7
-28707	Kamień Duszy Potwora+7
-28708	Kamień Duszy Uchylenia+7
-28709	Kamień Duszy Uniku+7
-28710	Kamień Duszy Magii+7
-28711	Kamień Witalności+7
-28712	Kamień Duszy Obrony+7
-28713	Kamień Duszy Przysp.+7
-28730	Wodny Kamień Penetr.+7
-28731	Wodny Kamień Śmierci+7
-28732	Wodny Kamień Powtórki+7
-28733	Wodny Kamień Ninja+7
-28734	Wodny Kamień Ninja+7
-28735	Wodny Kamień Sury+7
-28736	Wodny Kamień Szamana+7
-28737	Wodny Kamień Potwora+7
-28738	Wodny Kamień Uchylenia+7
-28739	Wodny Kamień Uniku+7
-28740	Wodny Kamień Magii+7
-28741	Wodny Kamień Wital.+7
-28742	Wodny Kamień Obrony+7
-28743	Wodny Kamień Przysp.+7
-28800	Kamień Duszy Penetr.+8
-28801	Kamień Duszy Śmierci+8
-28802	Kamień Duszy Powtórki+8
-28803	Kamień Duszy Wojownika+8
-28804	Kamień Duszy Ninja+8
-28805	Kamień Duszy Sury+8
-28806	Kamień Duszy Szamana+8
-28807	Kamień Duszy Potwora+8
-28808	Kamień Duszy Uchylenia+8
-28809	Kamień Duszy Uniku+8
-28810	Kamień Duszy Magii+8
-28811	Kamień Witalności+8
-28812	Kamień Duszy Obrony+8
-28813	Kamień Duszy Przysp.+8
-28830	Wodny Kamień Penetr.+8
-28831	Wodny Kamień Śmierci+8
-28832	Wodny Kamień Powtórki+8
-28833	Wodny Kamień Ninja+8
-28834	Wodny Kamień Ninja+8
-28835	Wodny Kamień Sury+8
-28836	Wodny Kamień Szamana+8
-28837	Wodny Kamień Potwora+8
-28838	Wodny Kamień Uchylenia+8
-28839	Wodny Kamień Uniku+8
-28840	Wodny Kamień Magii+8
-28841	Wodny Kamień Wital.+8
-28842	Wodny Kamień Obrony+8
-28843	Wodny Kamień Przysp.+8
-28900	Kamień Duszy Penetr.+9
-28901	Kamień Duszy Śmierci+9
-28902	Kamień Duszy Powtórki+9
-28903	Kamień Duszy Wojownika+9
-28904	Kamień Duszy Ninja+9
-28905	Kamień Duszy Sury+9
-28906	Kamień Duszy Szamana+9
-28907	Kamień Duszy Potwora+9
-28908	Kamień Duszy Uchylenia+9
-28909	Kamień Duszy Uniku+9
-28910	Kamień Duszy Magii+9
-28911	Kamień Witalności+9
-28912	Kamień Duszy Obrony+9
-28913	Kamień Duszy Przysp.+9
-28930	Wodny Kamień Penetr.+9
-28931	Wodny Kamień Śmierci+9
-28932	Wodny Kamień Powtórki+9
-28933	Wodny Kamień Ninja+9
-28934	Wodny Kamień Ninja+9
-28935	Wodny Kamień Sury+9
-28936	Wodny Kamień Szamana+9
-28937	Wodny Kamień Potwora+9
-28938	Wodny Kamień Uchylenia+9
-28939	Wodny Kamień Uniku+9
-28940	Wodny Kamień Magii+9
-28941	Wodny Kamień Wital.+9
-28942	Wodny Kamień Obrony+9
-28943	Wodny Kamień Przysp.+9
+28530	Leg. Kamień Duszy Penetr.
+28531	Leg. Kamień Duszy Śmierci
+28532	Leg. Kamień Duszy Powtórki
+28533	Leg. Kamień Duszy Wojownika
+28534	Leg. Kamień Duszy Ninja
+28535	Leg. Kamień Duszy Sury
+28536	Leg. Kamień Duszy Szamana
+28537	Leg. Kamień Duszy Potwora
+28538	Leg. Kamień Duszy Uchylenia
+28539	Leg. Kamień Duszy Uniku
+28540	Leg. Kamień Duszy Magii
+28541	Leg. Kamień Witalności
+28542	Leg. Kamień Duszy Obrony
+28543	Leg. Kamień Duszy Przysp.
 28960	Kawałek Pęknięt. Kam.
-29001	Muszla
-29002	Niebieska Muszla
-29003	Żółta Muszla
-29004	Czerwona Muszla
-29005	Zielona Muszla
-29006	Żółty Kamień Winny
-29007	Niebieski Kamień Winny
-29008	Niebieska Święta Woda
-29009	Żółta Święta Woda
-29010	Czerwona Święta Woda
-29011	Zielona Święta Woda
-29012	Ciemno-Nieb. Ręka Boga
-29013	Jasno-Żółta Święta Woda
-29014	Jasno-Czerw. Święta Woda
-29015	Ciemno-Ziel. Ręka Boga
+28961	Sekretna Księga Dusz
 29101	Kilof+0
 29102	Kilof+1
 29103	Kilof+2
@@ -3458,171 +3560,8 @@
 30066	Ostry Pieprz
 30067	Skóra Węża
 30068	Stek Z Tofu
-30069	Szpon Wilka+
-30070	Futro Wilka+
-30071	Żółć Niedźwiedzia+
-30072	Niedźwiedzia Skóra+
-30073	Biała Wstęga+
-30074	Czarny Uniform+
-30075	Shuriken+
-30076	Amulet Orka+
-30077	Ząb Orka+
-30078	Ezoteryczny Przewodnik+
-30079	Nieznany Talizman+
-30080	Księga Klątw+
-30081	Ogon Skorpiona+
-30082	Ogon Węża+
-30083	Nieznane Lekarstwo+
-30084	Nieznany Talizman+
-30085	Kawałek Płótna+
-30086	Pamiątka Po Demonie+
-30087	Klejnot Demona+
-30088	Kawałek Lodu+
-30089	Futro Yeti+
-30090	Matowy Lód+
 30091	Symbol Wojownika
 30092	Zdobycz Dzikusa
-30093	Torba Szczęścia
-30094	Torba Szczęścia
-30095	Torba Szczęścia
-30096	Torba Szczęścia
-30097	Sakwa Szczęścia
-30098	Torba Szczęścia
-30099	Torba Szczęścia
-30100	Torba Szczęścia
-30101	Obrączka Ariyoung
-30102	Złoty Topór
-30103	Złoty Ząb Orka
-30104	Sieć Pająka Pustynnego
-30105	Kolcz. Ogon Skorpiona
-30106	Lekarstwo na Yu-Rang
-30107	Pazur Orka
-30108	Emalia Ceramiczna
-30109	Sieć Pająka Pustynnego
-30110	List Od Huahn-So
-30111	Skąpy Ogon Skorpiona
-30112	Węgorz
-30113	Tajemny Regulamin
-30114	Plaga
-30115	Lek Na Plagę
-30116	Żabie Udka
-30117	List
-30118	Szkatuła Klejnot. Demona
-30119	Dzwon
-30120	Kawałek Mapy
-30121	Kawałek Mapy
-30122	Kawałek Mapy
-30123	Kawałek Mapy
-30124	Kawałek Mapy
-30125	Kawałek Mapy
-30126	Kawałek Mapy
-30127	Kawałek Mapy
-30128	Kawałek Mapy
-30129	Rozkaz Jeźdźcy
-30130	Pusta Butelka
-30131	List Od Kowala
-30132	Księga Uriela
-30133	Kwieciste Buty
-30134	Przesyłka Uriela
-30135	List Od Ariyoung
-30136	Rozrzutnie Ozdobiony Łuk
-30137	Krew Małpy
-30138	Pustynny Piasek
-30139	Kieł Orka
-30140	Nici
-30141	Ozdobny Diament
-30142	List
-30143	Zioła Lecznicze
-30144	Wątroba Tygrysa
-30145	Lekarstwo Balsosa
-30146	Kawał Lodu
-30147	Świątynna Doktryna
-30148	Świątynny Szal
-30149	Lody z Syropem
-30150	Strona Pamiętnika
-30151	Skóra Wilka
-30152	Lekarstwo
-30153	Kwiaty
-30154	Sekretna Księga Świątyni
-30155	Amulet Mirine
-30156	Sekretna Księga Świątyni
-30157	Grot Strzały
-30158	Ciastka Ryżowe
-30159	Ubrania
-30160	Wiadomości
-30161	Oszczep Męża
-30162	Oko Pająka
-30163	Instr. Muzyczny Yuhwan
-30164	Tłumaczenie Księgi Klątw
-30165	Konar Zelkova
-30166	Certyfikat Tugyisa
-30167	Czerw. Konar Duchodrzewa
-30168	Notatka Przywódcy
-30169	Krwisty Kwiat
-30170	Pomarańczowy Kwiat
-30171	Żółty Kwiat
-30172	Bukiet z Kwiatów
-30173	Futro Mu-Rang
-30174	Łapa Niedźwiedzia
-30175	Harpun na Wieloryby
-30176	Lśniące Futro Tygrysa
-30177	Olejek Piżmowy
-30178	Kamień Glyph
-30179	Kręty Klucz
-30180	Amulet Boga Smoków
-30181	Strona
-30182	Legendarny Pamiętnik
-30183	Posępna Drewniana Maska
-30184	Zaczarowany Popiół
-30185	Czarny Lód
-30186	Skamieniała Łza
-30187	Kropla Krwi
-30188	Obsydian
-30189	Łzy Baljit-Elvedin
-30190	Krwisty Kamień
-30191	Krwisty Kamień
-30192	Mleczny Sok
-30193	Kość Palca
-30194	Orkowa Maczuga
-30195	Piasek Kwarcowy
-30196	Demoniczne Prochy
-30197	Magiczne Nasiona
-30198	Wodny Kryształ
-30199	Niebieski Kryształ
-30201	Pierścionek Zemsty
-30202	Ucho Tanaka
-30203	Kryształ
-30204	Kawałek Kryształu
-30205	Materiał Produkcyjny
-30210	Fragment Klejnotu
-30211	Fragment Klejnotu
-30212	Fragment Klejnotu
-30213	Fragment Klejnotu
-30214	Fragment Klejnotu
-30215	Fragment Klejnotu
-30216	Fragment Klejnotu
-30217	Fragment Klejnotu
-30218	Fragment Klejnotu
-30219	Fragment Klejnotu
-30220	Kamień Duszy Jinunggyi
-30221	Świątynny Kamień Duszy
-30222	Kamień Duszy Sagyi
-30223	Kamień Duszy Aurtumryu
-30224	Kamień Duszy Gyimok
-30225	Kamień Duszy Tugyi
-30226	Kamień Duszy Lasu
-30227	Kamień Liderów
-30228	Kamień Dusz Beran-Setaou
-30251	Klejnot Zawiści
-30252	Klejnot Mądrości
-30253	Klejnot Wierności
-30254	NoNAme
-30265	Część Medalu (1)
-30266	Część Medalu (2)
-30267	Część Medalu (3)
-30268	Część Medalu (4)
-30269	Część Medalu (5)
-30270	Odłamek Smocz. Kamienia
 30300	Nieznana Stara Skrzynia
 30301	Mapa Wieży Sa-Gui
 30302	Mapa Wieży Zin-Sa-Gui
@@ -3630,21 +3569,14 @@
 30304	Klucz Zin-Bong-In
 30311	Klucz Kryształu Duszy
 30312	Upiorny Totem
-30315	Chleb
-30316	Talerz Dobroczynności
-30317	Datek Chleba
-30318	Owoc Błogosławieństwa
-30319	Zasuszona Głowa
 30320	Zasuszona Głowa
-30321	Upiorna Dynia
-30322	Czarodziejska Różdżka
-30323	Karta Maski Dyni
-30324	Pajęczy Klucz
-30325	Pajęczy Klucz
 30326	Jad Królowej Pająków
 30327	Pajęczy Flet
 30329	Złota Zębatka
 30330	Kamień Maat
+30331	Mroźny Klucz
+30332	Gwiazda Północy
+30333	Klucz Lodowego Kwiatu
 30500	Rubinowy Ozdobny Nóż
 30501	Złota Sprzączka
 30502	Rubinowa Ozdoba
@@ -3671,723 +3603,20 @@
 30523	Element Ozdoby
 30524	Kamień Płomienia
 30525	Kamień Lodowe. Płomienia
-30526	NoNAme
-30527	NoNAme
-30528	NoNAme
-30529	NoNAme
-30530	NoNAme
-30531	NoNAme
-30532	NoNAme
-30533	NoNAme
-30534	NoNAme
-30535	NoNAme
-30536	NoNAme
-30537	NoNAme
-30538	NoNAme
-30539	NoNAme
-30540	NoNAme
-30541	NoNAme
-30542	NoNAme
-30543	NoNAme
-30544	NoNAme
-30545	NoNAme
-30546	NoNAme
-30547	NoNAme
-30548	NoNAme
-30549	NoNAme
-30550	Niebieski Rzemyk
-30551	NoNAme
-30552	NoNAme
-30553	NoNAme
-30554	NoNAme
-30555	NoNAme
-30556	NoNAme
-30557	NoNAme
-30558	NoNAme
-30559	NoNAme
-30560	NoNAme
-30561	NoNAme
-30562	NoNAme
-30563	NoNAme
-30564	NoNAme
-30565	NoNAme
-30566	NoNAme
-30567	NoNAme
-30568	NoNAme
-30569	NoNAme
-30570	NoNAme
-30571	NoNAme
-30572	NoNAme
-30573	NoNAme
-30574	NoNAme
-30575	NoNAme
-30576	NoNAme
-30577	NoNAme
-30578	NoNAme
-30579	NoNAme
-30580	NoNAme
-30581	NoNAme
-30582	NoNAme
-30583	NoNAme
-30584	NoNAme
-30585	NoNAme
-30586	NoNAme
-31001	Kopia Inskrypcji
-31002	Stary Dokument
-31003	Antidotum
-31004	Święcona Żywica
-31005	Nieb. Esencja Kryształu
-31006	Czerw. Kwarc Piekieł
-31007	Ziemia Wulkaniczna
-31008	Łza Niebios
-31009	List do Gnolli
-31010	List do Bandy Czerwonych
-31011	NoNAme
-31012	NoNAme
-31013	Kartka
-31014	NoNAme
-31015	List Kapitana Haaka
-31016	List Lee Chunga
-31017	Zapieczętowany List
-31018	Skrypt Karapaks
-31019	Proszek Karapaks
-31020	Korzonek Skalnego Kwiatu
-31021	NoNAme
-31022	Łuska Oin
-31023	NoNAme
-31024	Skóra Mantykory
-31025	NoNAme
-31026	Pancerz Skorupiaka
-31027	Drobny Piasek
-31028	Cegła
-31029	Wewnętrzne Światło
-31030	Wewnętrzne Światło
-31031	Esencja Milenium
-31032	Perły Syriusza
-31033	Peleryna Wodza
-31034	Totem Gigantów
-31035	Czarny Kamień
-31036	Czarne Złoto
-31037	Skórzana Sakiewka
-31038	Poświęcona Ziemia
-31039	Sakiewka z Monetami
-31040	Złoty Order
-31041	Skamieniała Ziemia
-31042	Włócznia Trytona
-31043	Tablica Lemurów
-31044	NoNAme
-31045	NoNAme
-31046	NoNAme
-31047	NoNAme
-31048	NoNAme
-31049	NoNAme
-31050	NoNAme
-31051	Żelazo
-31052	NoNAme
-31053	NoNAme
-31054	NoNAme
-31055	NoNAme
-31056	NoNAme
-31057	NoNAme
-31058	NoNAme
-31059	NoNAme
-31060	NoNAme
-31061	NoNAme
-31062	NoNAme
-31063	NoNAme
-31064	NoNAme
-31065	NoNAme
-31066	NoNAme
-31067	NoNAme
-31068	NoNAme
-31069	NoNAme
-31070	NoNAme
-31071	NoNAme
-31072	NoNAme
-31073	Opaska Posz. Złota
-31074	Wysadzany Naszyjnik
-31075	Kolczatka
-31076	Słoneczne Zioła
-31077	Proszek z Kam.Węgielnego
-31078	Czysty Lumen
-31079	List do Yak-Hwan
-31080	Krew Ognistego Króla
-31081	Czarna Materia
-31082	Pierścień Magmy
-31083	Pierścień Samaela
-31084	Deszczowy Olejek
-31085	NoNAme
-31086	NoNAme
-31087	NoNAme
-31088	NoNAme
-31089	NoNAme
-31090	NoNAme
-31091	Krew Ognistego Króla
-31092	NoNAme
-35000	Zioła Lecznicze+
-35001	Wątroba Tygrysa+
-38001	VIP-Feature
-38002	Tombola_ticket_today
-38003	Tombola_ticket_tomorrow
-38004	Tombola_reroll
-38005	TombolaPP_spin
-38006	Momo-Reroll
-38010	Pakiet Yang
-38050	Skrzynia Mocy
-38051	Kryształ Tygr. Bengalsk.
-38052	Skrzynia Królów
-38053	Skrzynia Wiecznej Zimy
-38054	Skrzynia Burzy Pustynnej
-38055	Skrzynia Szczeniaka
-38056	Skrzynia Świąt
-38057	Skrzynia Północy
-38100	Mega Przekąska (7 dni)
-38101	Mega Przekąska (15 dni)
-38102	Mega Przekąska (30 dni)
-38200	Pieczęć Rufusa
-38201	Pieczęć Rufusa
-39001	Magiczny Kamień
-39002	Pierścień Doświadczenia
-39003	Wino z Kwiatu Brzoskwini
-39004	Marmur Błogosławieństwa
-39005	Magiczna Ruda Miedzi
-39006	Peleryna Męstwa
-39007	Podręcznik Kowala
-39008	Zwój Egzorcyzmu
-39009	Zwój Powrotu Umiejętn.
-39010	Mikstura Ataku +10
-39011	Błogosławieństwo Życia
-39012	Błogosławieństwo Magii
-39013	Błogosławieństwo Smoka
-39014	Zwój Wojny
-39015	Kamień Kowala
-39016	Magiczny Metal
-39017	Życie Boga Smoków
-39018	Atak Boga Smoków
-39019	Inteligencja Boga Smoków
-39020	Obrona Boga Smoków
-39021	Wsparcie Boga Smoków
-39022	Zwój Boga Smoków
-39023	Eliksir Poszukiwacza
-39024	Dłoń Krytyka
-39025	Dłoń Przebicia
-39026	Mikstura Szybkości
-39027	Księga Obróbki Kamienia
-39028	Zaczarowanie Przedmiotu
-39029	Wzmocnienie Przedmiotu
-39030	Rada Pustelnika
-39031	Mikstura Pośpiechu
-39032	Owoc Życia
-39033	Zwój Korekcji
-39034	Cukier dla Konia
-39035	Szkło Intuicji
-39036	Buty Wiatru
-39037	Eliksir Słońca (M)
-39038	Eliksir Słońca (Ś)
-39039	Eliksir Słońca (D)
-39040	Eliksir Księżyca (M)
-39041	Eliksir Księżyca (Ś)
-39042	Eliksir Księżyca (D)
-39043	Zwój Powrotu
-40001	Nieznany Złoty Pierścień
-40002	Pierścień Levi
-40003	Pierścień Thora
-40004	Pierścień Eeka
-40005	Dźwiękowy Dzwon
-40006	Przesyłka Barbarzyńska
-40007	List Od Barbarz. Władcy
-41001	Kostium Zająca (brąz.)
-41002	Kostium Zajączka (brąz.)
-41003	Pustynny Bojownik
-41004	Pustynna Bojowniczka
-41005	Strój Szermi.Olympia (m)
-41006	Strój Szermi.Olympia (k)
-41007	Strój Szermi. GER (m)
-41008	Strój Szermi. GER (k)
-41009	Strój Szermi. TUR (m)
-41010	Strój Szermi. TUR (k)
-41011	Strój Szermi. BRA (m)
-41012	Strój Szermi. BRA (k)
-41013	Kosz. Futbol. Olympia(m)
-41014	Kosz. Futbol. Olympia(k)
-41015	Kosz. Futbol. GER (m)
-41016	Kosz. Futbol. GER (k)
-41017	Kosz. Futbol. TUR (m)
-41018	Kosz. Futbol. TUR (k)
-41019	Kosz. Futbol. BRA (m)
-41020	Kosz. Futbol. BRA (k)
-41021	Strój Boksera Olympia(m)
-41022	Strój Boksera Olympia(k)
-41023	Strój Boksera GER (m)
-41024	Strój Bokera GER (k)
-41025	Strój Boksera TUR (m)
-41026	Strój Boksera TUR (k)
-41027	Strój Boksera BRA (m)
-41028	Strój Boksera BRA (k)
-41029	Pustynny Bojownik (bonus)
-41030	Pust. Bojowniczka (bonus)
-41031	Strój Szermi. Olympia(m)
-41032	Strój Szermi. Olympia(k)
-41033	Strój Szermi. GER (m)
-41034	Strój Szermi. GER (k)
-41035	Strój Szermierza TUR (m)
-41036	Strój Szermi. TUR (k)
-41037	Strój Szermi. BRA (m)
-41038	Strój Szermi. BRA (k)
-41039	Kosz. Futbol. Olympia(m)
-41040	Kosz. Futbol. Olympia(k)
-41041	Kosz. Futbol. GER (m)
-41042	Kosz. Futbol. GER (k)
-41043	Kosz. Futbol. TUR (m)
-41044	Kosz. Futbol. TUR (k)
-41045	Kosz. Futbol. BRA (m)
-41046	Kosz. Futbol. BRA (k)
-41047	Strój Boksera Olympia(m)
-41048	Strój Boksera Olympia(k)
-41049	Strój Boksera GER (m)
-41050	Strój Boksera GER (k)
-41051	Strój Boksera TUR (m)
-41052	Strój Boksera TUR (k)
-41053	Strój Boksera BRA (m)
-41054	Strój Boksera BRA (k)
-41055	Strój Szermierza FRA (m)
-41056	Strój Szermierza FRA (k)
-41057	Strój Szermierza ITA (m)
-41058	Strój Szermierza ITA (k)
-41059	Strój Szermierza POL (m)
-41060	Strój Szermierza POL (k)
-41061	Strój Szermierza ROU (m)
-41062	Strój Szermierza ROU (k)
-41063	Strój Szermierza ESP (m)
-41064	Strój Szermierza ESP (k)
-41065	Koszulka Futbol. FRA (m)
-41066	Koszulka Futbol. FRA (k)
-41067	Koszulka Futbol. ITA (m)
-41068	Koszulka Futbol. ITA (k)
-41069	Koszulka Futbol. POL (m)
-41070	Koszulka Futbol. POL (k)
-41071	Koszulka Futbol. ROU (m)
-41072	Koszulka Futbol. ROU (k)
-41073	Koszulka Futbol. ESP (m)
-41074	Koszulka Futbol. ESP (k)
-41075	Strój Boksera FRA (m)
-41076	Strój Boksera FRA (k)
-41077	Strój Boksera ITA (m)
-41078	Strój Boksera ITA (k)
-41079	Strój Boksera POL (m)
-41080	Strój Boksera POL (k)
-41081	Strój Boksera ROU (m)
-41082	Strój Boksera ROU (k)
-41083	Strój Boksera ESP (m)
-41084	Strój Boksera ESP (k)
-41085	Strój Szermierza FRA (m)
-41086	Strój Szermierza FRA (k)
-41087	Strój Szermierza ITA (m)
-41088	Strój Szermierza ITA (k)
-41089	Strój Szermierza POL (m)
-41090	Strój Szermierza POL (k)
-41091	Strój Szermierza ROU (m)
-41092	Strój Szermierza ROU (k)
-41093	Strój Szermierza ESP (m)
-41094	Strój Szermierza ESP (k)
-41095	Koszulka Futbol. FRA (m)
-41096	Koszulka Futbol. FRA (k)
-41097	Koszulka Futbol. ITA (m)
-41098	Koszulka Futbol. ITA (k)
-41099	Koszulka Futbol. POL (m)
-41100	Koszulka Futbol. POL (k)
-41101	Koszulka Futbol. ROU (m)
-41102	Koszulka Futbol. ROU (k)
-41103	Koszulka Futbol. ESP (m)
-41104	Koszulka Futbol. ESP (k)
-41105	Strój Boksera FRA (m)
-41106	Strój Boksera FRA (k)
-41107	Strój Boksera ITA (m)
-41108	Strój Boksera ITA (k)
-41109	Strój Boksera POL (m)
-41110	Strój Boksera POL (k)
-41111	Strój Boksera ROU (m)
-41112	Strój Boksera ROU (k)
-41113	Strój Boksera ESP (m)
-41114	Strój Boksera ESP (k)
-41117	Kostium Muszkietera
-41118	Kostium Pokojówki
-41119	Strój Salsa
-41120	Sukienka Salsa
-41121	Strój Dżentelmena
-41122	Sukienka Koktajlowa
-41125	Dyniowy Smoking
-41126	Dyniowa Suknia
-41129	Kostium Muszkietera+
-41130	Kostium Pokojówki+
-41131	Strój Salsa+
-41132	Sukienka Salsa+
-41133	Strój Dżentelmena+
-41134	Sukienka Koktajlowa+
-41135	Dyniowy Smoking (bonus)
-41136	Dyniowa Suknia (bonus)
-41137	Świąt. Kostium (czerw.)
-41138	Świąt. Suknia (czerw.)
-41139	Świąt. Kostium (ziel.)
-41140	Świąt. Suknia (ziel.)
-41141	Świąt. Kostium (czarny)
-41142	Świąt. Suknia (czarna)
-41143	Kostium Renifera (m)
-41144	Kostium Renifera (k)
-41145	Świąt. Kostium+ (czerw.)
-41146	Świąt. Suknia+ (czerw.)
-41147	Świąt. Kostium+ (ziel.)
-41148	Świąt. Suknia+ (ziel.)
-41149	Świąt. Kostium+ (czarny)
-41150	Świąt. Suknia+ (czarna)
-41151	Kostium Renifera+ (m)
-41152	Kostium Renifera+ (k)
-41153	AC Miryang (m)
-41154	AC Miryang (k)
-41155	AFC Jayang (m)
-41156	AFC Yayang (k)
-41157	RSC Wężowe Pole (m)
-41158	RSC Wężowe Pole (k)
-41159	Yongan FC (m)
-41160	Yongan FC (k)
-41161	FC Bakra (m)
-41162	FC Bakra (k)
-41163	FC Bokjung (m)
-41164	FC Bokjung (k)
-41165	FC Bawaria Hwang (m)
-41166	FC Bawaria Hwang (k)
-41167	Borussia Chunjo (m)
-41168	Borussia Chunjo (k)
-41169	SC Doyyum (m)
-41170	SC Doyyum (k)
-41171	Hasun Dong FC (m)
-41172	Hasun Dong FC (k)
-41173	CFR Smoczy Ogień 07 (m)
-41174	CFR Smoczy Ogień 07 (k)
-41175	Daeyami FC (m)
-41176	Daeyami FC (k)
-41177	GNK Kuahlo Dong (m)
-41178	GNK Kuahlo Dong (k)
-41179	1927 Imha (m)
-41180	1927 Imha (k)
-41181	1. FC Lodowa Ziemia (m)
-41182	1. FC Lodowa Ziemia (k)
-41183	FC Gumsan (m)
-41184	FC Gumsan (k)
-41185	Galawaryong (m)
-41186	Galawaryong (k)
-41187	Juventus Yongbi (m)
-41188	Juventus Yongbi (k)
-41189	OSC Lungsam (m)
-41190	OSC Lungsam (k)
-41191	Doyyumhwan CF (m)
-41192	Doyyumhwan CF (k)
-41193	Nefrytowe City FC (m)
-41194	Nefrytowe City FC (k)
-41195	Shinsoo United (m)
-41196	Shinsoo United (k)
-41197	Smocza Dolina SC (m)
-41198	Smocza Dolina SC (k)
-41199	Gromista Góra FC (m)
-41200	Gromista Góra FC (k)
-41201	Pyungmo Saint Hwang (m)
-41202	Pyungmoo Saint Hwang (k)
-41203	Real Sohan (m)
-41204	Real Sohan (k)
-41205	FC Jinno 04 (m)
-41206	FC Jinno 04 (k)
-41207	FC Sangsun Dong (m)
-41208	FC Sangsun Dong (k)
-41209	SL Jungsun Dong (m)
-41210	SL Jungsun Dong (k)
-41211	Sparta Jungrang (m)
-41212	Sparta Jungrang (k)
-41213	Ognista Ziemia CF (m)
-41214	Ognista Ziemia CF (k)
-41215	FC St. Seungryong (m)
-41216	FC St. Seungryong (k)
-41217	AC Miryang+ (m)
-41218	AC Miryang+ (k)
-41219	AFC Yayang+ (m)
-41220	AFC Yayang+ (k)
-41221	RSC Wężowe Pole+ (m)
-41222	RSC Wężowe Pole+ (k)
-41223	Yongan FC+ (m)
-41224	Yongan FC+ (k)
-41225	FC Bakra+ (m)
-41226	FC Bakra+ (k)
-41227	FC Bokjung+ (m)
-41228	FC Bokjung+ (k)
-41229	FC Bawaria Hwang+ (m)
-41230	FC Bawaria Hwang+ (k)
-41231	Borussia Chunjo+ (m)
-41232	Borussia Chunjo+ (k)
-41233	SC Doyyum+ (m)
-41234	SC Doyyum+ (k)
-41235	Hasun Dong FC+ (m)
-41236	Hasun Dong FC+ (k)
-41237	CFR Smoczy Ogień 07+ (m)
-41238	CFR Smoczy Ogień 07+ (k)
-41239	Daeyami FC+ (m)
-41240	Daeyami FC+ (k)
-41241	GNK Kuahlo Dong+ (m)
-41242	GNK Kuahlo Dong+ (k)
-41243	1927 Imha+ (m)
-41244	1927 Imha+ (k)
-41245	1. FC Lodowa Ziemia+ (m)
-41246	1. FC Lodowa Ziemia (k)
-41247	FC Gumsan+ (m)
-41248	FC Gumsan+ (k)
-41249	Galawaryong+ (m)
-41250	Galawaryong+ (k)
-41251	Juventus Yongbi+ (m)
-41252	Juventus Yongbi+ (k)
-41253	OSC Lungsam+ (m)
-41254	OSC Lungsam+ (k)
-41255	Doyyumhwan CF+ (m)
-41256	Doyyumhwan CF+ (k)
-41257	Nefrytowe City FC+ (m)
-41258	Nefrytowe City FC+ (k)
-41259	Shinsoo United+ (m)
-41260	Shinsoo United+ (k)
-41261	Smocza Dolina SC+ (m)
-41262	Smocza Dolina SC+ (k)
-41263	Gromista Góra FC+ (m)
-41264	Gromista Góra FC+ (k)
-41265	Pyungmoo Saint Hwang+(m)
-41266	Pyungmoo Saint Hwang+(k)
-41267	Real Sohan+ (m)
-41268	Real Sohan+ (k)
-41269	FC Jinno 04+ (m)
-41270	FC Jinno 04+ (k)
-41271	FC Sangsun Dong+ (m)
-41272	FC Sangsun Dong+ (k)
-41273	SL Jungsun Dong+ (m)
-41274	SL Jungsun Dong+ (k)
-41275	Sparta Jungrang+ (m)
-41276	Sparta Jungrang+ (k)
-41277	FC Ognista Ziemia+ (m)
-41278	FC Ognista Ziemia+ (k)
-41279	FC St. Seungryong+ (m)
-41280	FC St. Seungryong+ (k)
-41291	Kostium Zająca (czarny)
-41292	Kostium Zająca (nieb.)
-41293	Kostium Zająca (zielony)
-41294	Kostium Zająca (różowy)
-41295	Kostium Zajączka (czar.)
-41296	Kostium Zajączka (nieb.)
-41297	Kostium Zajączka (ziel.)
-41298	Kostium Zajączka (róż.)
-41299	Kostium Zająca+ (czarny)
-41300	Kostium Zająca+ (nieb.)
-41301	Kostium Zająca+ (ziel.)
-41302	Kostium Zająca+ (różowy)
-41303	Kostium Zajączka+(czar.)
-41304	Kostium Zajączka+(nieb.)
-41305	Kostium Zajączka+(ziel.)
-41306	Kostium Zajączka+ (róż.)
-41307	Szata kobry (m)
-41308	Szata kobry (k)
-41309	Szata kobry+ (m)
-41310	Szata kobry+ (k)
-41311	Pustynny Bojownik(czar.)
-41312	Pust. Bojowniczka(czar.)
-41313	Pust. Bojownik+ (czar.)
-41314	Pust.Bojowniczka+(czar.)
-41315	Zbroja Azraela (m)
-41316	Zbroja Azraela (k)
-41317	Zbroja Azraela+ (m)
-41318	Zbroja Azraela+ (k)
-41319	Čć»ç°©
-41320	Strój Jacka Pumpkina (m)
-41321	Sukienka Jacka Pumpkina (
-41322	Strój Jacka Pumpkina+ (m)
-41323	Sukienka Jacka Pumpkina+ 
-45001	Uszy Zajączka (brązowe)
-45002	Uszy Zająca (brąz.)
-45003	Chusta (m)
-45004	Chusta (k)
-45005	Przybokrót (m)
-45006	Fryzura Szermierza (k)
-45007	Irokez (m)
-45008	Fryzura Piłkarza GER (k)
-45009	Dreadloki  (m)
-45010	Fryzura Boksera GER (k)
-45011	Chusta (m)
-45012	Chusta (k)
-45013	Przybokrót (m)
-45014	Fryzura Szermierza (k)
-45015	Irokez (m)
-45016	Fryzura Piłkarza GER (k)
-45017	Dreadloki (m)
-45018	Fryzura Boksera GER (k)
-45019	Fryzura Boksera TUR (k)
-45020	Fryzura Boksera BRA (k)
-45021	Fryz. Boks. Olympia (k)
-45022	Fryzura Boksera FRA (k)
-45023	Fryzura Boksera ITA (k)
-45024	Fryzura Boksera POL (k)
-45025	Fryzura Boksera ROU (k)
-45026	Fryzura Boksera ESP (k)
-45027	Fryzura Piłkarza TUR (k)
-45028	Fryzura Piłkarza BRA (k)
-45029	Fryz. Piłk. Olympia (k)
-45030	Fryzura Piłkarza FRA (k)
-45031	Fryzura Piłkarza ITA (k)
-45032	Fryzura Piłkarza POL (k)
-45033	Fryzura Piłkarza ROU (k)
-45034	Fryzura Piłkarza ESP (k)
-45035	Fryzura Boksera TUR (k)
-45036	Fryzura Boksera BRA (k)
-45037	Fryz. Boks. Olympia (k)
-45038	Fryzura Boksera FRA (k)
-45039	Fryzura Boksera ITA (k)
-45040	Fryzura Boksera POL (k)
-45041	Fryzura Boksera ROU (k)
-45042	Fryzura Boksera ESP (k)
-45043	Fryzura Piłkarza TUR (k)
-45044	Fryzura Piłkarza BRA (k)
-45045	Fryz. Piłk. Olympia (k)
-45046	Fryzura Piłkarza FRA (k)
-45047	Fryzura Piłkarza ITA (k)
-45048	Fryzura Piłkarza POL (k)
-45049	Fryzura Piłkarza ROU (k)
-45050	Fryzura Piłkarza ESP (k)
-45053	Fryzura Muszkietera
-45054	Czepek Pokojówki
-45055	Mini-Irokez
-45056	Kok Salsa
-45057	Kapelusz Bogarta
-45058	Kwiecista Fryzura
-45061	Dyniowa Maska
-45062	Dyniowa Maska
-45065	Fryzura Muszkietera+
-45066	Czepek Pokojówki+
-45067	Mini-Irokez+
-45068	Kok Salsa+
-45069	Kapelusz Bogarta+
-45070	Kwiecista Fryzura+
-45073	Dyniowa Maska (bonus)
-45074	Dyniowa Maska (bonus)
-45075	Świąt. Czapa (czerw.)
-45076	Świąt. Czapa (ziel.)
-45077	Świąt. Czapa (czarna)
-45078	Elficki Kapelusz
-45079	Czerep Renifera (m)
-45080	Czerep Renifera (k)
-45081	Świąt. Czapa+ (czerw.)
-45082	Świąt. Czapa+ (ziel.)
-45083	Świąt. Czapa+ (czarna)
-45084	Elficki Kapelusz+
-45085	Czerep Renifera+ (m)
-45086	Czerep Renifera+ (k)
-45087	Bandana (biała)
-45088	Bandana (biała)
-45089	Bandana (czarna)
-45090	Bandana (czarna)
-45091	Bandana (żółta)
-45092	Bandana (żółta)
-45093	Bandana (pomarańczowa)
-45094	Bandana (pomarańczowa)
-45095	Bandana (niebieska)
-45096	Bandana (niebieska)
-45097	Bandana+ (biała)
-45098	Bandana+ (biała)
-45099	Bandana+ (czarna)
-45100	Bandana+ (czarna)
-45101	Bandana+ (żółta)
-45102	Bandana+ (żółta)
-45103	Bandana+ (pomarańczowa)
-45104	Bandana+ (pomarańczowa)
-45105	Bandana+ (niebieska)
-45106	Bandana+ (niebieska)
-45119	Uszy Zająca (czar.)
-45120	Uszy Zająca (nieb.)
-45121	Uszy Zająca (ziel.)
-45122	Uszy Zająca (róż.)
-45123	Uszy Zajączka (czar.)
-45124	Uszy Zajączka (nieb.)
-45125	Uszy Zajączka (ziel.)
-45126	Uszy Zajączka (róż.)
-45127	Uszy Zająca+ (czar.)
-45128	Uszy Zająca+ (nieb.)
-45129	Uszy Zająca+ (ziel.)
-45130	Uszy Zająca+ (róż.)
-45131	Uszy Zajączka+ (czar.)
-45132	Uszy Zajączka+ (nieb.)
-45133	Uszy Zajączka+ (ziel.)
-45134	Uszy Zająca+ (róż.)
-45135	Fryzura kobry (m)
-45136	Fryzura kobry (k)
-45137	Fryzura kobry+ (m)
-45138	Fryzura kobry+ (k)
-45139	Maska Tengu
-45140	Maska Wenecka
-45141	Maska Kifwebe
-45142	Maska Majów
-45143	Maska Tengu+
-45144	Maska Wenecka+
-45145	Maska Kifwebe+
-45146	Maska Majów+
-45147	Czarny Turban (m)
-45148	Czarny Turban (k)
-45149	Czarny Turban+ (m)
-45150	Czarny Turban+ (k)
-45151	Hełm Azraela (m)
-45152	Hełm Azraela (k)
-45153	Hełm Azraela+ (m)
-45154	Hełm Azraela+ (k)
-45155	Čć»çĹő±¸
-45156	Czerep Jacka Pumpkina (m)
-45157	Czerep Jacka Pumpkina (k)
-45158	Czerep Jacka Pumpkina+ (m
-45159	Czerep Jacka Pumpkina+ (k
-50001	Księga Szczęścia
-50002	Złoty Pierścień
-50003	Zwój Cofania Umiejętn.
-50004	Wykrywacz Zdarzeń
-50005	Bilet Na Jazdę Konną
 50006	Złota Szkatułka
 50007	Srebrna Szkatułka
 50008	Złoty Klucz
 50009	Srebrny Klucz
 50010	Skarpetka
 50011	Szkat. Blasku Księżyca
-50012	Złota Szkatułka+
-50013	Srebrna Szkatułka+
-50014	Złoty Klucz+
-50015	Srebrny Klucz+
-50016	Pasta Fasolowa
-50017	Pasta Cukrowa
-50018	Pasta Owocowa
-50019	Słodki Ryż
-50020	Torcik Fasolowy
-50021	Torcik Cukrowy
-50022	Torcik Owocowy
-50023	Sakiewka Pieniędzy
-50024	Róża
-50025	Czekolada
-50026	Monety
-50027	Bilet Na Loterię
-50028	24k Złoty Pierścień
-50029	18k Złoty Pierścień
-50030	14k Złoty Pierścień
-50031	Róża
-50032	Cukierek
-50033	Zagadkowa Szkatułka
-50034	Szkatułka Z Zagadką
-50035	Prezent (żółty)
-50036	Prezent (fioletowy)
 50037	Heksagonalna Szkatułka
 50038	Brązowy Certyfikat
 50039	Srebrny Certyfikat
 50040	Złoty Certyfikat
-50041	Podarunek
-50042	Złoty medal Bohatera
 50050	Medal Konny
 50051	Zdjęcie Konia
 50052	Księga Opanc. Konia
-50053	Księga Wojskowego Konia
+50053	Księga Konia
 50054	Siano
 50055	Marchewka
 50056	Czerwony Żeń-szeń
@@ -4395,37 +3624,7 @@
 50058	Zioło Z Normalnych Małp
 50059	Zioło Z Trudnych Małp
 50060	Instr. Jazdy Konnej
-50061	Instr. Oswajania Konia
-50062	Instr. Powożenia
-50067	Zwój Ewolucji
-50068	Zwój Mutacji
-50070	Szkatułka Wodza Orków
-50071	Szkatułka Ezot. Władcy
-50072	Szkat. Odrodz. Władcy
-50073	Szkat. Królowej Pająków
-50074	Szkatułka Olbrz. Pająka
-50075	Szkat. Nosiciela Plagi
-50076	Szkat. Pustynnego Żółwia
-50077	Szkat.Dziewięciu Ogonów
-50078	Szkat. Żółtego Tygrysa
-50079	Szkat. Ognistego Króla
-50080	Szkat. Czerwonego Smoka
-50081	Szkat. Króla Demonów
-50082	Szkat. Umarłego Rozpruw.
-50083	Bilet Na Jazdę Konną
 50084	Kamień Otwarcia
-50085	Nasionko
-50086	Księżycowy Torcik
-50087	Fasolowe Ciastko Ryżowe
-50088	Kminkowe Ciastko Ryżowe
-50089	Kamień Otwarcia
-50090	Szkat. Lisa o 9 Ogonach
-50091	Sushi z Welonki
-50092	Sushi Z Karpia
-50093	Sushi Z Łososia
-50094	Sushi z Suma
-50095	Dynia
-50096	Piłka
 50100	Ogniste Petardy
 50101	Ogniste Petardy
 50102	Ogniste Petardy
@@ -4442,62 +3641,6 @@
 50113	Ziel. Ebonit. Szkatułka
 50114	Nieb. Ebon. Szkatułka
 50115	Fiol. Ebonit. Szkatułka
-50116	Bon Na Wymianę Broni
-50117	Pudełko klejnotów
-50118	NoNAme
-50119	NoNAme
-50120	Żelazna Szkatułka
-50121	Żelazne Pudełko
-50122	Żelazna Skrzynia
-50123	Lody
-50124	Spróchniała Skrzynia
-50125	Tajemnicza Skrzynia
-50126	Tajemnicza Skrzynia
-50127	Taj. Szmaragd. Skrzynia
-50128	Taj. Szafirowa Skrzynia
-50129	Taj. Ametystowa Skrzynia
-50130	Olimpijska Skrzynia
-50131	Taj. Cytrynowa Skrzynia
-50132	Taj. Rubinowa Skrzynia
-50133	Taj. Szmaragd. Skrzynia
-50134	Taj. Szafirowa Skrzynia
-50135	Taj. Ametystowa Skrzynia
-50136	Taj. Topazowa Skrzynia
-50137	Taj. Cytrynowa Skrzynia
-50150	Rubinowy Klucz
-50151	Szmaragdowy Klucz
-50152	Szafirowy Klucz
-50153	Ametystowy Klucz
-50154	Topazowy Klucz
-50155	Cytrynowy Klucz
-50156	Diamentowy Klucz
-50160	Jajko wielkanocne
-50161	Jajko wielkanocne
-50162	Jajko wielkanocne
-50163	Jajko wielkanocne
-50164	Jajko wielkanocne
-50165	Jajko wielkanocne
-50166	Jajko wielkanocne
-50167	Jajko wielkanocne
-50168	Jajko wielkanocne
-50169	Jajko wielkanocne
-50170	Jajko wielkanocne
-50171	Jajko wielkanocne
-50172	Jajko wielkanocne
-50173	Jajko wielkanocne
-50174	Jajko wielkanocne
-50175	Jajko wielkanocne
-50176	Jajko wielkanocne
-50177	Jajko wielkanocne
-50178	Jajko wielkanocne
-50179	Jajko wielkanocne
-50180	Pusty koszyk
-50181	Koszyk z jajkami
-50182	Skrzynia Błogosławieństw
-50183	Słodycze
-50184	NoNAme
-50185	NoNAme
-50186	Skrzynia Azraela
 50187	Skrzynia Ucznia I
 50188	Skrzynia Ucznia II
 50189	Skrzynia Ucznia III
@@ -4508,20 +3651,7 @@
 50194	Skrzynia Mistrza II
 50195	Skrzynia Mistrza III
 50196	Skrzynia Arcymistrza
-50197	NoNAme
-50198	NoNAme
-50199	NoNAme
-50200	Tobół
 50201	Bukiet
-50202	Bukiet
-50212	Skrzynia Ucznia I
-50213	Skrzynia Ucznia I
-50215	Upiorna Skrzynia
-50216	Grzaniec
-50249	Skrzynia Triumfu
-50252	Cor Draconis
-50253	NoNAme
-50254	Skrzynia Mroku
 50255	Cor Draconis (surowe)
 50256	Cor Draconis (szlif.)
 50257	Cor Draconis (rzadkie)
@@ -4539,38 +3669,33 @@
 50308	Księga Misji (Normalna)
 50309	Księga Misji (Trudna)
 50310	Księga Misji (ekspert)
-50311	Język Shinsoo
-50312	Język Chunjo
-50313	Język Jinno
 50314	Księga Polimorfii
 50315	Zaaw. Ks. Polimorfii
 50316	Mistrz. Ks. Polimorfii
-50317	Księga Misji (test)
-50318	Księga Misji (łatwa)
-50319	Księga Misji (normalna)
-50320	Księga Misji (trudna)
-50321	Księga Misji (ekspert)
-50322	Rola Transformacyjna
 50401	Instr. Trzystr. Cięcie
 50402	Instr. Wir Miecza
 50403	Instr. Berserk
 50404	Instr. Aura Miecza
 50405	Instr. Szarża
+50406	Instr. Woli Życia
 50416	Instr. Duchowe Uderzenie
 50417	Instr. Walnięcie
 50418	Instr. Tąpnięcie
 50419	Instr. Silne Ciało
 50420	Instr. Uderzenie Miecza
+50421	Instr. Kręgu Mieczy
 50431	Instr. Zasadzka
 50432	Instr. Szybki Atak
 50433	Instr. Wirujący Sztylet
 50434	Instr. Krycie Się
 50435	Instr. Trująca Chmura
+50436	Instr. Wolno Dział.Tru.
 50446	Instr. Powtarz. Strzał
 50447	Instr. Deszcz Strzał
 50448	Instr. Ognista Strzała
 50449	Instr. Bezszelest. Chód
 50450	Instr. Trująca Strzała
+50451	Instr. Iskrzące Uderz.
 50461	Instr. Uderzenie Palcem
 50462	Instr. Smoczy Wir
 50463	Instr. Czarowane Ostrze
@@ -4595,9 +3720,7 @@
 50509	Instr. Leczenie
 50510	Instr. Zwinność
 50511	Instr. Podwyż. Ataku
-50512	Tęczowy Kamień
 50513	Kamień Duchowy
-50600	Przewodnik Do Górnictwa
 50601	Diamentowy Kamień
 50602	Kawałek Bursztynu
 50603	Skamieniały Pień
@@ -4611,11 +3734,13 @@
 50611	Ruda Kryształu
 50612	Ruda Ametystu
 50613	Ruda Niebiań. Łez
-50614	Dusza Rudy Kryształu
+50614	Ruda Kryształu Duszy
 50615	Ruda Rubinu
 50616	Ruda Granatu
 50617	Ruda Szmaragdu
 50618	Ruda Szafiru
+50619	Ruda Turmalinu
+50620	Odłamek Skały
 50621	Diament
 50622	Bursztyn
 50623	Skamieniałe Drewno
@@ -4634,6 +3759,7 @@
 50636	Granat
 50637	Szmaragd
 50638	Szafir
+50639	Turmalin
 50701	Kwiat Brzoskwini
 50702	Pokrzywa
 50703	Kwiat Kaki
@@ -4679,282 +3805,18 @@
 50819	Woda Mong
 50820	Woda Hwal
 50821	Czerwona Rosa
-50822	Różowa Rosa
+50822	Pomarańczowa Rosa
 50823	Żółta Rosa
 50824	Zielona Rosa
 50825	Niebieska Rosa
 50826	Biała Rosa
+50827	Fioletowa Rosa
+50828	Szara Rosa
+50890	Skrzynia Ros
 50901	Pusta Butelka
-50902	Przepis Dla Początkując.
-50903	Przepis
-50904	Przepis Dla Profesjonal.
-50905	Przepis Na Wodę Sim
-50906	Przepis Na Wodę Dok
-50907	Przepis Na Wodę Bo
-50908	Przepis Na Wodę Young
-50909	Przepis Na Wodę Zin
-50910	Przepis Na Wodę Hwal
 51001	Odłamek Energii
 51002	Kryształ Energii
-51501	Cor Draconis (surowe)
-51502	Cor Draconis (surowe)
-51503	Cor Draconis (zwyczajne)
-51504	Cor Draconis (szlachetne)
-51505	Cor Draconis (drogocenne)
-51506	Cor Draconis (mityczne)
-51507	Cor Draconis (szlifowane)
-51508	Cor Draconis (rzadkie)
-51509	Cor Draconis (antyczne)
-51510	Cor Draconis (legendarne)
-51511	Cor Diamas
-51512	Cor Rubinum
-51513	Cor Jadeit
-51514	Cor Saphirum
-51515	Cor Granatum
-51516	Cor Atrum
-51517	Cor Diamas (zwyczajne)
-51518	Cor Rubinum (zwyczajne)
-51519	Cor Jadeit (zwyczajne)
-51520	Cor Saphirum (zwyczajne)
-51521	Cor Granatum (zwyczajne)
-51522	Cor Atrum (zwyczajne)
-51523	Cor Diamas (szlachetne)
-51524	Cor Rubinum (szlachetne)
-51525	Cor Jadeit (szlachetne)
-51526	Cor Saphirum (szlachetne)
-51527	Cor Granatum (szlachetne)
-51528	Cor Atrum (szlachetne)
-51529	Cor Diamas (drogocenne)
-51530	Cor Rubinum (drogocenne)
-51531	Cor Jadeit (drogocenne)
-51532	Cor Saphirum (drogocenne)
-51533	Cor Granatum (drogocenne)
-51534	Cor Atrum (drogocenne)
-51535	Cor Diamas (nieskaz.)
-51536	Cor Rubinum (nieskaz.)
-51537	Cor Jadeit (nieskaz.)
-51538	Cor Saphirum (nieskaz.)
-51539	Cor Granatum (nieskaz.)
-51540	Cor Atrum (nieskaz.)
-51541	Cor Draconis (rozżarzone)
-51542	Cor Diamas (rozżarzone)
-51543	Cor Rubinum (rozżarzone)
-51544	Cor Jadeit (rozżarzone)
-51545	Cor Saphirum (rozżarzone)
-51546	Cor Granatum (rozżarzone)
-51547	Cor Atrum (rozżarzone)
-51548	Cor Draconis (nieskaz.)
-51549	Cor Draconis (wieczne)
-51550	Cor Diamas (wieczne)
-51551	Cor Rubinum (wieczne)
-51552	Cor Jadeit (wieczne)
-51553	Cor Saphirum (wieczne)
-51554	Cor Granatum (wieczne)
-51555	Cor Atrum (wieczne)
-51556	Cor Diamas (mityczne)
-51557	Cor Rubinum (mityczne)
-51558	Cor Jadeit (mityczne)
-51559	Cor Saphirum (mityczne)
-51560	Cor Granatum (mityczne)
-51561	Cor Atrum (mityczne)
-51562	Cor Draconis (epickie)
-51563	Cor Diamas (epickie)
-51564	Cor Rubinum (epickie)
-51565	Cor Jadeit (epickie)
-51566	Cor Saphirum (epickie)
-51567	Cor Granatum (epickie)
-51568	Cor Atrum (epickie)
-51569	Cor Draconis (boskie)
-51570	Cor Diamas (boskie)
-51571	Cor Rubinum (boskie)
-51572	Cor Jadeit (boskie)
-51573	Cor Saphirum (boskie)
-51574	Cor Granatum (boskie)
-51575	Cor Atrum (boskie)
-51576	Cor Draconis+ (zwyczajne)
-51577	Cor Diamas+ (zwyczajne)
-51578	Cor Rubinum+ (zwyczajne)
-51579	Cor Jadeit+ (zwyczajne)
-51580	Cor Saphirum+ (zwyczajne)
-51581	Cor Granatum+ (zwyczajne)
-51582	Cor Atrum+ (zwyczajne)
-51583	Cor Draconis+ (szlach.)
-51584	Cor Diamas+ (szlachetne)
-51585	Cor Rubinum+ (szlachetne)
-51586	Cor Jadeit+ (szlachetne)
-51587	Cor Saphirum+ (szlach.)
-51588	Cor Granatum+ (szlach.)
-51589	Cor Atrum+ (szlachetne)
-51590	Cor Draconis+ (drogoc.)
-51591	Cor Diamas+ (drogocenne)
-51592	Cor Rubinum+ (drogocenne)
-51593	Cor Jadeit+ (drogocenne)
-51594	Cor Saphirum+ (drogoc.)
-51595	Cor Granatum+ (drogoc.)
-51596	Cor Atrum+ (drogocenne)
-51597	Cor Draconis+ (nieskaz.)
-51598	Cor Diamas+ (nieskaz.)
-51599	Cor Rubinum+ (nieskaz.)
-51600	Cor Jadeit+ (nieskaz.)
-51601	Cor Saphirum+ (nieskaz.)
-51602	Cor Granatum+ (nieskaz.)
-51603	Cor Atrum+ (nieskaz.)
-51604	Cor Draconis+ (rozżarz.)
-51605	Cor Diamas+ (rozżarzone)
-51606	Cor Rubinum+ (rozżarzone)
-51607	Cor Jadeit+ (rozżarzone)
-51608	Cor Saphirum+ (rozżarz.)
-51609	Cor Granatum+ (rozżarz.)
-51610	Cor Atrum+ (rozżarzone)
-51611	Cor Draconis+ (wieczne)
-51612	Cor Diamas+ (wieczne)
-51613	Cor Rubinum+ (wieczne)
-51614	Cor Jadeit+ (wieczne)
-51615	Cor Saphirum+ (wieczne)
-51616	Cor Granatum+ (wieczne)
-51617	Cor Atrum+ (wieczne)
-51618	Cor Draconis+ (mityczne)
-51619	Cor Diamas+ (mityczne)
-51620	Cor Rubinum+ (mityczne)
-51621	Cor Jadeit+ (mityczne)
-51622	Cor Saphirum+ (mityczne)
-51623	Cor Granatum+ (mityczne)
-51624	Cor Atrum+ (mityczne)
-51625	Cor Draconis+ (epickie)
-51626	Cor Diamas+ (epickie)
-51627	Cor Rubinum+ (epickie)
-51628	Cor Jadeit+ (epickie)
-51629	Cor Saphirum+ (epickie)
-51630	Cor Granatum+ (epickie)
-51631	Cor Atrum+ (epickie)
-51632	Cor Draconis+ (boskie)
-51633	Cor Diamas+ (boskie)
-51634	Cor Rubinum+ (boskie)
-51635	Cor Jadeit+ (boskie)
-51636	Cor Saphirum+ (boskie)
-51637	Cor Granatum+ (boskie)
-51638	Cor Atrum+ (boskie)
-51639	Smocza Skrzynia
-51640	Smocza Skrzynia+
-51641	Smocza Skrzynia+ (kol.)
-51642	Smocza Skrzynia (kol.)
-51643	Szlach. Smocza Skrzynia
-51644	Szlach. Smocza Skrzynia+
-51645	Szlach.Sm. Skrz.+ (kol.)
-51646	Szlach.Sm. Skrz. (kol.)
-52001	Młody Dzik (Pieczęć)
-52002	Młody Dzik (Pieczęć)
-52003	Młody Dzik (Pieczęć)
-52004	Młody Dzik (Pieczęć)
-52005	Młody Dzik (Pieczęć)
-52006	Dziki Dzik (Pieczęć)
-52007	Dziki Dzik (Pieczęć)
-52008	Dziki Dzik (Pieczęć)
-52009	Dziki Dzik (Pieczęć)
-52010	Dziki Dzik (Pieczęć)
-52011	Dzielny Dzik (Pieczęć)
-52012	Dzielny Dzik (Pieczęć)
-52013	Dzielny Dzik (Pieczęć)
-52014	Dzielny Dzik (Pieczęć)
-52015	Dzielny Dzik (Pieczęć)
-52016	Młody Wilk (Pieczęć)
-52017	Młody Wilk (Pieczęć)
-52018	Młody Wilk (Pieczęć)
-52019	Młody Wilk (Pieczęć)
-52020	Młody Wilk (Pieczęć)
-52021	Dziki Wilk (Pieczęć)
-52022	Dziki Wilk (Pieczęć)
-52023	Dziki Wilk (Pieczęć)
-52024	Dziki Wilk (Pieczęć)
-52025	Dziki Wilk (Pieczęć)
-52026	Dzielny Wilk (Pieczęć)
-52027	Dzielny Wilk (Pieczęć)
-52028	Dzielny Wilk (Pieczęć)
-52029	Dzielny Wilk (Pieczęć)
-52030	Dzielny Wilk (Pieczęć)
-52031	Młody Lew (Pieczęć)
-52032	Młody Lew (Pieczęć)
-52033	Młody Lew (Pieczęć)
-52034	Młody Lew (Pieczęć)
-52035	Młody Lew (Pieczęć)
-52036	Dziki Lew (Pieczęć)
-52037	Dziki Lew (Pieczęć)
-52038	Dziki Lew (Pieczęć)
-52039	Dziki Lew (Pieczęć)
-52040	Dziki Lew (Pieczęć)
-52041	Dzielny Lew (Pieczęć)
-52042	Dzielny Lew (Pieczęć)
-52043	Dzielny Lew (Pieczęć)
-52044	Dzielny Lew (Pieczęć)
-52045	Dzielny Lew (Pieczęć)
-52046	Młody Tygrys (Pieczęć)
-52047	Młody Tygrys (Pieczęć)
-52048	Młody Tygrys (Pieczęć)
-52049	Młody Tygrys (Pieczęć)
-52050	Młody Tygrys (Pieczęć)
-52051	Dziki Tygrys (Pieczęć)
-52052	Dziki Tygrys (Pieczęć)
-52053	Dziki Tygrys (Pieczęć)
-52054	Dziki Tygrys (Pieczęć)
-52055	Dziki Tygrys (Pieczęć)
-52056	Dzielny Tygrys (Pieczęć)
-52057	Dzielny Tygrys (Pieczęć)
-52058	Dzielny Tygrys (Pieczęć)
-52059	Dzielny Tygrys (Pieczęć)
-52060	Dzielny Tygrys (Pieczęć)
-52061	Pieczęć Młodego Renifera
-52062	Pieczęć Młodego Renifera
-52063	Pieczęć Młodego Renifera
-52064	Pieczęć Młodego Renifera
-52065	Pieczęć Młodego Renifera
-52066	Piecz. Dzikiego Renifera
-52067	Piecz. Dzikiego Renifera
-52068	Piecz. Dzikiego Renifera
-52069	Piecz. Dzikiego Renifera
-52070	Piecz. Dzikiego Renifera
-52071	Piecz. Dziel. Renifera
-52072	Piecz. Dziel. Renifera
-52073	Piecz. Dziel. Renifera
-52074	Piecz. Dziel. Renifera
-52075	Piecz. Dziel. Renifera
-52076	Pieczęć Młodego Renifera
-52077	Pieczęć Młodego Renifera
-52078	Pieczęć Młodego Renifera
-52079	Pieczęć Młodego Renifera
-52080	Pieczęć Młodego Renifera
-52081	Piecz. Dzikiego Renifera
-52082	Piecz. Dzikiego Renifera
-52083	Piecz. Dzikiego Renifera
-52084	Piecz. Dzikiego Renifera
-52085	Piecz. Dzikiego Renifera
-52086	Piecz. Dzieln. Renifera
-52087	Piecz. Dzieln. Renifera
-52088	Piecz. Dzieln. Renifera
-52089	Piecz. Dzieln. Renifera
-52090	Piecz. Dzieln. Renifera
-52091	Pieczęć Młodego Dragora
-52092	Pieczęć Młodego Dragora
-52093	Pieczęć Młodego Dragora
-52094	Pieczęć Młodego Dragora
-52095	Pieczęć Młodego Dragora
-52096	Pieczęć Dzikiego Dragora
-52097	Pieczęć Dzikiego Dragora
-52098	Pieczęć Dzikiego Dragora
-52099	Pieczęć Dzikiego Dragora
-52100	Pieczęć Dzikiego Dragora
-52101	Pieczęć Śmiałego Dragora
-52102	Pieczęć Śmiałego Dragora
-52103	Pieczęć Śmiałego Dragora
-52104	Pieczęć Śmiałego Dragora
-52105	Pieczęć Śmiałego Dragora
-52701	Świadectwo Lwa
-52702	Świadectwo Tygrysa
-52703	Świadectwo Dzika
-52704	Świadectwo Wilka
-52705	Świadectwo Renifera (m)
-52706	Świadectwo Renifera (ż)
-52707	Certyfikat Dragora
-53001	NoNAme
+53001	Pieczęć Ognist. Feniksa
 53002	Pieczęć Reniferka
 53003	Pieczęć Lodowego Feniksa
 53005	Azraeluś
@@ -4970,183 +3832,38 @@
 53015	Pieczęć Kata (złota)
 53016	Pieczęć Kostka
 53017	Pieczęć Feniksa Jadeitu
-53501	NoNAme
-53502	Skrzynia Reniferka
-53503	Klatka Lodowego Feniksa
-53504	NoNAme
-53505	Skrzynia Azraelusia
-53506	Skrz. Azraelusia (złota)
-53507	Skrzynia Bambi
-53508	Skrzynia Knuuda
-53509	Skrzynia Bao Bao
-53510	Skrzynia Leonidasa
-53511	Skrzynia Khana
-53512	Skrzynia Boczusia
-53513	Skrzynia Rufusa
-53514	Skrzynia Kata
-53515	Skrzynia Kata (złota)
-53516	Trupia Skrzynia
-53517	Jadeitowa Klatka
+53018	Śnieżny Leonidas(piecz.)
+53019	Arktyczny Khan (pieczęć)
+53020	Polarny Boczuś (pieczęć)
+53021	Mroźny Rufus (pieczęć)
+53022	Pieczęć Sheldona
+53023	Pieczęć Coopera
 60001	Żółć
-60002	Rekomend. Od Dozorcy
-60003	Heroiczny Symbol
-69000	Sekret Walnięcia
-69010	Sekret Chi
-69020	Sekret Duchowego Uderz.
-69030	Sekret Uderz. Ataku
-69040	Sekret Zasadzki
-69050	Sekret Strzały
-69060	Sekret Bezszelest. Chodu
-69070	Sekret Szybkiego Uderz.
-69080	Sekret Mrocznego Uderz.
-69090	Sekret Smoczego Wiru
-69100	Sekr.Uderz.Nieba I Ziemi
-69110	Sekret Czarowania Ostrza
-69120	Sekret Latającego Taliz.
-69130	Sekret Leczenia
-69140	Sekret Pomocy Smoka
-69150	Sekret Błogosławieństwa
-70001	Lalka Bogini
-70002	Trzecia Ręka
-70003	Książka Lidera
-70004	Medal Za Pracowitość
-70005	Pierścień Doświadczenia
-70006	Pierścień Języka
-70007	Pierścień Przeniesienia
-70008	Biała Flaga
-70009	Szkatułka
-70010	Bilet Do Magazynu
-70011	Ulepszona Butelka
-70012	Łza Bogini
-70013	Olbrz. Łza Bogini
-70014	Pigułka Krwi
-70015	Tania Szczotka
-70016	Indiańska Lalka
-70017	Indiańska Bransoleta
-70018	Kolczyki Feniksa
-70019	Naszyjnik Milionera
-70020	Wino z Kwiatu Brzoskwini
-70021	Błogosławieństwo Anioła
-70022	Serce Bera
-70023	Laska Mędrca
-70024	Marmur Błogosławieństwa
-70025	Pierścień Godności
-70026	Ginące Lustro
-70027	Notatka Kowala
-70028	Notatka Mędrca
-70029	Czerwone Pióro
-70030	Czerwony Monokl
-70031	Broszura Szermierki
-70032	Instr. Dwuręcz. Miecza
-70033	Instr. Jednoręcz. Miecza
-70034	Instr. Sztyletu
-70035	Magiczna Ruda Miedzi
-70036	Notatka Honor. Studenta
-70037	Księga Zapomnienia
-70038	Peleryna Męstwa
-70039	Podręcznik Kowala
-70040	Upartość Orków
-70041	Pięść Wyznawcy
-70042	Odłamek Diabła
-70043	Rękawica Złodzieja
-70044	Paznokieć Mroczn. Lorda
-70045	Pazur Mrocznego Lorda
-70046	Graal Boga Smoków
-70047	Pierścień Jęz.(Przykład)
-70048	Płaszcz Uciekiniera
-70049	Pierścień Lucy
-70050	Symb. Króla Przepowiedni
-70051	Rękawica Króla Przepow.
-70052	Amulet Karmy 1
-70053	Amulet Karmy 2
-70054	Amulet Karmy 3
-70056	Sok z Owocu Granatu+
-70057	Peleryna Męstwa
-70058	Pierścień Teleportacji
-70101	Księga Opatrzności
-70102	Fasolka Zen
-70103	Sutra
 70104	Marmur Polimorfii
-70105	Marmur Polimorfii
-70106	Marmur Polimorfii
-70107	Marmur Polimorfii
-70201	Wybielacz
-70202	Biała Farba Do Włosów
-70203	Blond Farba Do Włosów
-70204	Czerw. Farba Do Włosów
-70205	Brązowa Farba Do Włosów
-70206	Czarna Farba Do Włosów
-70207	Wybielacz
-70208	Brązowa Farba
-70251	Czerwone Zioło
-70252	Niebieskie Zioło
-70253	Zielone Zioło
-70254	Fioletowe Zioło
 70301	Pierścionek Zaręczynowy
 70302	Obrączka Ślubna
 71001	Zwój Egzorcyzmu
 71002	Zwój Powrotu Statusu
 71003	Zwój Powrotu Umiejętn.
 71004	Medal Smoka
-71005	Pierścień Języka
-71006	Pierścień Języka
-71007	Pierścień Języka
-71008	Rybie Wnętrzności
-71009	Powiększony Skład
-71010	Trzecia Ręka
-71011	Maska Uczuć
-71012	Książka Lidera
-71013	Fajerwerki
-71014	Mikstura Ataku +10
-71015	Pierścień Doświadczenia
-71016	Rękawica Złodzieja
-71017	Medal Szczęścia
+71005	Peleryna Męstwa
+71006	Wieczna Peleryna Męstwa
 71018	Błogosławieństwo Życia
 71019	Błogosławieństwo Magii
 71020	Błogosławieństwo Smoka
-71021	Zwój Wojny
-71022	Powrót - Inteligencja
-71023	Powrót - Witalność
-71024	Powrót - Siła
-71025	Kamień Kowala
-71026	Magiczny Metal
 71027	Życie Boga Smoków
 71028	Atak Boga Smoków
-71029	Inteligencja Boga Smoków
+71029	Pomoc Boga Smoków
 71030	Obrona Boga Smoków
-71031	Wsparcie Boga Smoków
 71032	Zwój Boga Smoków
-71033	Maska Uczuć
-71034	Mikstura Ataku +15
 71035	Eliksir Poszukiwacza
-71036	Zwój Przyw. - Wódz Orków
-71037	Zwój Przyw. - Ezot. Wł.
-71038	Zwój Przyw. - Król. Paj.
-71039	Zwój Przyw. - Pust. Żółw
-71040	Zwój Przyw. - Ogn. Król
-71041	Zwój Przyw. - 9 Ogonów
-71042	Zwój Przyw. - Król Dem.
-71043	Zwój Przyw. - Duch Tygr.
 71044	Dłoń Krytyka
 71045	Dłoń Przebicia
-71047	Olejek Kamienia Dusz
+71047	Olejek Kamienia Duszy
 71048	Zaklęcie Modyfikacji
-71049	Szpula Jedwabiu
-71050	Mikstura Szybkości
+71050	_Mikstura Szybkości
 71054	Olejek Wygnania
 71055	Olejek Nazwy
-71056	Olejek Niebios
-71057	Zwój Przyw. - Ż.S. Drew.
-71058	Zwój Przyw. - Ż. Miedzi
-71059	Zwój Przyw. - Ż. Srebra
-71060	Zwój Przyw. - Żyła Złota
-71061	Zwój Przyw. - Ż. Jadeitu
-71062	Zwój Przyw. - Ż. Ebonitu
-71063	Zwój Przyw. - S. Muszli
-71064	Zwój Przyw. - Ż.B. Złota
-71065	Zwój Przyw. - Ż. Kryszt.
-71066	Zwój Przyw. - Ż. Amet.
-71067	Zwój Przyw. - Ż.N. Łez
 71068	Pióro Ptaka Miłości
 71069	Kolczyki Harmonii
 71070	Bransoleta Miłości
@@ -5154,170 +3871,23 @@
 71072	Bransoleta Harmonii
 71073	Naszyjnik Miłości
 71074	Naszyjnik Harmonii
-71075	Farba do Włosów (Biała)
-71076	Farba do Włosów (Blond)
-71077	Farba do Włosów (Czerw.)
-71078	Farba do Włosów (Brąz.)
-71079	Farba do Włosów (Czarna)
-71080	Kamień Metin (Słaby)
-71081	Kamień Metin (Średni)
-71082	Kamień Metin (Silny)
 71083	Księga Obróbki Kamienia
 71084	Zaczarowanie Przedmiotu
 71085	Wzmocnienie Przedmiotu
-71086	Zadanie Dla Poz. (20-29)
-71087	Zadanie Dla Poz. (30-39)
-71088	Księga Misji (Łatwa)
-71089	Księga Misji (Normalna)
-71090	Księga Misji (Trudna)
-71091	Olejek Handlu
-71092	Księga Polimorfii
-71093	Marmur Polimorfii
 71094	Rada Pustelnika
-71095	Przepustka
-71096	Medal Portalu
 71099	Pierścień Zastępstwa
-71100	Zwój Zmiany Profesji
-71101	Mikstura Pośpiechu
-71102	NoNAme
 71103	Zwój Redystrybucji (WIT)
 71104	Zwój Redystrybucji (INT)
 71105	Zwój Redystrybucji (SIŁ)
 71106	Zwój Redystrybucji (ZRĘ)
 71107	Owoc Życia
-71108	Sok z Owocu Granatu
-71109	Zwój Korekcji
-71110	Cukier dla Konia
-71113	Szkło Intuicji
-71114	Pieczęć Dzika (żółta)
-71115	Pieczęć Dzika (nieb.)
-71116	Pieczęć Wilka (żółta)
-71117	Pieczęć Wilka (nieb.)
-71118	Pieczęć Tygrysa (żółta)
-71119	Pieczęć Tygrysa (nieb.)
-71120	Pieczęć Lwa (żółta)
-71121	Pieczęć Lwa (niebieska)
-71122	NoNAme
-71123	Smocza Łuska
-71124	Biały Lew
-71125	Pieczęć Dzika Wojennego
-71126	Pieczęć Wilka Wojennego
-71127	Pieczęć Szarż. Tygrysa
-71128	Pieczęć Walecznego Lwa
-71129	Smoczy Szpon
-71130	Przepustka
-71131	Pieczęć Czarnego Konia
-71132	Pieczęć Czarnego Konia
-71133	Pieczęć Czarnego Konia
-71134	Pieczęć Czarnego Konia
-71135	Pierścień Półksiężyca
-71136	Lizak Potęgi
-71137	Pieczęć T.B. (niebieski)
-71138	Pieczęć T.B. (czerwona)
-71139	Pieczęć T.B. (złoty)
-71140	Pieczęć T.B. (zielony)
-71141	Pieczęć T.B. (szary)
-71142	Pieczęć T.B. (biały)
-71143	Pierścień Radości
-71144	Świąteczna Skrzynia
-71145	Amulet Wiecznej Miłości
-71146	Skrzynia Amora (różowa)
-71147	Skrzynia Amora (nieb.)
-71148	Pierścień Siły Woli
-71149	Pierścień Śmier. Mocy
-71150	Magiczne Jajo
-71151	Zielony Czar
-71152	Zielona Siła
-71153	Mikstura Mądrości
-71154	Mikstura Zarania (3h)
-71155	Mikstura Mądrości (3h)
-71156	Mikstura Ducha (3h)
-71157	NoNAme
-71158	Medal Bohatera
-71159	Skrzynia Milona
-71160	Skrzynia Ateny
-71161	Equus Purpur
-71164	Pieczęć Kometka
-71165	Piecz. Polarnego Drap.
-71166	Pancerna Panda (Pieczęć)
-71171	Pieczęć Jednorożca
-71172	Pieczęć Mary Sennej
 72001	Pierścień Doświadczenia
-72002	Pierścień Doświadczenia
-72003	Pierścień Doświadczenia
 72004	Rękawica Złodzieja
-72005	Rękawica Złodzieja
-72006	Rękawica Złodzieja
-72007	Szpula Jedwabiu
-72008	Szpula Jedwabiu
-72009	Szpula Jedwabiu
 72010	Pióro Ptaka Miłości
-72011	Pióro Ptaka Miłości
-72012	Pióro Ptaka Miłości
 72013	Rybie Wnętrzności
-72014	Rybie Wnętrzności
-72015	Rybie Wnętrzności
 72016	Trzecia Ręka
-72017	Trzecia Ręka
-72018	Trzecia Ręka
-72019	Powiększony Skład
-72020	Powiększony Skład
-72021	Powiększony Skład
 72022	Medal Szczęścia
-72023	Medal Szczęścia
-72024	Medal Szczęścia
-72025	Dłoń Przebicia
-72026	Dłoń Krytyka
-72027	Dłoń Krytyka
-72028	Maska Uczuć
-72029	Maska Uczuć
-72030	Maska Uczuć
-72031	Atak Boga Smoków
-72032	Atak Boga Smoków
-72033	Atak Boga Smoków
-72034	Obrona Boga Smoków
-72035	Obrona Boga Smoków
-72036	Obrona Boga Smoków
-72037	Życie Boga Smoków
-72038	Życie Boga Smoków
-72039	Życie Boga Smoków
-72040	Inteligencja Boga Smoków
-72041	Inteligencja Boga Smoków
-72042	Inteligencja Boga Smoków
 72043	Książka Lidera
-72044	Książka Lidera
-72045	Książka Lidera
-72046	Dłoń Krytyka
-72047	Dłoń Krytyka
-72048	Dłoń Krytyka
-72049	Pierścień Doświadczenia
-72050	Pierścień Doświadczenia
-72301	Zwój Błogosławieństwa
-72302	NoNAme
-72303	NoNAme
-72304	NoNAme
-72305	NoNAme
-72306	NoNAme
-72307	NoNAme
-72308	Magiczna Ruda Miedzi
-72309	NoNAme
-72310	NoNAme
-72311	NoNAme
-72312	NoNAme
-72313	NoNAme
-72314	NoNAme
-72501	Pierścień Dośw. (iCafe)
-72502	Rękawica Złodz. (iCafe)
-72701	Buty Wiatru
-72702	Buty Wiatru+ (do handlu)
-72703	Kolczyk z kości tygrysa
-72704	Kolczyk z kości smoka
-72705	Brans. z kości tygrysa
-72706	Brans. z kości smoka
-72709	Kolczyk z kości tygrysa
-72710	Kolczyk z kości smoka
-72711	Brans. z kości tygrysa
-72712	Brans. z kości smoka
 72723	Eliksir Słońca (M)
 72724	Eliksir Słońca (Ś)
 72725	Eliksir Słońca (D)
@@ -5326,262 +3896,80 @@
 72728	Eliksir Księżyca (Ś)
 72729	Eliksir Księżyca (D)
 72730	Eliksir Księżyca (S)
-73001	Modna Fryzura (czerw.)
-73002	Modna Fryzura (jasna)
-73003	Modna Fryzura (nieb.)
-73004	Modna Fryzura (brąz.)
-73005	Chusta
-73006	Chusta
-73007	Chusta
-73008	Chusta
-73009	Długie Włosy (czar.)
-73010	Długie Włosy (czerw.)
-73011	Długie Włosy (brąz.)
-73012	Długie Włosy (ziel.)
-73251	Kucyk (brąz.)
-73252	Kucyk (ziel.)
-73253	Kucyk (nieb.)
-73254	Kucyk (jasny)
-73255	Krótkie Włosy (czerw.)
-73256	Krótkie Włosy (brąz.)
-73257	Krótkie Włosy (blond)
-73258	Krótkie Włosy (fiol.)
-73259	Krótkie (czerw.)
-73260	Krótkie (nieb.)
-73261	Krótkie (czar.)
-73262	Krótkie (blond)
-73501	Spięte (jasne)
-73502	Spięte (brąz.)
-73503	Spięte (blond)
-73504	Spięte (ziel.)
-73505	Charyzm. Włosy (białe)
-73506	Charyzm. Włosy (czerw.)
-73507	Charyzm. Włosy (czar.)
-73508	Charyzm. Włosy (purp.)
-73509	Zawinięte (białe)
-73510	Zawinięte (nieb.)
-73511	Zawinięte (czar.)
-73512	Zawinięte (brąz.)
-73751	Spinka Motyl (brąz.)
-73752	Spinka Motyl (czar.)
-73753	Spinka Motyl (nieb.)
-73754	Spinka Motyl (biała)
-73755	Półdługie Włosy (brąz.)
-73756	Długie Włosy (czar.)
-73757	Długie Włosy (blond)
-73758	Długie Włosy (fiol.)
-73759	Dawna Fryzura (brąz.)
-73760	Dawna Fryzura (jasna)
-73761	Dawna Fryzura (fiol.)
-73762	Dawna Fryzura (czerw.)
-74001	Dumna fryzura (czerw.)
-74002	Dumna fryzura (jasna)
-74003	Dumna Fryzura (nieb.)
-74004	Dumna Fryzura (brąz.)
-74005	Chusta (czerw.)
-74006	Chusta (kratk.)
-74007	Chusta (nieb.)
-74008	Chusta (ziel.)
-74009	Długie Włosy (czarne)
-74010	Długie Włosy (czerw.)
-74011	Długie Włosy (brązowe)
-74012	Długie Włosy (ziel.)
-74013	Afro Wojownika
-74014	Afro Wojownika
-74015	Hełm Wojownika
-74016	Hełm Wojownika
-74017	Fez Wojownika
-74018	Kefija Wojownika
-74019	Turban Wojownika
-74020	Maska Dyni Wojownik (m)
-74251	Kucyk (brąz.)
-74252	Kucyk (ziel.)
-74253	Kucyk (niebieski)
-74254	Kucyk (kremowy)
-74255	Krótkie włosy (czerw.)
-74256	Krótkie włosy (brąz.)
-74257	Krótkie włosy (jasne)
-74258	Krótkie włosy (purp.)
-74259	Krótkie (czerw.)
-74260	Krót. Przyst. (błęk.)
-74261	Krót. Przyst. (czar.)
-74262	Krót. Przyst. (blond)
-74263	Afro Ninja (k)
-74264	Afro Ninja (k)
-74265	Kapelusz Ninja (k)
-74266	Kapelusz Ninja (k)
-74267	Pustynna Maska Ninja (k)
-74268	Pustynny Szal Ninja (k)
-74269	Turban Ninja (k)
-74270	Maska Dyni Ninja (k)
-74501	Sport. Przystrz. (białe)
-74502	Sport. Przystrz. (brąz.)
-74503	Sportowa (blond)
-74504	Sport. Przystrz. (ziel.)
-74505	Charyzm. Włosy (białe)
-74506	Charyzm. Włosy (czerw.)
-74507	Charyzm. Włosy (czar.)
-74508	Charyzm. Włosy (fiol.)
-74509	Zawinięte (białe)
-74510	Zawinięte (błęk.)
-74511	Zawinięte (czar.)
-74512	Zawinięte (brąz.)
-74513	Afro Sura (m)
-74514	Afro Sura (m)
-74515	Hełm Sura (m)
-74516	Hełm Sura (m)
-74517	Fez Sura (m)
-74518	Kefija Sura (m)
-74519	Turban Sura (m)
-74520	Maska Dyni Sura (m)
-74751	Spinka Motyl (brąz.)
-74752	Spinka Motyl (czar.)
-74753	Spinka Motyl (błęk.)
-74754	Spinka Motyl (biała)
-74755	Śr. Dług. (brąz.)
-74756	Śr. Dług. (czar.)
-74757	Śr. Dług. (blond)
-74758	Śr. Dług. (fiol)
-74759	Długie Włosy (brąz.)
-74760	Dawna Fryzura (blond)
-74761	Długie włosy (fiol.)
-74762	Długie Włosy (czerw.)
-74763	Afro Szamanki
-74764	Afro Szamanki
-74765	Kapelusz Szamanki
-74766	Kapelusz Szamanki
-74767	Pustynna Maska Szamanki
-74768	Pustynny Szal Szamanki
-74769	Turban Szamanki
-74770	Maska Dyni Szaman (k)
-75001	Modna Fryzura (czerwona)
-75002	Modna Fryzura (jasna)
-75003	Modna Fryzura (nieb.)
-75004	Modna fryzura (brązowa)
-75005	Opaska (brązowe)
-75006	Opaska (blond)
-75007	Opaska (nieb.)
-75008	Opaska (ziel.)
-75009	Włosy (czar.)
-75010	Włosy (czerw.)
-75011	Włosy (brąz.)
-75012	Włosy (ziel.)
-75013	Afro Wojowniczki
-75014	Afro Wojowniczki
-75015	Kapelusz Wojowniczki
-75016	Kapelusz Wojowniczki
-75017	Pust. Maska Wojowniczki
-75018	Pust. Szal Wojowniczki
-75019	Turban Wojowniczki
-75020	Maska Dyni Wojownik (k)
-75201	Kucyk (brąz.)
-75202	Kucyk (zielony)
-75203	Kucyk (nieb.)
-75204	Kucyk (jasny)
-75205	Chusta (czerw.)
-75206	Chusta (brąz.)
-75207	Chusta (jasna)
-75208	Chusta (fiol.)
-75209	Kudłate Włosy (czerw.)
-75210	Kudłate Włosy (nieb.)
-75211	Kudłate Włosy (czar.)
-75212	Kudłate Włosy (blond)
-75213	Afro Ninja (m)
-75214	Afro Ninja (m)
-75215	Hełm Ninja (m)
-75216	Hełm Ninja (m)
-75217	Fez Ninja (m)
-75218	Kefija Ninja (m)
-75219	Turban Ninja (m)
-75220	Maska Dyni Ninja (m)
-75401	Spięte (jasne)
-75402	Spięte (brąz.)
-75403	Spięte (blond)
-75404	Spięte (ziel.)
-75405	Długie Włosy (białe)
-75406	Długie Włosy (czerw.)
-75407	Długie Włosy (czar.)
-75408	Długie Włosy (fiol.)
-75409	Długi Kucyk (biały)
-75410	Długi Kucyk (nieb.)
-75411	Długi Kucyk (czar.)
-75412	Długi Kucyk (brąz.)
-75413	Afro Sura (k)
-75414	Afro Sura (k)
-75415	Kapelusz Sura (k)
-75416	Kapelusz Sura (k)
-75417	Pustynna Maska Sura (k)
-75418	Pustynny Szal Sura (k)
-75419	Turban Sura (k)
-75420	Maska Dyni Sura (k)
-75601	Modnie Ścięte (brąz.)
-75602	Modnie Ścięte (czar.)
-75603	Modnie Ścięte (nieb.)
-75604	Modnie Ścięte (jasne)
-75605	Długie Włosy (brązowe)
-75606	Długie Włosy (czarne)
-75607	Długie Włosy (blond)
-75608	Długie Włosy (fiol.)
-75609	Dawna Fryzura (brąz.)
-75610	Dawna Fryzura (jasna)
-75611	Dawna Fryzura (fiol.)
-75612	Dawna Fryzura (czerw.)
-75613	Afro Szamana
-75614	Afro Szamana
-75615	Hełm Szamana
-75616	Hełm Szamana
-75617	Fez Szamana
-75618	Kefija Szamana
-75619	Turban Szamana
-75620	Maska Dyni Szaman (m)
-76000	Wino z Kwiatu Brzoskwini
-76001	Zwój Powrotu Statusu
-76002	Zasuszona Głowa
-76003	Mikstura Pośpiechu
-76004	Eliksir Księżyca (M)
-76005	Eliksir Księżyca (Ś)
-76006	Wykrywacz Kamieni Metin
-76007	Peleryna Męstwa
-76008	Medal Smoka
-76009	Zwój Boga Smoków
-76010	Krwisty Kamień
-76011	Książka Lidera
-76012	Mikstura Szybkości
-76013	Wzmocnienie Przedmiot(n)
-76014	Zaczarowanie Przedm.(n)
-76015	Marmur Błogosławieństwa
-76016	Zwój Błogosławieństwa
-76017	Mikstura Ataku +10
-76018	Mikstura Ataku +15
-76019	Przepustka
-76020	Eliksir Poszukiwacza
-76021	Eliksir Słońca (M)
-76022	Eliksir Słońca (Ś)
-76023	Zielony Czar
-76024	Zielona Siła
-80001	Sakiewka Na Pieniądze
-80002	Czysty Papier
-80003	Sreb. Sztab. (50k Yang)
-80004	Sreb. Sztab. (100k Yang)
-80005	Złota Sztab.(500k Yang)
-80006	Złota Sztab.(1Mil.Yang)
-80007	Złota Sztab.(2Mil.Yang)
-80008	Bryła Złota
 80014	Kupon SM (100)
 80015	Kupon SM (500)
 80016	Kupon SM (1000)
-80017	Kupon SM (50)
-90001	Pusta Butelka Na Wodę
-90002	Butelka Wody
-90003	Kryształ
-90004	Klejnot
-90005	Kamień Wodny
-90006	Kamień Duszy
-90007	Minerał
+85001	Szarfa Władcy (prosta)
+85002	Szarfa Władcy (dostojna)
+85003	Szarfa Władcy (zacna)
+85004	Szarfa Władcy (unikatowa)
+85005	Szarfa Mistrza (prosta)
+85006	Szarfa Mistrza (dostoj.)
+85007	Szarfa Mistrza (zacna)
+85008	Szarfa Mistrza (unikatowa)
+85011	Szarfa Księcia (prosta)
+85012	Szarfa Księcia (dostojna)
+85013	Szarfa Księcia (zacna)
+85014	Szarfa Księcia (unikatowa)
+85015	Szarfa Króla (prosta)
+85016	Szarfa Króla (dostojna)
+85017	Szarfa Króla (zacna)
+85018	Szarfa Króla (unikatowa)
+85021	Szarfa Jubileuszowa (prosta)
+85022	Szarfa Jubileuszowa (dostojna)
+85023	Szarfa Jubileuszowa (zacna)
+85024	Szarfa Jubileuszowa (unikatowa)
+86001	Szarfa Zi (prosta)
+86002	Szarfa Zi (dostojna)
+86003	Szarfa Zi (zacna)
+86004	Szarfa Zi (unikatowa)
+86005	Szarfa Chou (prosta)
+86006	Szarfa Chou (dostojna)
+86007	Szarfa Chou (zacna)
+86008	Szarfa Chou (unikatowa)
+86011	Szarfa Yin (prosta)
+86012	Szarfa Yin (dostojna)
+86013	Szarfa Yin (zacna)
+86014	Szarfa Yin (unikatowa)
+86015	Szarfa Mao (prosta)
+86016	Szarfa Mao (dostojna)
+86017	Szarfa Mao (zacna)
+86018	Szarfa Mao (unikatowa)
+86021	Szarfa Chen (prosta)
+86022	Szarfa Chen (dostojna)
+86023	Szarfa Chen (zacna)
+86024	Szarfa Chen (unikatowa)
+86025	Szarfa Si (prosta)
+86026	Szarfa Si (dostojna)
+86027	Szarfa Si (zacna)
+86028	Szarfa Si (unikatowa)
+86031	Szarfa Wu (prosta)
+86032	Szarfa Wu (dostojna)
+86033	Szarfa Wu (zacna)
+86034	Szarfa Wu (unikatowa)
+86035	Szarfa Wei (prosta)
+86036	Szarfa Wei (dostojna)
+86037	Szarfa Wei (zacna)
+86038	Szarfa Wei (unikatowa)
+86041	Szarfa Shen (prosta)
+86042	Szarfa Shen (dostojna)
+86043	Szarfa Shen (zacna)
+86044	Szarfa Shen (unikatowa)
+86045	Szarfa Yu (prosta)
+86046	Szarfa Yu (dostojna)
+86047	Szarfa Yu (zacna)
+86048	Szarfa Yu (unikatowa)
+86051	Szarfa Xu (prosta)
+86052	Szarfa Xu (dostojna)
+86053	Szarfa Xu (zacna)
+86054	Szarfa Xu (unikatowa)
+86055	Szarfa Hai (prosta)
+86056	Szarfa Hai (dostojna)
+86057	Szarfa Hai (zacna)
+86058	Szarfa Hai (unikatowa)
 90010	Kamień Węgielny
 90011	Pień
 90012	Dykta
-90013	NoNAme
 100000	Eliksir Czasu (M)
 100001	Eliksir Czasu (Ś)
 100002	Eliksir Czasu (D)
@@ -5590,155 +3978,272 @@
 100300	Zielona Smocza Fasola
 100400	Niebieska Smocza Fasola
 100500	Różowa Smocza Fasola
-110000~110099	Surowy Smoczy Diament
-110100~110199	Surowy Smoczy Diament
-110200~110299	Surowy Smoczy Diament
-110300~110399	Surowy Smoczy Diament
-110400~110499	Surowy Smoczy Diament
-111000~111099	Szlif. Smoczy Diament
-111100~111199	Szlif. Smoczy Diament
-111200~111299	Szlif. Smoczy Diament
-111300~111399	Szlif. Smoczy Diament
-111400~111499	Szlif. Smoczy Diament
-112000~112099	Rzadki Smoczy Diament
-112100~112199	Rzadki Smoczy Diament
-112200~112299	Rzadki Smoczy Diament
-112300~112399	Rzadki Smoczy Diament
-112400~112499	Rzadki Smoczy Diament
-113000~113099	Antyczny Smoczy Diament
-113100~113199	Antyczny Smoczy Diament
-113200~113299	Antyczny Smoczy Diament
-113300~113399	Antyczny Smoczy Diament
-113400~113499	Antyczny Smoczy Diament
-114000~114099	Legend. Smoczy Diament
-114100~114199	Legend. Smoczy Diament
-114200~114299	Legend. Smoczy Diament
-114300~114399	Legend. Smoczy Diament
-114400~114499	Legend. Smoczy Diament
-120000~120099	Surowy Smoczy Rubin
-120100~120199	Surowy Smoczy Rubin
-120200~120299	Surowy Smoczy Rubin
-120300~120399	Surowy Smoczy Rubin
-120400~120499	Surowy Smoczy Rubin
-121000~121099	Szlif. Smoczy Rubin
-121100~121199	Szlif. Smoczy Rubin
-121200~121299	Szlif. Smoczy Rubin
-121300~121399	Szlif. Smoczy Rubin
-121400~121499	Szlif. Smoczy Rubin
-122000~122099	Rzadki Smoczy Rubin
-122100~122199	Rzadki Smoczy Rubin
-122200~122299	Rzadki Smoczy Rubin
-122300~122399	Rzadki Smoczy Rubin
-122400~122499	Rzadki Smoczy Rubin
-123000~123099	Antyczny Smoczy Rubin
-123100~123199	Antyczny Smoczy Rubin
-123200~123299	Antyczny Smoczy Rubin
-123300~123399	Antyczny Smoczy Rubin
-123400~123499	Antyczny Smoczy Rubin
-124000~124099	Legendarny Smoczy Rubin
-124100~124199	Legendarny Smoczy Rubin
-124200~124299	Legendarny Smoczy Rubin
-124300~124399	Legendarny Smoczy Rubin
-124400~124499	Legendarny Smoczy Rubin
-130000~130099	Surowy Smoczy Jadeit
-130100~130199	Surowy Smoczy Jadeit
-130200~130299	Surowy Smoczy Jadeit
-130300~130399	Surowy Smoczy Jadeit
-130400~130499	Surowy Smoczy Jadeit
-131000~131099	Szlif. Smoczy Jadeit
-131100~131199	Szlif. Smoczy Jadeit
-131200~131299	Szlif. Smoczy Jadeit
-131300~131399	Szlif. Smoczy Jadeit
-131400~131499	Szlif. Smoczy Jadeit
-132000~132099	Rzadki Smoczy Jadeit
-132100~132199	Rzadki Smoczy Jadeit
-132200~132299	Rzadki Smoczy Jadeit
-132300~132399	Rzadki Smoczy Jadeit
-132400~132499	Rzadki Smoczy Jadeit
-133000~133099	Antyczny Smoczy Jadeit
-133100~133199	Antyczny Smoczy Jadeit
-133200~133299	Antyczny Smoczy Jadeit
-133300~133399	Antyczny Smoczy Jadeit
-133400~133499	Antyczny Smoczy Jadeit
-134000~134099	Legendarny Smoczy Jadeit
-134100~134199	Legendarny Smoczy Jadeit
-134200~134299	Legendarny Smoczy Jadeit
-134300~134399	Legendarny Smoczy Jadeit
-134400~134499	Legendarny Smoczy Jadeit
-140000~140099	Surowy Smoczy Szafir
-140100~140199	Surowy Smoczy Szafir
-140200~140299	Surowy Smoczy Szafir
-140300~140399	Surowy Smoczy Szafir
-140400~140499	Surowy Smoczy Szafir
-141000~141099	Szlif. Smoczy Szafir
-141100~141199	Szlif. Smoczy Szafir
-141200~141299	Szlif. Smoczy Szafir
-141300~141399	Szlif. Smoczy Szafir
-141400~141499	Szlif. Smoczy Szafir
-142000~142099	Rzadki Smoczy Szafir
-142100~142199	Rzadki Smoczy Szafir
-142200~142299	Rzadki Smoczy Szafir
-142300~142399	Rzadki Smoczy Szafir
-142400~142499	Rzadki Smoczy Szafir
-143000~143099	Antyczny Smoczy Szafir
-143100~143199	Antyczny Smoczy Szafir
-143200~143299	Antyczny Smoczy Szafir
-143300~143399	Antyczny Smoczy Szafir
-143400~143499	Antyczny Smoczy Szafir
-144000~144099	Legendarny Smoczy Szafir
-144100~144199	Legendarny Smoczy Szafir
-144200~144299	Legendarny Smoczy Szafir
-144300~144399	Legendarny Smoczy Szafir
-144400~144499	Legendarny Smoczy Szafir
-150000~150099	Surowy Smoczy Granat
-150100~150199	Surowy Smoczy Granat
-150200~150299	Surowy Smoczy Granat
-150300~150399	Surowy Smoczy Granat
-150400~150499	Surowy Smoczy Granat
-151000~151099	Szlif. Smoczy Granat
-151100~151199	Szlif. Smoczy Granat
-151200~151299	Szlif. Smoczy Granat
-151300~151399	Szlif. Smoczy Granat
-151400~151499	Szlif. Smoczy Granat
-152000~152099	Rzadki Smoczy Granat
-152100~152199	Rzadki Smoczy Granat
-152200~152299	Rzadki Smoczy Granat
-152300~152399	Rzadki Smoczy Granat
-152400~152499	Rzadki Smoczy Granat
-153000~153099	Antyczny Smoczy Granat
-153100~153199	Antyczny Smoczy Granat
-153200~153299	Antyczny Smoczy Granat
-153300~153399	Antyczny Smoczy Granat
-153400~153499	Antyczny Smoczy Granat
-154000~154099	Legendarny Smoczy Granat
-154100~154199	Legendarny Smoczy Granat
-154200~154299	Legendarny Smoczy Granat
-154300~154399	Legendarny Smoczy Granat
-154400~154499	Legendarny Smoczy Granat
-160000~160099	Surowy Smoczy Onyks
-160100~160199	Surowy Smoczy Onyks
-160200~160299	Surowy Smoczy Onyks
-160300~160399	Surowy Smoczy Onyks
-160400~160499	Surowy Smoczy Onyks
-161000~161099	Szlif. Smoczy Onyks
-161100~161199	Szlif. Smoczy Onyks
-161200~161299	Szlif. Smoczy Onyks
-161300~161399	Szlif. Smoczy Onyks
-161400~161499	Szlif. Smoczy Onyks
-162000~162099	Rzadki Smoczy Onyks
-162100~162199	Rzadki Smoczy Onyks
-162200~162299	Rzadki Smoczy Onyks
-162300~162399	Rzadki Smoczy Onyks
-162400~162499	Rzadki Smoczy Onyks
-163000~163099	Antyczny Smoczy Onyks
-163100~163199	Antyczny Smoczy Onyks
-163200~163299	Antyczny Smoczy Onyks
-163300~163399	Antyczny Smoczy Onyks
-163400~163499	Antyczny Smoczy Onyks
-164000~164099	Legendarny Smoczy Onyks
-164100~164199	Legendarny Smoczy Onyks
-164200~164299	Legendarny Smoczy Onyks
-164300~164399	Legendarny Smoczy Onyks
-164400~164499	Legendarny Smoczy Onyks
-71051	Magiczny Przedmiot
-71052	Błogosław. Przedmiotu
+110000	Surowy Smoczy Diament
+110100	Surowy Smoczy Diament
+110200	Surowy Smoczy Diament
+110300	Surowy Smoczy Diament
+110400	Surowy Smoczy Diament
+111000	Szlif. Smoczy Diament
+111100	Szlif. Smoczy Diament
+111200	Szlif. Smoczy Diament
+111300	Szlif. Smoczy Diament
+111400	Szlif. Smoczy Diament
+112000	Rzadki Smoczy Diament
+112100	Rzadki Smoczy Diament
+112200	Rzadki Smoczy Diament
+112300	Rzadki Smoczy Diament
+112400	Rzadki Smoczy Diament
+113000	Antyczny Smoczy Diament
+113100	Antyczny Smoczy Diament
+113200	Antyczny Smoczy Diament
+113300	Antyczny Smoczy Diament
+113400	Antyczny Smoczy Diament
+114000	Legend. Smoczy Diament
+114100	Legend. Smoczy Diament
+114200	Legend. Smoczy Diament
+114300	Legend. Smoczy Diament
+114400	Legend. Smoczy Diament
+120000	Surowy Smoczy Rubin
+120100	Surowy Smoczy Rubin
+120200	Surowy Smoczy Rubin
+120300	Surowy Smoczy Rubin
+120400	Surowy Smoczy Rubin
+121000	Szlif. Smoczy Rubin
+121100	Szlif. Smoczy Rubin
+121200	Szlif. Smoczy Rubin
+121300	Szlif. Smoczy Rubin
+121400	Szlif. Smoczy Rubin
+122000	Rzadki Smoczy Rubin
+122100	Rzadki Smoczy Rubin
+122200	Rzadki Smoczy Rubin
+122300	Rzadki Smoczy Rubin
+122400	Rzadki Smoczy Rubin
+123000	Antyczny Smoczy Rubin
+123100	Antyczny Smoczy Rubin
+123200	Antyczny Smoczy Rubin
+123300	Antyczny Smoczy Rubin
+123400	Antyczny Smoczy Rubin
+124000	Legendarny Smoczy Rubin
+124100	Legendarny Smoczy Rubin
+124200	Legendarny Smoczy Rubin
+124300	Legendarny Smoczy Rubin
+124400	Legendarny Smoczy Rubin
+130000	Surowy Smoczy Jadeit
+130100	Surowy Smoczy Jadeit
+130200	Surowy Smoczy Jadeit
+130300	Surowy Smoczy Jadeit
+130400	Surowy Smoczy Jadeit
+131000	Szlif. Smoczy Jadeit
+131100	Szlif. Smoczy Jadeit
+131200	Szlif. Smoczy Jadeit
+131300	Szlif. Smoczy Jadeit
+131400	Szlif. Smoczy Jadeit
+132000	Rzadki Smoczy Jadeit
+132100	Rzadki Smoczy Jadeit
+132200	Rzadki Smoczy Jadeit
+132300	Rzadki Smoczy Jadeit
+132400	Rzadki Smoczy Jadeit
+133000	Antyczny Smoczy Jadeit
+133100	Antyczny Smoczy Jadeit
+133200	Antyczny Smoczy Jadeit
+133300	Antyczny Smoczy Jadeit
+133400	Antyczny Smoczy Jadeit
+134000	Legendarny Smoczy Jadeit
+134100	Legendarny Smoczy Jadeit
+134200	Legendarny Smoczy Jadeit
+134300	Legendarny Smoczy Jadeit
+134400	Legendarny Smoczy Jadeit
+140000	Surowy Smoczy Szafir
+140100	Surowy Smoczy Szafir
+140200	Surowy Smoczy Szafir
+140300	Surowy Smoczy Szafir
+140400	Surowy Smoczy Szafir
+141000	Szlif. Smoczy Szafir
+141100	Szlif. Smoczy Szafir
+141200	Szlif. Smoczy Szafir
+141300	Szlif. Smoczy Szafir
+141400	Szlif. Smoczy Szafir
+142000	Rzadki Smoczy Szafir
+142100	Rzadki Smoczy Szafir
+142200	Rzadki Smoczy Szafir
+142300	Rzadki Smoczy Szafir
+142400	Rzadki Smoczy Szafir
+143000	Antyczny Smoczy Szafir
+143100	Antyczny Smoczy Szafir
+143200	Antyczny Smoczy Szafir
+143300	Antyczny Smoczy Szafir
+143400	Antyczny Smoczy Szafir
+144000	Legendarny Smoczy Szafir
+144100	Legendarny Smoczy Szafir
+144200	Legendarny Smoczy Szafir
+144300	Legendarny Smoczy Szafir
+144400	Legendarny Smoczy Szafir
+150000	Surowy Smoczy Granat
+150100	Surowy Smoczy Granat
+150200	Surowy Smoczy Granat
+150300	Surowy Smoczy Granat
+150400	Surowy Smoczy Granat
+151000	Szlif. Smoczy Granat
+151100	Szlif. Smoczy Granat
+151200	Szlif. Smoczy Granat
+151300	Szlif. Smoczy Granat
+151400	Szlif. Smoczy Granat
+152000	Rzadki Smoczy Granat
+152100	Rzadki Smoczy Granat
+152200	Rzadki Smoczy Granat
+152300	Rzadki Smoczy Granat
+152400	Rzadki Smoczy Granat
+153000	Antyczny Smoczy Granat
+153100	Antyczny Smoczy Granat
+153200	Antyczny Smoczy Granat
+153300	Antyczny Smoczy Granat
+153400	Antyczny Smoczy Granat
+154000	Legendarny Smoczy Granat
+154100	Legendarny Smoczy Granat
+154200	Legendarny Smoczy Granat
+154300	Legendarny Smoczy Granat
+154400	Legendarny Smoczy Granat
+160000	Surowy Smoczy Onyks
+160100	Surowy Smoczy Onyks
+160200	Surowy Smoczy Onyks
+160300	Surowy Smoczy Onyks
+160400	Surowy Smoczy Onyks
+161000	Szlif. Smoczy Onyks
+161100	Szlif. Smoczy Onyks
+161200	Szlif. Smoczy Onyks
+161300	Szlif. Smoczy Onyks
+161400	Szlif. Smoczy Onyks
+162000	Rzadki Smoczy Onyks
+162100	Rzadki Smoczy Onyks
+162200	Rzadki Smoczy Onyks
+162300	Rzadki Smoczy Onyks
+162400	Rzadki Smoczy Onyks
+163000	Antyczny Smoczy Onyks
+163100	Antyczny Smoczy Onyks
+163200	Antyczny Smoczy Onyks
+163300	Antyczny Smoczy Onyks
+163400	Antyczny Smoczy Onyks
+164000	Legendarny Smoczy Onyks
+164100	Legendarny Smoczy Onyks
+164200	Legendarny Smoczy Onyks
+164300	Legendarny Smoczy Onyks
+164400	Legendarny Smoczy Onyks
+
+72319	Rozszerzenie Ekwipunku
+
+19000	Talizman Ognia+0
+19001	Talizman Ognia+1
+19002	Talizman Ognia+2
+19003	Talizman Ognia+3
+19004	Talizman Ognia+4
+19005	Talizman Ognia+5
+19006	Talizman Ognia+6
+19007	Talizman Ognia+7
+19008	Talizman Ognia+8
+19009	Talizman Ognia+9
+19010	Talizman Lodu+0
+19011	Talizman Lodu+1
+19012	Talizman Lodu+2
+19013	Talizman Lodu+3
+19014	Talizman Lodu+4
+19015	Talizman Lodu+5
+19016	Talizman Lodu+6
+19017	Talizman Lodu+7
+19018	Talizman Lodu+8
+19019	Talizman Lodu+9
+19020	Talizman Ziemi+0
+19021	Talizman Ziemi+1
+19022	Talizman Ziemi+2
+19023	Talizman Ziemi+3
+19024	Talizman Ziemi+4
+19025	Talizman Ziemi+5
+19026	Talizman Ziemi+6
+19027	Talizman Ziemi+7
+19028	Talizman Ziemi+8
+19029	Talizman Ziemi+9
+19030	Talizman Mroku+0
+19031	Talizman Mroku+1
+19032	Talizman Mroku+2
+19033	Talizman Mroku+3
+19034	Talizman Mroku+4
+19035	Talizman Mroku+5
+19036	Talizman Mroku+6
+19037	Talizman Mroku+7
+19038	Talizman Mroku+8
+19039	Talizman Mroku+9
+19040	Talizman Błyskawicy+0
+19041	Talizman Błyskawicy+1
+19042	Talizman Błyskawicy+2
+19043	Talizman Błyskawicy+3
+19044	Talizman Błyskawicy+4
+19045	Talizman Błyskawicy+5
+19046	Talizman Błyskawicy+6
+19047	Talizman Błyskawicy+7
+19048	Talizman Błyskawicy+8
+19049	Talizman Błyskawicy+9
+19050	Talizman Wiatru+0
+19051	Talizman Wiatru+1
+19052	Talizman Wiatru+2
+19053	Talizman Wiatru+3
+19054	Talizman Wiatru+4
+19055	Talizman Wiatru+5
+19056	Talizman Wiatru+6
+19057	Talizman Wiatru+7
+19058	Talizman Wiatru+8
+19059	Talizman Wiatru+9
+19099	Wzmocnienie Talizmanu
+19210	Wykrywacz Kamieni Metin+
+19211	Wykrywacz Bossów
+19212	Wykrywacz Bossów+
+19220	Zielony Kryształ Mocy
+19221	Czerwony Kryształ Mocy
+19222	Niebieski Kryształ Mocy
+19230	Zegar Biologa (miedziany)
+19231	Zegar Biologa (srebrny)
+19232	Zegar Biologa (złoty)
+
+19350	Sierp (Stopień I)
+19351	Sierp (Stopień II)
+19352	Sierp (Stopień III)
+19353	Sierp (Stopień IV)
+19354	Sierp (Stopień V)
+
+19400	Dzik Wojenny (240h)
+19401	Biały Lew (240h)
+
+19450	Pakiet VIP - Pierścień Dośw. (30min)
+19451	Pakiet VIP - Pierścień Dośw. (60min)
+19452	Pakiet VIP - Rękawica Złodzieja (30min)
+19453	Pakiet VIP - Rękawica Złodzieja (60min)
+19454	Pakiet VIP - Trzecia Ręka (30min)
+19455	Pakiet VIP - Trzecia Ręka (60min)
+19456	Pakiet VIP - Rybie Wnętrzności (30min)
+19457	Pakiet VIP - Rybie Wnętrzności (60min)
+19458	Pakiet VIP - Złota Moneta (30min)
+19459	Pakiet VIP - Złota Moneta (60min)
+19460	Pakiet VIP - Błogosł. Smoka (30min)
+19461	Pakiet VIP - Błogosł. Smoka (60min)
+19462	Pakiet VIP - Błogosł. Górnika (30min)
+19463	Pakiet VIP - Błogosł. Górnika (60min)
+19464	Pakiet VIP - Błogosł. Zielarza (30min)
+19465	Pakiet VIP - Błogosł. Zielarza (60min)
+
+19480	Odłamek Kamienia (słaby)
+19481	Odłamek Kamienia (średni)
+19482	Odłamek Kamienia (silny)
+19483	Przywołanie Kamienia (słabe)
+19484	Przywołanie Kamienia (średnie)
+19485	Przywołanie Kamienia (silne)
+
+19500	Klatka Transportowa
+19501	Klatka Łowiecka
+19502	Pierścień Zwierzaka
+19503	Jedzenie Zwierzaka
+
+46001	Costume Sword
+46002	Costume T.-Hand
+46003	Costume Dagger
+46004	Costume Bow
+46005	Costume Bell
+46006	Costume Fan
+46007	Costume M.-Sword

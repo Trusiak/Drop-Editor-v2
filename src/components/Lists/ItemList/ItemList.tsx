@@ -45,7 +45,7 @@ const ItemList: React.FC<ItemListProps> = ({match}) => {
                 <div className="ItemList__image-container">
                     <MobItemIcon itemId={itemID} itemName={itemName}/>
                 </div>
-                <h2 className="ItemList__title">{itemName} </h2>
+                <h2 className="ItemList__title">{itemName} <span className="ItemList__title--id">({itemID})</span> </h2>
             </header>
             <ul className="ItemList__list">
                 {renderMobs}

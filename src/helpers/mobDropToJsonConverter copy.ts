@@ -3,27 +3,21 @@
 export const convertMobDroptoJSON = (mobDrop: any) => {
     const tempResult: any = [];
     let actualMob = 0;
-    let type = false;
     mobDrop
-            .split('\n')
+            .split('\n\t')
+            .filter(el => el.includes('Mob') || el.includes('item'))
             .map(el => {
                 if(el.includes('Mob')){
-                    actualMob = el.slice(5);
+                    actualMob = el.slice(4);
                 }
-                if(el.includes('}')){
-                    type = false;
+                if(el.includes('item')){
+                    let itemTab = el.split('\t')
+                    tempResult.push({mob: parseInt(actualMob), item: {id: parseInt(itemTab[1]), amount: parseInt(itemTab[2]), chance: parseFloat(itemTab[3])}})
                 }
-                
-                if(type){
-                    let itemTab = el.split('\t');
-                    tempResult.push({mob: parseInt(actualMob), item: {id: parseInt(itemTab[2]), amount: parseInt(itemTab[3]), chance: parseFloat(itemTab[4])}}) 
-                }
-                if(el.includes('Type')){
-                    type = true;
-                }
-                
             })
 
+    console.log(mobDrop
+        .split('\n'))
 
     const finalResult = tempResult
                         .reduce((p,n)=>{

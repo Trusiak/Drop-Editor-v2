@@ -1,0 +1,6677 @@
+Group	met5
+{
+	Level_limit	1
+	Type	limit
+	max_level	20
+	Mob	8001
+	item	25040	1	5	zwoj_blogoslawienstwa
+	item	71044	1	15	dlon_krytyka
+	item	71045	1	15	dlon_przebicia
+	item	77050	1	34	eq_bron
+	item	77053	1	34	eq_zbroja
+	item	77056	1	34	eq_bizu
+	item	71085	1	35	wzmocnienie
+	item	71084	1	25	zmianka
+	item	27001	25	50	czerwona_mikstura_m
+	item	27004	15	50	niebieska_mikstura_m
+	item	28030	1	1.7	kd_0
+	item	28031	1	1.7	kd_0
+	item	28032	1	1.7	kd_0
+	item	28033	1	1.7	kd_0
+	item	28034	1	1.7	kd_0
+	item	28035	1	1.7	kd_0
+	item	28036	1	1.7	kd_0
+	item	28037	1	1.7	kd_0
+	item	28038	1	1.7	kd_0
+	item	28039	1	1.7	kd_0
+	item	28040	1	1.7	kd_0
+	item	28041	1	1.7	kd_0
+	item	28042	1	1.7	kd_0
+	item	28043	1	1.7	kd_0
+	item	28044	1	1.7	kd_0
+	item	70038	3	45	peleryna_mestwa
+	item	70038	10	25	peleryna_mestwa
+	item	77010	1	50	ksiegi_umiejetnosci
+	item	27104	1	10	mikstura_f
+	item	78581	1	60	ulepszacze_slabe
+}
+
+Group	met10
+{
+	Level_limit	1
+	Type	limit
+	max_level	25
+	Mob	8002
+	item	25040	1	5	zwoj_blogoslawienstwa
+	item	71044	1	15	dlon_krytyka
+	item	71045	1	15	dlon_przebicia
+	item	77050	1	34	eq_bron
+	item	77053	1	34	eq_zbroja
+	item	77056	1	34	eq_bizu
+	item	71085	1	35	wzmocnienie
+	item	71084	1	25	zmianka
+	item	27001	25	50	czerwona_mikstura_m
+	item	27004	15	50	niebieska_mikstura_m
+	item	28030	1	1.7	kd_0
+	item	28031	1	1.7	kd_0
+	item	28032	1	1.7	kd_0
+	item	28033	1	1.7	kd_0
+	item	28034	1	1.7	kd_0
+	item	28035	1	1.7	kd_0
+	item	28036	1	1.7	kd_0
+	item	28037	1	1.7	kd_0
+	item	28038	1	1.7	kd_0
+	item	28039	1	1.7	kd_0
+	item	28040	1	1.7	kd_0
+	item	28041	1	1.7	kd_0
+	item	28042	1	1.7	kd_0
+	item	28043	1	1.7	kd_0
+	item	28044	1	1.7	kd_0
+	item	70038	3	45	peleryna_mestwa
+	item	70038	10	25	peleryna_mestwa
+	item	77010	1	50	ksiegi_umiejetnosci
+	item	27104	1	10	mikstura_f
+	item	78581	1	60	ulepszacze_slabe
+}
+
+Group	met15
+{
+	Level_limit	1
+	Type	limit
+	max_level	28
+	Mob	8003
+	item	25040	1	10	zwoj_blogoslawienstwa
+	item	71044	1	15	dlon_krytyka
+	item	71045	1	15	dlon_przebicia
+	item	77050	1	34	eq_bron
+	item	77053	1	34	eq_zbroja
+	item	77056	1	34	eq_bizu
+	item	71085	1	35	wzmocnienie
+	item	71084	1	35	zmianka
+	item	27001	25	50	czerwona_mikstura_m
+	item	27004	15	50	niebieska_mikstura_m
+	item	28030	1	1.7	kd_0
+	item	28031	1	1.7	kd_0
+	item	28032	1	1.7	kd_0
+	item	28033	1	1.7	kd_0
+	item	28034	1	1.7	kd_0
+	item	28035	1	1.7	kd_0
+	item	28036	1	1.7	kd_0
+	item	28037	1	1.7	kd_0
+	item	28038	1	1.7	kd_0
+	item	28039	1	1.7	kd_0
+	item	28040	1	1.7	kd_0
+	item	28041	1	1.7	kd_0
+	item	28042	1	1.7	kd_0
+	item	28043	1	1.7	kd_0
+	item	28044	1	1.7	kd_0
+	item	28130	1	1	kd_1
+	item	28131	1	1	kd_1
+	item	28132	1	1	kd_1
+	item	28133	1	1	kd_1
+	item	28134	1	1	kd_1
+	item	28135	1	1	kd_1
+	item	28136	1	1	kd_1
+	item	28137	1	1	kd_1
+	item	28138	1	1	kd_1
+	item	28139	1	1	kd_1
+	item	28140	1	1	kd_1
+	item	28141	1	1	kd_1
+	item	28142	1	1	kd_1
+	item	28143	1	1	kd_1
+	item	28144	1	1	kd_1
+	item	70038	3	45	peleryna_mestwa
+	item	70038	10	25	peleryna_mestwa
+	item	77010	1	50	ksiegi_umiejetnosci
+	item	27104	1	10	mikstura_f
+	item	78581	1	70	ulepszacze_slabe
+}
+
+Group	met20
+{
+	Level_limit	1
+	Type	limit
+	max_level	35
+	Mob	8004
+	item	25040	1	10	zwoj_blogoslawienstwa
+	item	71044	1	15	dlon_krytyka
+	item	71045	1	15	dlon_przebicia
+	item	77050	1	34	eq_bron
+	item	77053	1	34	eq_zbroja
+	item	77056	1	34	eq_bizu
+	item	71085	1	35	wzmocnienie
+	item	71084	1	35	zmianka
+	item	27001	25	50	czerwona_mikstura_m
+	item	27004	15	50	niebieska_mikstura_m
+	item	28030	1	1.7	kd_0
+	item	28031	1	1.7	kd_0
+	item	28032	1	1.7	kd_0
+	item	28033	1	1.7	kd_0
+	item	28034	1	1.7	kd_0
+	item	28035	1	1.7	kd_0
+	item	28036	1	1.7	kd_0
+	item	28037	1	1.7	kd_0
+	item	28038	1	1.7	kd_0
+	item	28039	1	1.7	kd_0
+	item	28040	1	1.7	kd_0
+	item	28041	1	1.7	kd_0
+	item	28042	1	1.7	kd_0
+	item	28043	1	1.7	kd_0
+	item	28044	1	1.7	kd_0
+	item	28130	1	1	kd_1
+	item	28131	1	1	kd_1
+	item	28132	1	1	kd_1
+	item	28133	1	1	kd_1
+	item	28134	1	1	kd_1
+	item	28135	1	1	kd_1
+	item	28136	1	1	kd_1
+	item	28137	1	1	kd_1
+	item	28138	1	1	kd_1
+	item	28139	1	1	kd_1
+	item	28140	1	1	kd_1
+	item	28141	1	1	kd_1
+	item	28142	1	1	kd_1
+	item	28143	1	1	kd_1
+	item	28144	1	1	kd_1
+	item	70038	3	45	peleryna_mestwa
+	item	70038	10	25	peleryna_mestwa
+	item	77010	1	50	ksiegi_umiejetnosci
+	item	27104	1	10	mikstura_f
+	item	78581	1	70	ulepszacze_slabe
+}
+
+Group	met25
+{
+	Level_limit	1
+	Type	limit
+	max_level	40
+	Mob	8005
+	item	25040	1	15	zwoj_blogoslawienstwa
+	item	71044	1	19	dlon_krytyka
+	item	71045	1	17	dlon_przebicia
+	item	77050	1	18	eq_bron
+	item	77053	1	18	eq_zbroja
+	item	77056	1	28	eq_bizu
+	item	77051	1	22	eq_bron_2
+	item	77054	1	22	eq_zbroja_2
+	item	77057	1	32	eq_bizu_2
+	item	71085	1	45	wzmocnienie
+	item	71084	1	85	zmianka
+	item	27001	25	50	czerwona_mikstura_m
+	item	27004	15	50	niebieska_mikstura_m
+	item	28130	1	1.7	kd_1
+	item	28131	1	1.7	kd_1
+	item	28132	1	1.7	kd_1
+	item	28133	1	1.7	kd_1
+	item	28134	1	1.7	kd_1
+	item	28135	1	1.7	kd_1
+	item	28136	1	1.7	kd_1
+	item	28137	1	1.7	kd_1
+	item	28138	1	1.7	kd_1
+	item	28139	1	1.7	kd_1
+	item	28140	1	1.7	kd_1
+	item	28141	1	1.7	kd_1
+	item	28142	1	1.7	kd_1
+	item	28143	1	1.7	kd_1
+	item	28144	1	1.7	kd_1
+	item	28230	1	1	kd_2
+	item	28231	1	1	kd_2
+	item	28232	1	1	kd_2
+	item	28233	1	1	kd_2
+	item	28234	1	1	kd_2
+	item	28235	1	1	kd_2
+	item	28236	1	1	kd_2
+	item	28237	1	1	kd_2
+	item	28238	1	1	kd_2
+	item	28239	1	1	kd_2
+	item	28240	1	1	kd_2
+	item	28241	1	1	kd_2
+	item	28242	1	1	kd_2
+	item	28243	1	1	kd_2
+	item	28244	1	1	kd_2
+	item	70038	3	45	peleryna_mestwa
+	item	70038	10	25	peleryna_mestwa
+	item	77010	1	100	ksiegi_umiejetnosci
+	item	27104	1	15	mikstura_f
+	item	78581	1	40	ulepszacze_slabe
+	item	78580	1	40	ulepszacze_srednie
+	item	27989	1	15	wykrywacz
+	item	78303	1	3	przepustka_SOLO_1
+	
+}
+Group	met30
+{
+	Level_limit	1
+	Type	limit
+	max_level	45
+	Mob	8006
+	item	25040	1	10	zwoj_blogoslawienstwa
+	item	71044	1	19	dlon_krytyka
+	item	71045	1	17	dlon_przebicia
+	item	77051	1	28	eq_bron_2
+	item	77054	1	28	eq_zbroja_2
+	item	77057	1	38	eq_bizu_2
+	item	71085	1	45	wzmocnienie
+	item	71084	1	100	zmianka
+	item	27003	25	50	czerwona_mikstura_m
+	item	27006	15	50	niebieska_mikstura_m
+	item	28230	1	1.7	kd_2
+	item	28231	1	1.7	kd_2
+	item	28232	1	1.7	kd_2
+	item	28233	1	1.7	kd_2
+	item	28234	1	1.7	kd_2
+	item	28235	1	1.7	kd_2
+	item	28236	1	1.7	kd_2
+	item	28237	1	1.7	kd_2
+	item	28238	1	1.7	kd_2
+	item	28239	1	1.7	kd_2
+	item	28240	1	1.7	kd_2
+	item	28241	1	1.7	kd_2
+	item	28242	1	1.7	kd_2
+	item	28243	1	1.7	kd_2
+	item	28244	1	1.7	kd_2
+	item	70038	3	45	peleryna_mestwa
+	item	70038	10	25	peleryna_mestwa
+	item	77010	1	100	ksiegi_umiejetnosci
+	item	27104	1	15	mikstura_f
+	item	78580	1	80	ulepszacze_srednie
+	item	27989	1	15	wykrywacz
+	item	78303	1	3	przepustka_SOLO_1
+}
+Group	met35
+{
+	Level_limit	1
+	Type	limit
+	max_level	50
+	Mob	8007
+	item	25040	1	10	zwoj_blogoslawienstwa
+	item	71044	1	19	dlon_krytyka
+	item	71045	1	17	dlon_przebicia
+	item	77051	1	28	eq_bron_2
+	item	77054	1	28	eq_zbroja_2
+	item	77057	1	38	eq_bizu_2
+	item	71085	1	45	wzmocnienie
+	item	71084	1	100	zmianka
+	item	71084	1	20	zmianka
+	item	27003	25	50	czerwona_mikstura_d
+	item	27006	15	50	niebieska_mikstura_d
+	item	28230	1	1.7	kd_2
+	item	28231	1	1.7	kd_2
+	item	28232	1	1.7	kd_2
+	item	28233	1	1.7	kd_2
+	item	28234	1	1.7	kd_2
+	item	28235	1	1.7	kd_2
+	item	28236	1	1.7	kd_2
+	item	28237	1	1.7	kd_2
+	item	28238	1	1.7	kd_2
+	item	28239	1	1.7	kd_2
+	item	28240	1	1.7	kd_2
+	item	28241	1	1.7	kd_2
+	item	28242	1	1.7	kd_2
+	item	28243	1	1.7	kd_2
+	item	28244	1	1.7	kd_2
+	item	70038	3	45	peleryna_mestwa
+	item	70038	10	25	peleryna_mestwa
+	item	77010	1	100	ksiegi_umiejetnosci
+	item	27104	1	15	mikstura_f
+	item	78580	1	80	ulepszacze_srednie
+	item	27989	1	15	wykrywacz
+	item	78303	1	3	przepustka_SOLO_1
+	item	30078	1	3	kompas
+	item	30518	1	3	wabik_skladnik
+	
+}
+Group	met40
+{
+	Level_limit	1
+	Type	limit
+	max_level	55
+	Mob	8008
+	item	25040	1	10	zwoj_blogoslawienstwa
+	item	71044	1	19	dlon_krytyka
+	item	71045	1	17	dlon_przebicia
+	item	77051	1	18	eq_bron_2
+	item	77054	1	18	eq_zbroja_2
+	item	77057	1	18	eq_bizu_2
+	item	77052	1	18	eq_bron_3
+	item	77055	1	18	eq_zbroja_3
+	item	77058	1	28	eq_bizu_3
+	item	71085	1	45	wzmocnienie
+	item	71084	1	100	zmianka
+	item	71084	1	20	zmianka
+	item	27003	25	50	czerwona_mikstura_d
+	item	27006	15	50	niebieska_mikstura_d
+	item	28230	1	1.7	kd_2
+	item	28231	1	1.7	kd_2
+	item	28232	1	1.7	kd_2
+	item	28233	1	1.7	kd_2
+	item	28234	1	1.7	kd_2
+	item	28235	1	1.7	kd_2
+	item	28236	1	1.7	kd_2
+	item	28237	1	1.7	kd_2
+	item	28238	1	1.7	kd_2
+	item	28239	1	1.7	kd_2
+	item	28240	1	1.7	kd_2
+	item	28241	1	1.7	kd_2
+	item	28242	1	1.7	kd_2
+	item	28243	1	1.7	kd_2
+	item	28244	1	1.7	kd_2
+	item	28330	1	0.15	kd_3
+	item	28331	1	0.15	kd_3
+	item	28332	1	0.15	kd_3
+	item	28333	1	0.15	kd_3
+	item	28334	1	0.15	kd_3
+	item	28335	1	0.15	kd_3
+	item	28336	1	0.15	kd_3
+	item	28337	1	0.15	kd_3
+	item	28338	1	0.15	kd_3
+	item	28339	1	0.15	kd_3
+	item	28340	1	0.15	kd_3
+	item	28341	1	0.15	kd_3
+	item	28342	1	0.15	kd_3
+	item	28343	1	0.15	kd_3
+	item	28344	1	0.15	kd_3
+	item	70038	3	45	peleryna_mestwa
+	item	70038	10	25	peleryna_mestwa
+	item	77010	1	100	ksiegi_umiejetnosci
+	item	27104	1	15	mikstura_f
+	item	78580	1	80	ulepszacze_srednie
+	item	27989	1	15	wykrywacz
+	item	78303	1	3	przepustka_SOLO_1
+	item	30078	1	3	kompas
+	item	30518	1	3	wabik_skladnik
+}
+Group	met40_kinefazy
+{
+	Level_limit	1
+	Type	limit
+	max_level	55
+	Mob	8070
+	item	25040	1	10	zwoj_blogoslawienstwa
+	item	71044	1	19	dlon_krytyka
+	item	71045	1	17	dlon_przebicia
+	item	77051	1	8	eq_bron_2
+	item	77054	1	8	eq_zbroja_2
+	item	77057	1	18	eq_bizu_2
+	item	77052	1	18	eq_bron_3
+	item	77055	1	18	eq_zbroja_3
+	item	77058	1	28	eq_bizu_3
+	item	71085	1	45	wzmocnienie
+	item	71084	2	100	zmianka
+	item	71084	1	33	zmianka
+	item	27003	25	50	czerwona_mikstura_d
+	item	27006	15	50	niebieska_mikstura_d
+	item	28330	1	0.35	kd_3
+	item	28331	1	0.35	kd_3
+	item	28332	1	0.35	kd_3
+	item	28333	1	0.35	kd_3
+	item	28334	1	0.35	kd_3
+	item	28335	1	0.35	kd_3
+	item	28336	1	0.35	kd_3
+	item	28337	1	0.35	kd_3
+	item	28338	1	0.35	kd_3
+	item	28339	1	0.35	kd_3
+	item	28340	1	0.35	kd_3
+	item	28341	1	0.35	kd_3
+	item	28342	1	0.35	kd_3
+	item	28343	1	0.35	kd_3
+	item	28344	1	0.35	kd_3
+	item	70038	6	45	peleryna_mestwa
+	item	70038	10	25	peleryna_mestwa
+	item	77010	1	100	ksiegi_umiejetnosci
+	item	27104	1	15	mikstura_f
+	item	78580	1	80	ulepszacze_srednie
+	item	78582	1	20	ulepszacze_wysokie
+	item	27989	1	15	wykrywacz
+	item	78303	1	3	przepustka_SOLO_1
+	item	30518	1	3	wabik_skladnik
+}
+Group	met45
+{
+	Level_limit	1
+	Type	limit
+	max_level	60
+	Mob	8009
+	item	25040	1	20	zwoj_blogoslawienstwa
+	item	71044	1	25	dlon_krytyka
+	item	71045	1	25	dlon_przebicia
+	item	77052	1	28	eq_bron_3
+	item	77055	1	28	eq_zbroja_3
+	item	77058	1	38	eq_bizu_3
+	item	71085	1	45	wzmocnienie
+	item	71084	2	100	zmianka
+	item	71084	1	37	zmianka
+	item	71084	1	15	zmianka
+	item	27003	25	50	czerwona_mikstura_d
+	item	27006	15	50	niebieska_mikstura_d
+	item	28330	1	0.50	kd_3
+	item	28331	1	0.50	kd_3
+	item	28332	1	0.50	kd_3
+	item	28333	1	0.50	kd_3
+	item	28334	1	0.50	kd_3
+	item	28335	1	0.50	kd_3
+	item	28336	1	0.50	kd_3
+	item	28337	1	0.50	kd_3
+	item	28338	1	0.50	kd_3
+	item	28339	1	0.50	kd_3
+	item	28340	1	0.50	kd_3
+	item	28341	1	0.50	kd_3
+	item	28342	1	0.50	kd_3
+	item	28343	1	0.50	kd_3
+	item	28344	1	0.50	kd_3
+	item	70038	3	45	peleryna_mestwa
+	item	70038	10	25	peleryna_mestwa
+	item	77010	1	100	ksiegi_umiejetnosci
+	item	27104	1	15	mikstura_f
+	item	78582	1	80	ulepszacze_dobre
+	item	27989	1	15	wykrywacz
+	item	78303	1	5	przepustka_SOLO_1
+	item	30518	1	3	wabik_skladnik
+}
+Group	met50
+{
+	Level_limit	1
+	Type	limit
+	max_level	65
+	Mob	8010
+	item	25040	1	20	zwoj_blogoslawienstwa
+	item	71044	1	25	dlon_krytyka
+	item	71045	1	25	dlon_przebicia
+	item	77052	1	28	eq_bron_3
+	item	77055	1	28	eq_zbroja_3
+	item	77058	1	38	eq_bizu_3
+	item	71085	1	45	wzmocnienie
+	item	71084	2	100	zmianka
+	item	71084	1	37	zmianka
+	item	71084	1	15	zmianka
+	item	27003	25	50	czerwona_mikstura_d
+	item	27006	15	50	niebieska_mikstura_d
+	item	28330	1	0.50	kd_3
+	item	28331	1	0.50	kd_3
+	item	28332	1	0.50	kd_3
+	item	28333	1	0.50	kd_3
+	item	28334	1	0.50	kd_3
+	item	28335	1	0.50	kd_3
+	item	28336	1	0.50	kd_3
+	item	28337	1	0.50	kd_3
+	item	28338	1	0.50	kd_3
+	item	28339	1	0.50	kd_3
+	item	28340	1	0.50	kd_3
+	item	28341	1	0.50	kd_3
+	item	28342	1	0.50	kd_3
+	item	28343	1	0.50	kd_3
+	item	28344	1	0.50	kd_3
+	item	70038	3	45	peleryna_mestwa
+	item	70038	10	25	peleryna_mestwa
+	item	77010	1	100	ksiegi_umiejetnosci
+	item	27104	1	15	mikstura_f
+	item	78582	1	80	ulepszacze_dobre
+	item	27989	1	15	wykrywacz
+	item	78304	1	5	przepustka_SOLO_2
+	item	30519	1	5	wabik_skladnik
+	
+}
+Group	met55
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	8011
+	item	25040	1	25	zwoj_blogoslawienstwa
+	item	71044	1	30	dlon_krytyka
+	item	71045	1	30	dlon_przebicia
+	item	77052	1	28	eq_bron_3
+	item	77055	1	28	eq_zbroja_3
+	item	77058	1	38	eq_bizu_3
+	item	71085	1	45	wzmocnienie
+	item	71084	2	100	zmianka
+	item	71084	1	37	zmianka
+	item	71084	1	15	zmianka
+	item	27003	25	50	czerwona_mikstura_d
+	item	27006	15	50	niebieska_mikstura_d
+	item	28330	1	0.70	kd_3
+	item	28331	1	0.70	kd_3
+	item	28332	1	0.70	kd_3
+	item	28333	1	0.70	kd_3
+	item	28334	1	0.70	kd_3
+	item	28335	1	0.70	kd_3
+	item	28336	1	0.70	kd_3
+	item	28337	1	0.70	kd_3
+	item	28338	1	0.70	kd_3
+	item	28339	1	0.70	kd_3
+	item	28340	1	0.70	kd_3
+	item	28341	1	0.70	kd_3
+	item	28342	1	0.70	kd_3
+	item	28343	1	0.70	kd_3
+	item	28344	1	0.70	kd_3
+	item	70038	3	45	peleryna_mestwa
+	item	70038	10	25	peleryna_mestwa
+	item	77010	1	100	ksiegi_umiejetnosci
+	item	27104	1	15	mikstura_f
+	item	78582	1	80	ulepszacze_dobre
+	item	27989	1	15	wykrywacz
+	item	78304	1	5	przepustka_SOLO_2
+	item	30519	1	5	wabik_skladnik
+}
+Group	met60
+{
+	Level_limit	1
+	Type	limit
+	max_level	75
+	Mob	8012
+	item	25040	1	30	zwoj_blogoslawienstwa
+	item	71044	1	36	dadlon_krytyka
+	item	71045	1	36	dlon_przebicia
+	item	77070	1	3	eq_bron_4
+	item	77071	1	3	eq_zbroja_4
+	item	77072	1	5	eq_bizu_4
+	item	71085	1	45	wzmocnienie
+	item	71084	2	100	zmianka
+	item	71084	1	37	zmianka
+	item	71084	1	15	zmianka
+	item	27003	25	50	czerwona_mikstura_d
+	item	27006	15	50	niebieska_mikstura_d
+	item	28330	1	0.75	kd_3
+	item	28331	1	0.75	kd_3
+	item	28332	1	0.75	kd_3
+	item	28333	1	0.75	kd_3
+	item	28334	1	0.75	kd_3
+	item	28335	1	0.75	kd_3
+	item	28336	1	0.75	kd_3
+	item	28337	1	0.75	kd_3
+	item	28338	1	0.75	kd_3
+	item	28339	1	0.75	kd_3
+	item	28340	1	0.75	kd_3
+	item	28341	1	0.75	kd_3
+	item	28342	1	0.75	kd_3
+	item	28343	1	0.75	kd_3
+	item	28344	1	0.75	kd_3
+	item	70038	3	45	peleryna_mestwa
+	item	70038	10	25	peleryna_mestwa
+	item	77010	1	100	ksiegi_umiejetnosci
+	item	27104	1	15	mikstura_f
+	item	78582	1	80	ulepszacze_dobre
+	item	27989	1	15	wykrywacz
+	item	78304	1	5	przepustka_SOLO_2
+	item	30519	1	5	wabik_skladnik
+}
+Group	met65
+{
+	Level_limit	1
+	Type	limit
+	max_level	80
+	Mob	8013
+	item	25040	1	32	zwoj_blogoslawienstwa
+	item	71044	1	37	dadlon_krytyka
+	item	71045	1	38	dlon_przebicia
+	item	77070	1	3	eq_bron_4
+	item	77071	1	3	eq_zbroja_4
+	item	77072	1	5	eq_bizu_4
+	item	71085	1	45	wzmocnienie
+	item	71084	3	100	zmianka
+	item	71084	1	44	zmianka
+	item	71084	1	27	zmianka
+	item	27003	25	50	czerwona_mikstura_d
+	item	27006	15	50	niebieska_mikstura_d
+	item	28330	1	0.75	kd_3
+	item	28331	1	0.75	kd_3
+	item	28332	1	0.75	kd_3
+	item	28333	1	0.75	kd_3
+	item	28334	1	0.75	kd_3
+	item	28335	1	0.75	kd_3
+	item	28336	1	0.75	kd_3
+	item	28337	1	0.75	kd_3
+	item	28338	1	0.75	kd_3
+	item	28339	1	0.75	kd_3
+	item	28340	1	0.75	kd_3
+	item	28341	1	0.75	kd_3
+	item	28342	1	0.75	kd_3
+	item	28343	1	0.75	kd_3
+	item	28344	1	0.75	kd_3
+	item	70038	3	45	peleryna_mestwa
+	item	70038	10	25	peleryna_mestwa
+	item	77010	1	100	ksiegi_umiejetnosci
+	item	77010	1	30	ksiegi_umiejetnosci
+	item	27104	1	15	mikstura_f
+	item	78582	1	80	ulepszacze_dobre
+	item	27989	1	15	wykrywacz
+	item	78305	1	5	przepustka_SOLO_3
+	item	30519	1	5	wabik_skladnik
+	
+}
+Group	met70
+{
+	Level_limit	1
+	Type	limit
+	max_level	85
+	Mob	8014
+	item	25040	1	32	zwoj_blogoslawienstwa
+	item	71044	1	37	dadlon_krytyka
+	item	71045	1	38	dlon_przebicia
+	item	77070	1	3	eq_bron_4
+	item	77071	1	3	eq_zbroja_4
+	item	77072	1	5	eq_bizu_4
+	item	71085	1	45	wzmocnienie
+	item	71084	4	100	zmianka
+	item	71084	1	44	zmianka
+	item	71084	1	27	zmianka
+	item	27003	25	50	czerwona_mikstura_d
+	item	27006	15	50	niebieska_mikstura_d
+	item	28330	1	0.95	kd_3
+	item	28331	1	0.95	kd_3
+	item	28332	1	0.95	kd_3
+	item	28333	1	0.95	kd_3
+	item	28334	1	0.95	kd_3
+	item	28335	1	0.95	kd_3
+	item	28336	1	0.95	kd_3
+	item	28337	1	0.95	kd_3
+	item	28338	1	0.95	kd_3
+	item	28339	1	0.95	kd_3
+	item	28340	1	0.95	kd_3
+	item	28341	1	0.95	kd_3
+	item	28342	1	0.95	kd_3
+	item	28343	1	0.95	kd_3
+	item	28344	1	0.95	kd_3
+	item	28430	1	0.3	kd_4
+	item	28431	1	0.3	kd_4
+	item	28432	1	0.3	kd_4
+	item	28433	1	0.3	kd_4
+	item	28434	1	0.3	kd_4
+	item	28435	1	0.3	kd_4
+	item	28436	1	0.3	kd_4
+	item	28437	1	0.3	kd_4
+	item	28438	1	0.3	kd_4
+	item	28439	1	0.3	kd_4
+	item	28440	1	0.3	kd_4
+	item	28441	1	0.3	kd_4
+	item	28442	1	0.3	kd_4
+	item	28443	1	0.3	kd_4
+	item	28444	1	0.3	kd_4
+	item	70038	3	45	peleryna_mestwa
+	item	70038	10	25	peleryna_mestwa
+	item	77010	1	100	ksiegi_umiejetnosci
+	item	77010	1	30	ksiegi_umiejetnosci
+	item	27104	1	15	mikstura_f
+	item	78582	1	100	ulepszacze_dobre
+	item	78582	1	10	ulepszacze_dobre
+	item	27989	1	15	wykrywacz
+	item	78305	1	5	przepustka_SOLO_3
+	item	30519	1	5	wabik_skladnik
+}
+Group	met75
+{
+	Level_limit	1
+	Type	limit
+	max_level	85
+	Mob	8024
+	item	71032	1	2	zwoj_boga
+	item	77011	1	10	cyrograf_doswiadczenia
+	item	25040	1	32	zwoj_blogoslawienstwa
+	item	71044	1	37	dadlon_krytyka
+	item	71045	1	38	dlon_przebicia
+	item	77070	1	3	eq_bron_4
+	item	77071	1	3	eq_zbroja_4
+	item	77072	1	5	eq_bizu_4
+	item	71085	1	45	wzmocnienie
+	item	71084	6	100	zmianka
+	item	71084	1	44	zmianka
+	item	71084	1	27	zmianka
+	item	27003	25	50	czerwona_mikstura_d
+	item	27006	15	50	niebieska_mikstura_d
+	item	28330	1	0.95	kd_3
+	item	28331	1	0.95	kd_3
+	item	28332	1	0.95	kd_3
+	item	28333	1	0.95	kd_3
+	item	28334	1	0.95	kd_3
+	item	28335	1	0.95	kd_3
+	item	28336	1	0.95	kd_3
+	item	28337	1	0.95	kd_3
+	item	28338	1	0.95	kd_3
+	item	28339	1	0.95	kd_3
+	item	28340	1	0.95	kd_3
+	item	28341	1	0.95	kd_3
+	item	28342	1	0.95	kd_3
+	item	28343	1	0.95	kd_3
+	item	28344	1	0.95	kd_3
+	item	28430	1	0.45	kd_4
+	item	28431	1	0.45	kd_4
+	item	28432	1	0.45	kd_4
+	item	28433	1	0.45	kd_4
+	item	28434	1	0.45	kd_4
+	item	28435	1	0.45	kd_4
+	item	28436	1	0.45	kd_4
+	item	28437	1	0.45	kd_4
+	item	28438	1	0.45	kd_4
+	item	28439	1	0.45	kd_4
+	item	28440	1	0.45	kd_4
+	item	28441	1	0.45	kd_4
+	item	28442	1	0.45	kd_4
+	item	28443	1	0.45	kd_4
+	item	28444	1	0.45	kd_4
+	item	70038	3	45	peleryna_mestwa
+	item	70038	10	25	peleryna_mestwa
+	item	77010	1	100	ksiegi_umiejetnosci
+	item	77010	1	30	ksiegi_umiejetnosci
+	item	27104	1	15	mikstura_f
+	item	78582	1	100	ulepszacze_dobre
+	item	78582	1	10	ulepszacze_dobre
+	item	27989	1	15	wykrywacz
+	item	78305	1	6	przepustka_SOLO_3
+	item	50060	1	5.5	inst_jazdy_konnej
+	item	90010	1	5	gildie
+	item	90011	1	5	gildie
+	item	90012	1	5	gildie
+	item	78300	1	2	demoni_rozkaz
+	item	30519	1	5	wabik_skladnik
+}
+Group	met80
+{
+	Level_limit	1
+	Type	limit
+	max_level	90
+	Mob	8025
+	item	71032	1	2	zwoj_boga
+	item	77011	1	10	cyrograf_doswiadczenia
+	item	25040	1	32	zwoj_blogoslawienstwa
+	item	71044	1	37	dadlon_krytyka
+	item	71045	1	38	dlon_przebicia
+	item	77070	1	5	eq_bron_4
+	item	77071	1	5	eq_zbroja_4
+	item	77072	1	8	eq_bizu_4
+	item	71085	1	45	wzmocnienie
+	item	71084	6	100	zmianka
+	item	71084	1	44	zmianka
+	item	71084	1	27	zmianka
+	item	27003	25	50	czerwona_mikstura_d
+	item	27006	15	50	niebieska_mikstura_d
+	item	28330	1	0.95	kd_3
+	item	28331	1	0.95	kd_3
+	item	28332	1	0.95	kd_3
+	item	28333	1	0.95	kd_3
+	item	28334	1	0.95	kd_3
+	item	28335	1	0.95	kd_3
+	item	28336	1	0.95	kd_3
+	item	28337	1	0.95	kd_3
+	item	28338	1	0.95	kd_3
+	item	28339	1	0.95	kd_3
+	item	28340	1	0.95	kd_3
+	item	28341	1	0.95	kd_3
+	item	28342	1	0.95	kd_3
+	item	28343	1	0.95	kd_3
+	item	28344	1	0.95	kd_3
+	item	28430	1	0.45	kd_4
+	item	28431	1	0.45	kd_4
+	item	28432	1	0.45	kd_4
+	item	28433	1	0.45	kd_4
+	item	28434	1	0.45	kd_4
+	item	28435	1	0.45	kd_4
+	item	28436	1	0.45	kd_4
+	item	28437	1	0.45	kd_4
+	item	28438	1	0.45	kd_4
+	item	28439	1	0.45	kd_4
+	item	28440	1	0.45	kd_4
+	item	28441	1	0.45	kd_4
+	item	28442	1	0.45	kd_4
+	item	28443	1	0.45	kd_4
+	item	28444	1	0.45	kd_4
+	item	70038	3	45	peleryna_mestwa
+	item	70038	10	25	peleryna_mestwa
+	item	77010	1	100	ksiegi_umiejetnosci
+	item	77010	1	50	ksiegi_umiejetnosci
+	item	27104	1	15	mikstura_f
+	item	78582	1	100	ulepszacze_dobre
+	item	78582	1	50	ulepszacze_dobre
+	item	27989	1	15	wykrywacz
+	item	78305	1	7	przepustka_SOLO_3
+	item	50060	1	8.5	inst_jazdy_konnej
+	item	90010	1	5	gildie
+	item	90011	1	5	gildie
+	item	90012	1	5	gildie
+	item	78300	1	2	demoni_rozkaz
+	item	30520	1	5	wabik_skladnik
+}
+Group	met85
+{
+	Level_limit	1
+	Type	limit
+	max_level	95
+	Mob	8026
+	item	71032	1	4	zwoj_boga
+	item	77011	1	10	cyrograf_doswiadczenia
+	item	25040	1	32	zwoj_blogoslawienstwa
+	item	25040	1	32	zwoj_blogoslawienstwa
+	item	25040	1	32	zwoj_blogoslawienstwa
+	item	71044	1	37	dadlon_krytyka
+	item	71045	1	38	dlon_przebicia
+	item	77070	1	5	eq_bron_4
+	item	77071	1	5	eq_zbroja_4
+	item	77072	1	8	eq_bizu_4
+	item	71085	1	45	wzmocnienie
+	item	71084	8	100	zmianka
+	item	71084	1	54	zmianka
+	item	71084	1	47	zmianka
+	item	71084	1	27	zmianka
+	item	71084	1	17	zmianka
+	item	27003	25	50	czerwona_mikstura_d
+	item	27006	15	50	niebieska_mikstura_d
+	item	28330	1	0.65	kd_3
+	item	28331	1	0.65	kd_3
+	item	28332	1	0.65	kd_3
+	item	28333	1	0.65	kd_3
+	item	28334	1	0.65	kd_3
+	item	28335	1	0.65	kd_3
+	item	28336	1	0.65	kd_3
+	item	28337	1	0.65	kd_3
+	item	28338	1	0.65	kd_3
+	item	28339	1	0.65	kd_3
+	item	28340	1	0.65	kd_3
+	item	28341	1	0.65	kd_3
+	item	28342	1	0.65	kd_3
+	item	28343	1	0.65	kd_3
+	item	28344	1	0.65	kd_3
+	item	28430	1	0.75	kd_4
+	item	28431	1	0.75	kd_4
+	item	28432	1	0.75	kd_4
+	item	28433	1	0.75	kd_4
+	item	28434	1	0.75	kd_4
+	item	28435	1	0.75	kd_4
+	item	28436	1	0.75	kd_4
+	item	28437	1	0.75	kd_4
+	item	28438	1	0.75	kd_4
+	item	28439	1	0.75	kd_4
+	item	28440	1	0.75	kd_4
+	item	28441	1	0.75	kd_4
+	item	28442	1	0.75	kd_4
+	item	28443	1	0.75	kd_4
+	item	28444	1	0.75	kd_4
+	item	70038	3	45	peleryna_mestwa
+	item	70038	10	25	peleryna_mestwa
+	item	77010	1	100	ksiegi_umiejetnosci
+	item	77010	1	50	ksiegi_umiejetnosci
+	item	77010	1	20	ksiegi_umiejetnosci
+	item	27104	1	15	mikstura_f
+	item	78582	1	100	ulepszacze_dobre
+	item	78582	1	50	ulepszacze_dobre
+	item	27989	1	20	wykrywacz
+	item	78306	1	7	przepustka_SOLO_4
+	item	50060	1	8.5	inst_jazdy_konnej
+	item	90010	1	5	gildie
+	item	90011	1	5	gildie
+	item	90012	1	5	gildie
+	item	78307	1	3	przepustka_konna
+	item	78300	1	4	demoni_rozkaz
+	item	80003	1	50	mini_sztabka_50k
+	item	30520	1	5	wabik_skladnik
+}
+Group	met90
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	8027
+	item	71032	1	4	zwoj_boga
+	item	77011	1	10	cyrograf_doswiadczenia
+	item	25040	1	32	zwoj_blogoslawienstwa
+	item	25040	1	32	zwoj_blogoslawienstwa
+	item	25040	1	32	zwoj_blogoslawienstwa
+	item	71044	1	37	dadlon_krytyka
+	item	71045	1	38	dlon_przebicia
+	item	77070	1	10	eq_bron_4
+	item	77071	1	10	eq_zbroja_4
+	item	77072	1	12	eq_bizu_4
+	item	71085	1	45	wzmocnienie
+	item	71084	10	100	zmianka
+	item	71084	1	54	zmianka
+	item	71084	1	47	zmianka
+	item	71084	1	27	zmianka
+	item	71084	1	17	zmianka
+	item	27003	25	50	czerwona_mikstura_d
+	item	27006	15	50	niebieska_mikstura_d
+	item	28330	1	0.65	kd_3
+	item	28331	1	0.65	kd_3
+	item	28332	1	0.65	kd_3
+	item	28333	1	0.65	kd_3
+	item	28334	1	0.65	kd_3
+	item	28335	1	0.65	kd_3
+	item	28336	1	0.65	kd_3
+	item	28337	1	0.65	kd_3
+	item	28338	1	0.65	kd_3
+	item	28339	1	0.65	kd_3
+	item	28340	1	0.65	kd_3
+	item	28341	1	0.65	kd_3
+	item	28342	1	0.65	kd_3
+	item	28343	1	0.65	kd_3
+	item	28344	1	0.65	kd_3
+	item	28430	1	0.75	kd_4
+	item	28431	1	0.75	kd_4
+	item	28432	1	0.75	kd_4
+	item	28433	1	0.75	kd_4
+	item	28434	1	0.75	kd_4
+	item	28435	1	0.75	kd_4
+	item	28436	1	0.75	kd_4
+	item	28437	1	0.75	kd_4
+	item	28438	1	0.75	kd_4
+	item	28439	1	0.75	kd_4
+	item	28440	1	0.75	kd_4
+	item	28441	1	0.75	kd_4
+	item	28442	1	0.75	kd_4
+	item	28443	1	0.75	kd_4
+	item	28444	1	0.75	kd_4
+	item	70038	3	45	peleryna_mestwa
+	item	70038	10	25	peleryna_mestwa
+	item	77010	1	100	ksiegi_umiejetnosci
+	item	77010	1	50	ksiegi_umiejetnosci
+	item	77010	1	20	ksiegi_umiejetnosci
+	item	27104	1	15	mikstura_f
+	item	78582	1	100	ulepszacze_dobre
+	item	78582	1	50	ulepszacze_dobre
+	item	27989	1	20	wykrywacz
+	item	78306	1	7	przepustka_SOLO_4
+	item	50060	1	8.5	inst_jazdy_konnej
+	item	90010	1	5	gildie
+	item	90011	1	5	gildie
+	item	90012	1	5	gildie
+	item	78307	1	3	przepustka_konna
+	item	78300	1	4	demoni_rozkaz
+	item	80003	1	50	mini_sztabka_50k
+	item	30520	1	5	wabik_skladnik
+}
+Group	met_zefir
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	8062
+	item	71032	1	4	zwoj_boga
+	item	77011	1	10	cyrograf_doswiadczenia
+	item	25040	1	32	zwoj_blogoslawienstwa
+	item	71044	1	37	dadlon_krytyka
+	item	71045	1	38	dlon_przebicia
+	item	77070	1	8	eq_bron_4
+	item	77071	1	8	eq_zbroja_4
+	item	77072	1	8	eq_bizu_4
+	item	71085	1	45	wzmocnienie
+	item	71084	2	100	zmianka
+	item	71084	2	54	zmianka
+	item	71084	1	47	zmianka
+	item	71084	2	27	zmianka
+	item	71084	1	17	zmianka
+	item	27003	25	50	czerwona_mikstura_d
+	item	27006	15	50	niebieska_mikstura_d
+	item	28330	1	0.65	kd_3
+	item	28331	1	0.65	kd_3
+	item	28332	1	0.65	kd_3
+	item	28333	1	0.65	kd_3
+	item	28334	1	0.65	kd_3
+	item	28335	1	0.65	kd_3
+	item	28336	1	0.65	kd_3
+	item	28337	1	0.65	kd_3
+	item	28338	1	0.65	kd_3
+	item	28339	1	0.65	kd_3
+	item	28340	1	0.65	kd_3
+	item	28341	1	0.65	kd_3
+	item	28342	1	0.65	kd_3
+	item	28343	1	0.65	kd_3
+	item	28344	1	0.65	kd_3
+	item	28430	1	0.75	kd_4
+	item	28431	1	0.75	kd_4
+	item	28432	1	0.75	kd_4
+	item	28433	1	0.75	kd_4
+	item	28434	1	0.75	kd_4
+	item	28435	1	0.75	kd_4
+	item	28436	1	0.75	kd_4
+	item	28437	1	0.75	kd_4
+	item	28438	1	0.75	kd_4
+	item	28439	1	0.75	kd_4
+	item	28440	1	0.75	kd_4
+	item	28441	1	0.75	kd_4
+	item	28442	1	0.75	kd_4
+	item	28443	1	0.75	kd_4
+	item	28444	1	0.75	kd_4
+	item	70038	3	45	peleryna_mestwa
+	item	70038	10	25	peleryna_mestwa
+	item	77010	1	100	ksiegi_umiejetnosci
+	item	77010	1	50	ksiegi_umiejetnosci
+	item	77010	1	20	ksiegi_umiejetnosci
+	item	27104	1	15	mikstura_f
+	item	78582	1	40	ulepszacze_dobre
+	item	27989	1	20	wykrywacz
+	item	78306	1	8.5	przepustka_SOLO_4
+	item	30425	1	55	ulepszacz_nsu_zbroje
+	item	30421	1	55	ulepszacz_nsu_zbroje
+	item	50060	1	8.5	inst_jazdy_konnej
+}
+Group	met85exp
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	8068
+	item	71032	1	13	zwoj_boga
+	item	77011	1	10	cyrograf_doswiadczenia
+	item	25040	1	32	zwoj_blogoslawienstwa
+	item	25040	1	38	zwoj_blogoslawienstwa
+	item	71044	1	47	dadlon_krytyka
+	item	71045	1	48	dlon_przebicia
+	item	71085	1	45	wzmocnienie
+	item	71084	13	100	zmianka
+	item	71084	2	74	zmianka
+	item	71084	1	57	zmianka
+	item	71084	1	37	zmianka
+	item	71084	2	27	zmianka
+	item	71084	1	27	zmianka
+	item	71084	2	17	zmianka
+	item	27003	25	50	czerwona_mikstura_d
+	item	27006	15	50	niebieska_mikstura_d
+	item	28430	1	1.3	kd_4
+	item	28431	1	1.3	kd_4
+	item	28432	1	1.3	kd_4
+	item	28433	1	1.3	kd_4
+	item	28434	1	1.3	kd_4
+	item	28435	1	1.3	kd_4
+	item	28436	1	1.3	kd_4
+	item	28437	1	1.3	kd_4
+	item	28438	1	1.3	kd_4
+	item	28439	1	1.3	kd_4
+	item	28440	1	1.3	kd_4
+	item	28441	1	1.3	kd_4
+	item	28442	1	1.3	kd_4
+	item	28443	1	1.3	kd_4
+	item	28444	1	1.3	kd_4
+	item	70038	3	45	peleryna_mestwa
+	item	70038	10	25	peleryna_mestwa
+	item	77010	1	100	ksiegi_umiejetnosci
+	item	77010	1	50	ksiegi_umiejetnosci
+	item	77010	1	20	ksiegi_umiejetnosci
+	item	27104	1	15	mikstura_f
+	item	27989	1	20	wykrywacz
+	item	78306	1	10	przepustka_SOLO_4
+	item	27987	1	4	malz
+	item	27986	1	4	BURSZTYNOWA_MALZ
+	item	78610	1	3	Ksiêgi_arhi
+	item	50060	1	8.5	inst_jazdy_konnej
+	item	78310	1	1.75	pieczec_legendy
+	item	78311	1	1.75	pieczec_legendy
+	item	78312	1	1.75	pieczec_legendy
+	item	78313	1	1.75	pieczec_legendy
+	item	30750	1	5	czaszka_legwana
+	item	78301	1	4	grzybowa_pieczec
+	item	80004	1	100	mini_sztabka_100k
+	item	30520	1	10	wabik_skladnik
+}
+Group	met90exp
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	8069
+	item	71032	1	15	zwoj_boga
+	item	77011	1	12	cyrograf_doswiadczenia
+	item	25040	1	32	zwoj_blogoslawienstwa
+	item	25040	1	38	zwoj_blogoslawienstwa
+	item	71044	1	47	dadlon_krytyka
+	item	71045	1	48	dlon_przebicia
+	item	71085	1	45	wzmocnienie
+	item	71084	18	100	zmianka
+	item	71084	2	74	zmianka
+	item	71084	1	57	zmianka
+	item	71084	1	37	zmianka
+	item	71084	1	27	zmianka
+	item	71084	1	27	zmianka
+	item	71084	1	17	zmianka
+	item	27003	25	50	czerwona_mikstura_d
+	item	27006	15	50	niebieska_mikstura_d
+	item	28430	1	1.65	kd_4
+	item	28431	1	1.65	kd_4
+	item	28432	1	1.65	kd_4
+	item	28433	1	1.65	kd_4
+	item	28434	1	1.65	kd_4
+	item	28435	1	1.65	kd_4
+	item	28436	1	1.65	kd_4
+	item	28437	1	1.65	kd_4
+	item	28438	1	1.65	kd_4
+	item	28439	1	1.65	kd_4
+	item	28440	1	1.65	kd_4
+	item	28441	1	1.65	kd_4
+	item	28442	1	1.65	kd_4
+	item	28443	1	1.65	kd_4
+	item	28444	1	1.65	kd_4
+	item	70038	3	45	peleryna_mestwa
+	item	70038	10	25	peleryna_mestwa
+	item	77010	1	100	ksiegi_umiejetnosci
+	item	77010	1	50	ksiegi_umiejetnosci
+	item	77010	1	20	ksiegi_umiejetnosci
+	item	27104	1	15	mikstura_f
+	item	27989	1	20	wykrywacz
+	item	78306	1	13	przepustka_SOLO_4
+	item	27987	1	7	malz
+	item	27986	1	5.5	BURSZTYNOWA_MALZ
+	item	78610	1	5	Ksiêgi_arhi
+	item	50060	1	8.5	inst_jazdy_konnej
+	item	78310	1	1.85	pieczec_legendy
+	item	78311	1	1.85	pieczec_legendy
+	item	78312	1	1.85	pieczec_legendy
+	item	78313	1	1.85	pieczec_legendy	
+	item	30750	1	5	czaszka_legwana
+	item	78301	1	4	grzybowa_pieczec
+	item	78302	1	3	zefiru_pieczec
+	item	80004	1	100	mini_sztabka_100k
+	item	80003	1	100	mini_sztabka_50k
+	item	30520	1	12	wabik_skladnik
+}
+
+Group	mu_rang
+{
+	Level_limit	1
+	Type	limit
+	max_level	25
+	Mob	152
+	item	71085	1	45	wzmocnienie
+	item	71084	1	87	zmianka
+	item	25040	1	10	zwoj_blogoslawienstwa
+	item	71044	1	75	dlon_krytyka
+	item	71045	1	75	dlon_przebicia
+	item	77050	1	34	eq_bron
+	item	77053	1	34	eq_zbroja
+	item	77056	1	34	eq_bizu
+	item	27104	1	15	mikstura_f
+	item	70038	15	45	peleryna_mestwa
+
+}
+Group	jug_hyul
+{
+	Level_limit	1
+	Type	limit
+	max_level	25
+	Mob	153
+	item	71085	1	45	wzmocnienie
+	item	71084	1	87	zmianka
+	item	25040	1	10	zwoj_blogoslawienstwa
+	item	71044	1	75	dlon_krytyka
+	item	71045	1	75	dlon_przebicia
+	item	77050	1	34	eq_bron
+	item	77053	1	34	eq_zbroja
+	item	77056	1	34	eq_bizu
+	item	27104	1	15	mikstura_f
+	item	70038	15	45	peleryna_mestwa
+
+}
+Group	young_ji
+{
+	Level_limit	1
+	Type	limit
+	max_level	25
+	Mob	154
+	item	71085	1	45	wzmocnienie
+	item	71084	1	87	zmianka
+	item	71084	1	37	zmianka
+	item	25040	1	10	zwoj_blogoslawienstwa
+	item	71044	1	75	dlon_krytyka
+	item	71045	1	75	dlon_przebicia
+	item	77050	1	34	eq_bron
+	item	77053	1	34	eq_zbroja
+	item	77056	1	34	eq_bizu
+	item	27104	1	15	mikstura_f
+	item	78200	1	11	metek_przywolanie
+	item	70038	15	45	peleryna_mestwa
+
+}
+Group	pies
+{
+	Level_limit	1
+	Type	limit
+	max_level	15
+	Mob	101
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+
+}
+Group	gniewny_pies
+{
+	Level_limit	1
+	Type	limit
+	max_level	15
+	Mob	102
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+
+}
+Group	rozwscieczony_pies
+{
+	Level_limit	1
+	Type	limit
+	max_level	15
+	Mob	171
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+}
+Group	rozwscieczony_gniewny_pies
+{
+	Level_limit	1
+	Type	limit
+	max_level	15
+	Mob	172
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+}
+Group	rozwscieczony_gniewny_alfa_pies
+{
+	Level_limit	1
+	Type	limit
+	max_level	15
+	Mob	173
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+}
+Group	gniewny_pies_alfa
+{
+	Level_limit	1
+	Type	limit
+	max_level	15
+	Mob	103
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+}
+Group	bialy_kundel
+{
+	Level_limit	1
+	Type	limit
+	max_level	21
+	Mob	104
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+}
+Group	bialy_kundel_alfa
+{
+	Level_limit	1
+	Type	limit
+	max_level	21
+	Mob	105
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+}
+Group	rozwsciecony_bialy_kundel
+{
+	Level_limit	1
+	Type	limit
+	max_level	21
+	Mob	174
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+}
+Group	rozswscieczony_bialy_kundel_alfa
+{
+	Level_limit	1
+	Type	limit
+	max_level	21
+	Mob	175
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+}
+Group	owczarek
+{
+	Level_limit	1
+	Type	limit
+	max_level	21
+	Mob	106
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+}
+Group	nieobyty_owczarek
+{
+	Level_limit	1
+	Type	limit
+	max_level	21
+	Mob	107
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+}
+Group	rozwscieczony_owczarek
+{
+	Level_limit	1
+	Type	limit
+	max_level	21
+	Mob	176
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+}
+Group	rozwscieczony_nieoby_owczarek
+{
+	Level_limit	1
+	Type	limit
+	max_level	21
+	Mob	177
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+}
+Group	rozwscieczony_niedzwiedz
+{
+	Level_limit	1
+	Type	limit
+	max_level	21
+	Mob	178
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+	item	30010	1	0.1	ulepszacz_srebrna
+}
+Group	rozwscieczony_niedzwiedz_malajski
+{
+	Level_limit	1
+	Type	limit
+	max_level	21
+	Mob	179
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+	item	30053	1	0.1	ulepszacz_srebrna
+}
+Group	niedzwiedz
+{
+	Level_limit	1
+	Type	limit
+	max_level	22
+	Mob	108
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+	item	30032	1	0.1	ulepszacz_srebrna
+}
+Group	niedzwiedz_malajski
+{
+	Level_limit	1
+	Type	limit
+	max_level	24
+	Mob	109
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+	item	30034	1	0.1	ulepszacz_srebrna
+}
+Group	grizzly
+{
+	Level_limit	1
+	Type	limit
+	max_level	25
+	Mob	110
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+	item	30073	1	0.1	ulepszacz_srebrna
+}
+Group	rozwscieczony_grizzly
+{
+	Level_limit	1
+	Type	limit
+	max_level	25
+	Mob	180
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+	item	30035	1	0.1	ulepszacz_srebrna
+}
+Group	niedzwiedz_brunatny
+{
+	Level_limit	1
+	Type	limit
+	max_level	30
+	Mob	111
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+	item	30011	1	0.1	ulepszacz_srebrna
+}
+Group	rozwscieczony_niedzwiedz_brunatny
+{
+	Level_limit	1
+	Type	limit
+	max_level	30
+	Mob	181
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+	item	30031	1	0.1	ulepszacz_srebrna
+}
+Group	niedzwiedz_himalajksi
+{
+	Level_limit	1
+	Type	limit
+	max_level	30
+	Mob	112
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+	item	30033	1	0.1	ulepszacz_srebrna
+}
+Group	rowscieczony_niedzwiedz_himalajksi
+{
+	Level_limit	1
+	Type	limit
+	max_level	30
+	Mob	182
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+	item	30072	1	0.1	ulepszacz_srebrna
+}
+Group	rowscieczony_tygrys
+{
+	Level_limit	1
+	Type	limit
+	max_level	30
+	Mob	183
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+}
+Group	tygrys
+{
+	Level_limit	1
+	Type	limit
+	max_level	34
+	Mob	113
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+}
+Group	rozwsceiczony_tygrys
+{
+	Level_limit	1
+	Type	limit
+	max_level	34
+	Mob	184
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+}
+Group	tygrys_bengalski
+{
+	Level_limit	1
+	Type	limit
+	max_level	34
+	Mob	114
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+}
+Group	rowsceiczony_tygrys_bengalski
+{
+	Level_limit	1
+	Type	limit
+	max_level	34
+	Mob	184
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+}
+Group	tygrys_indochisnki
+{
+	Level_limit	1
+	Type	limit
+	max_level	34
+	Mob	115
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+}
+Group	rowscieczony_tygrys_indochisnki
+{
+	Level_limit	1
+	Type	limit
+	max_level	34
+	Mob	185
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+}
+Group	zaprzys_zolnierz
+{
+	Level_limit	1
+	Type	limit
+	max_level	34
+	Mob	301
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+}
+Group	zaprzys_lucznik
+{
+	Level_limit	1
+	Type	limit
+	max_level	34
+	Mob	302
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+}
+Group	zaprzys_general
+{
+	Level_limit	1
+	Type	limit
+	max_level	34
+	Mob	303
+	item	70038	1	1	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.1	metek_przywolanie
+	item	71085	1	0.1	wzmocnienie
+	item	25040	1	0.1	zwoj_blogoslawienstwa
+}
+Group	zaprzys_komandor
+{
+	Level_limit	1
+	Type	limit
+	max_level	34
+	Mob	304
+	item	70038	1	1	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.1	metek_przywolanie
+	item	71085	1	0.1	wzmocnienie
+	item	25040	1	0.1	zwoj_blogoslawienstwa
+}
+Group	tchorz_zaprzys_zolnierz
+{
+	Level_limit	1
+	Type	limit
+	max_level	34
+	Mob	351
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+}
+Group	tchorz_zaprzys_lucznik
+{
+	Level_limit	1
+	Type	limit
+	max_level	34
+	Mob	352
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+}
+Group	tchorz_zaprzys_general
+{
+	Level_limit	1
+	Type	limit
+	max_level	34
+	Mob	353
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+}
+Group	tchorz_zaprzys_komandor
+{
+	Level_limit	1
+	Type	limit
+	max_level	34
+	Mob	354
+	item	70038	1	0.3	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.2	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.06	zmianka
+	item	78200	1	0.05	metek_przywolanie
+}
+Group	mi_jung
+{
+	Level_limit	1
+	Type	limit
+	max_level	34
+	Mob	391
+	item	78581	1	0.60	ulepszacze_slabe
+	item	70038	1	100	peleryna_mestwa
+	item	77053	1	0.55	eq_zbroja
+	item	77056	1	0.75	eq_bizu
+	item	77050	1	0.55	eq_bron
+	item	71084	1	2	zmianka
+	item	78200	1	0.1	metek_przywolanie
+	item	71085	1	0.1	wzmocnienie
+	item	25040	1	0.1	zwoj_blogoslawienstwa
+}
+Group	eun_jung
+{
+	Level_limit	1
+	Type	limit
+	max_level	34
+	Mob	392
+	item	78581	1	0.60	ulepszacze_slabe
+	item	70038	1	100	peleryna_mestwa
+	item	77053	1	0.55	eq_zbroja
+	item	77056	1	0.75	eq_bizu
+	item	77050	1	0.55	eq_bron
+	item	71084	1	2	zmianka
+	item	78200	1	0.1	metek_przywolanie
+	item	71085	1	0.1	wzmocnienie
+	item	25040	1	0.1	zwoj_blogoslawienstwa
+}
+Group	see_rang
+{
+	Level_limit	1
+	Type	limit
+	max_level	34
+	Mob	393
+	item	78581	1	0.60	ulepszacze_slabe
+	item	70038	1	100	peleryna_mestwa
+	item	77053	1	0.55	eq_zbroja
+	item	77056	1	0.75	eq_bizu
+	item	77050	1	0.55	eq_bron
+	item	71084	1	2	zmianka
+	item	78200	1	0.1	metek_przywolanie
+	item	71085	1	0.1	wzmocnienie
+	item	25040	1	0.1	zwoj_blogoslawienstwa
+}
+Group	jin_hee
+{
+	Level_limit	1
+	Type	limit
+	max_level	34
+	Mob	394
+	item	78581	1	0.60	ulepszacze_slabe
+	item	70038	1	100	peleryna_mestwa
+	item	77053	1	0.55	eq_zbroja
+	item	77056	1	0.75	eq_bizu
+	item	77050	1	0.55	eq_bron
+	item	71084	1	2	zmianka
+	item	78200	1	0.1	metek_przywolanie
+	item	71085	1	0.1	wzmocnienie
+	item	25040	1	0.1	zwoj_blogoslawienstwa
+}
+Group	bezd_mi_jung
+{
+	Level_limit	1
+	Type	limit
+	max_level	34
+	Mob	395
+	item	78581	1	0.1	ulepszacze_slabe
+	item	70038	1	10	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.25	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.1	zmianka
+	item	78200	1	0.05	metek_przywolanie
+	item	71085	1	0.05	wzmocnienie
+	item	25040	1	0.05	zwoj_blogoslawienstwa
+}
+Group	bezd_eun_jung
+{
+	Level_limit	1
+	Type	limit
+	max_level	34
+	Mob	396
+	item	78581	1	0.1	ulepszacze_slabe
+	item	70038	1	10	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.25	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.1	zmianka
+	item	78200	1	0.05	metek_przywolanie
+	item	71085	1	0.05	wzmocnienie
+	item	25040	1	0.05	zwoj_blogoslawienstwa
+}
+Group	bezd_see_rang
+{
+	Level_limit	1
+	Type	limit
+	max_level	34
+	Mob	397
+	item	78581	1	0.1	ulepszacze_slabe
+	item	70038	1	10	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.25	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.1	zmianka
+	item	78200	1	0.05	metek_przywolanie
+	item	71085	1	0.05	wzmocnienie
+	item	25040	1	0.05	zwoj_blogoslawienstwa
+}
+Group	bezd_jin_hee
+{
+	Level_limit	1
+	Type	limit
+	max_level	34
+	Mob	398
+	item	78581	1	0.1	ulepszacze_slabe
+	item	70038	1	10	peleryna_mestwa
+	item	77053	1	0.15	eq_zbroja
+	item	77056	1	0.25	eq_bizu
+	item	77050	1	0.15	eq_bron
+	item	71084	1	0.1	zmianka
+	item	78200	1	0.05	metek_przywolanie
+	item	71085	1	0.05	wzmocnienie
+	item	25040	1	0.05	zwoj_blogoslawienstwa
+}
+Group	chuligan_z_tasakiem
+{
+	Level_limit	1
+	Type	limit
+	max_level	40
+	Mob	401
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.15	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	rolnik_bandyta
+{
+	Level_limit	1
+	Type	limit
+	max_level	41
+	Mob	402
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.15	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	strzelec_najemnik
+{
+	Level_limit	1
+	Type	limit
+	max_level	41
+	Mob	403
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.15	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	rozbojnik_wielkolud
+{
+	Level_limit	1
+	Type	limit
+	max_level	43
+	Mob	404
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.15	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	szakal
+{
+	Level_limit	1
+	Type	limit
+	max_level	43
+	Mob	405
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.15	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	kolos_degenerat
+{
+	Level_limit	1
+	Type	limit
+	max_level	43
+	Mob	406
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.15	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	rozbojnik_wielkolud
+{
+	Level_limit	1
+	Type	limit
+	max_level	43
+	Mob	407
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.15	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	przesladowczy_chuligan_z_tasakiem
+{
+	Level_limit	1
+	Type	limit
+	max_level	40
+	Mob	451
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.15	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	przesladowczy_rolnik_bandyta
+{
+	Level_limit	1
+	Type	limit
+	max_level	40
+	Mob	452
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.15	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	przesladowczy_strzelec_najemnik
+{
+	Level_limit	1
+	Type	limit
+	max_level	40
+	Mob	453
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.15	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	przesladowczy_rozbojnik_wielkolud
+{
+	Level_limit	1
+	Type	limit
+	max_level	40
+	Mob	454
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.15	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	przesladowczy_szakal
+{
+	Level_limit	1
+	Type	limit
+	max_level	40
+	Mob	455
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.15	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	przesladowczy_kolos_degenerat
+{
+	Level_limit	1
+	Type	limit
+	max_level	40
+	Mob	456
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.15	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	despotyczny_chuligan
+{
+	Level_limit	1
+	Type	limit
+	max_level	40
+	Mob	431
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.15	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+	
+}
+Group	despotyczny_rolnik_bandyta
+{
+	Level_limit	1
+	Type	limit
+	max_level	40
+	Mob	432
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.15	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	despotyczny_strzelec_najemnik
+{
+	Level_limit	1
+	Type	limit
+	max_level	40
+	Mob	433
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.15	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	despotyczny_rozbojnik_wielkolud
+{
+	Level_limit	1
+	Type	limit
+	max_level	40
+	Mob	434
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.15	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	despotyczny_szakal
+{
+	Level_limit	1
+	Type	limit
+	max_level	40
+	Mob	435
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.15	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+
+Group	despotyczny_kolos_degenerat
+{
+	Level_limit	1
+	Type	limit
+	max_level	40
+	Mob	436
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.15	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	mahon
+{
+	Level_limit	1
+	Type	limit
+	max_level	40
+	Mob	491
+	item	25040	1	25	zwoj_blogoslawienstwa
+	item	71044	1	95	dlon_krytyka
+	item	71045	1	95	dlon_przebicia
+	item	77051	1	22	eq_bron_2
+	item	77054	1	22	eq_zbroja_2
+	item	77057	1	22	eq_bizu_2
+	item	71084	2	100	zmianka
+	item	71084	1	45	zmianka
+	item	71085	1	51	wzmocnienie
+	item	77060	1	2	kufer_czaru
+	item	77061	1	2	klucz_czaru
+	item	27104	1	100	mikstura_f
+	item	27989	1	30	wykrywacz
+	item	70038	20	100	peleryna_mestwa
+}
+Group	bo
+{
+	Level_limit	1
+	Type	limit
+	max_level	44
+	Mob	492
+	item	25040	1	25	zwoj_blogoslawienstwa
+	item	71044	1	95	dlon_krytyka
+	item	71045	1	95	dlon_przebicia
+	item	77051	1	22	eq_bron_2
+	item	77054	1	22	eq_zbroja_2
+	item	77057	1	22	eq_bizu_2
+	item	71084	2	100	zmianka
+	item	71084	1	45	zmianka
+	item	71085	1	51	wzmocnienie
+	item	77060	1	2	kufer_czaru
+	item	77061	1	2	klucz_czaru
+	item	27104	1	100	mikstura_f
+	item	27989	1	30	wykrywacz
+	item	70038	20	100	peleryna_mestwa
+}
+Group	go_pae
+{
+	Level_limit	1
+	Type	limit
+	max_level	44
+	Mob	493
+	item	25040	1	25	zwoj_blogoslawienstwa
+	item	71044	1	95	dlon_krytyka
+	item	71045	1	95	dlon_przebicia
+	item	77051	1	22	eq_bron_2
+	item	77054	1	22	eq_zbroja_2
+	item	77057	1	22	eq_bizu_2
+	item	71084	2	100	zmianka
+	item	71084	1	45	zmianka
+	item	71085	1	51	wzmocnienie
+	item	77060	1	2	kufer_czaru
+	item	77061	1	2	klucz_czaru
+	item	27104	1	100	mikstura_f
+	item	27989	1	30	wykrywacz
+	item	70038	20	100	peleryna_mestwa
+}
+Group	chujong
+{
+	Level_limit	1
+	Type	limit
+	max_level	44
+	Mob	494
+	item	25040	1	25	zwoj_blogoslawienstwa
+	item	71044	1	95	dlon_krytyka
+	item	71045	1	95	dlon_przebicia
+	item	77051	1	22	eq_bron_2
+	item	77054	1	22	eq_zbroja_2
+	item	77057	1	22	eq_bizu_2
+	item	71084	2	100	zmianka
+	item	71084	1	45	zmianka
+	item	71085	1	51	wzmocnienie
+	item	77060	1	2	kufer_czaru
+	item	77061	1	2	klucz_czaru
+	item	27104	1	100	mikstura_f
+	item	27989	1	30	wykrywacz
+	item	70038	20	100	peleryna_mestwa
+}
+Group	szabrownik
+{
+	Level_limit	1
+	Type	limit
+	max_level	40
+	Mob	501
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.15	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	zwiadowca
+{
+	Level_limit	1
+	Type	limit
+	max_level	40
+	Mob	502
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.15	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	strzelec_wyborowy
+{
+	Level_limit	1
+	Type	limit
+	max_level	40
+	Mob	503
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.15	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	rozbojnik_gigant
+{
+	Level_limit	1
+	Type	limit
+	max_level	40
+	Mob	504
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.15	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	okrutny_szabrownik
+{
+	Level_limit	1
+	Type	limit
+	max_level	40
+	Mob	551
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.15	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	okrutny_zwiadowca
+{
+	Level_limit	1
+	Type	limit
+	max_level	40
+	Mob	552
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.15	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	okrutny_strzelec_wyborowy
+{
+	Level_limit	1
+	Type	limit
+	max_level	40
+	Mob	553
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.15	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	okrutny_rozbojnik_gigant
+{
+	Level_limit	1
+	Type	limit
+	max_level	40
+	Mob	554
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.15	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	zbir_z_bagien
+{
+	Level_limit	1
+	Type	limit
+	max_level	40
+	Mob	531
+	item	77011	1	5	cyrograf_doswiadczenia
+	item	77051	1	25	eq_bron_2
+	item	77054	1	25	eq_zbroja_2
+	item	77057	1	25	eq_bizu_2
+	item	71084	1	25	zmianka
+	item	71084	1	25	zmianka
+	item	71085	1	45	wzmocnienie
+	item	71084	3	10	zmianka
+	item	71084	3	10	zmianka
+	item	71085	3	10	wzmocnienie
+	item	70038	5	25	peleryna_mestwa
+	item	25040	1	25	zwoj_blogoslawienstwa
+	item	71044	1	86	dlon_krytyka
+	item	71045	1	86	dlon_przebicia
+	item	77060	1	3	kufer_czaru
+	item	77061	1	3	klucz_czaru
+	item	27989	1	30	wykrywacz
+	item	78402	1	20	ziarno_dzwoneczka
+}
+Group	bagienny_grandziarz
+{
+	Level_limit	1
+	Type	limit
+	max_level	45
+	Mob	532
+	item	77011	1	5	cyrograf_doswiadczenia
+	item	77051	1	25	eq_bron_2
+	item	77054	1	25	eq_zbroja_2
+	item	77057	1	25	eq_bizu_2
+	item	71084	1	25	zmianka
+	item	71084	1	25	zmianka
+	item	71085	1	45	wzmocnienie
+	item	71084	3	10	zmianka
+	item	71084	3	10	zmianka
+	item	71085	3	10	wzmocnienie
+	item	70038	5	25	peleryna_mestwa
+	item	25040	1	25	zwoj_blogoslawienstwa
+	item	71044	1	86	dlon_krytyka
+	item	71045	1	86	dlon_przebicia
+	item	77060	1	3	kufer_czaru
+	item	77061	1	3	klucz_czaru
+	item	27989	1	30	wykrywacz
+	item	78402	1	20	ziarno_dzwoneczka
+}
+Group	przesladowca
+{
+	Level_limit	1
+	Type	limit
+	max_level	45
+	Mob	533
+	item	77011	1	5	cyrograf_doswiadczenia
+	item	77051	1	25	eq_bron_2
+	item	77054	1	25	eq_zbroja_2
+	item	77057	1	25	eq_bizu_2
+	item	71084	1	25	zmianka
+	item	71084	1	25	zmianka
+	item	71085	1	45	wzmocnienie
+	item	71084	3	10	zmianka
+	item	71084	3	10	zmianka
+	item	71085	3	10	wzmocnienie
+	item	70038	5	25	peleryna_mestwa
+	item	25040	1	25	zwoj_blogoslawienstwa
+	item	71044	1	86	dlon_krytyka
+	item	71045	1	86	dlon_przebicia
+	item	77060	1	3	kufer_czaru
+	item	77061	1	3	klucz_czaru
+	item	27989	1	30	wykrywacz
+	item	78402	1	20	ziarno_dzwoneczka
+}
+Group	besta_w_ludzkim_ciele
+{
+	Level_limit	1
+	Type	limit
+	max_level	45
+	Mob	534
+	item	77011	1	5	cyrograf_doswiadczenia
+	item	77051	1	25	eq_bron_2
+	item	77054	1	25	eq_zbroja_2
+	item	77057	1	25	eq_bizu_2
+	item	71084	1	25	zmianka
+	item	71084	1	25	zmianka
+	item	71085	1	45	wzmocnienie
+	item	71084	3	10	zmianka
+	item	71084	3	10	zmianka
+	item	71085	3	10	wzmocnienie
+	item	70038	5	25	peleryna_mestwa
+	item	25040	1	25	zwoj_blogoslawienstwa
+	item	71044	1	86	dlon_krytyka
+	item	71045	1	86	dlon_przebicia
+	item	77060	1	3	kufer_czaru
+	item	77061	1	3	klucz_czaru
+	item	27989	1	30	wykrywacz
+	item	78402	1	20	ziarno_dzwoneczka
+}
+Group	dziki_scyther
+{
+	Level_limit	1
+	Type	limit
+	max_level	50
+	Mob	592
+	item	77011	1	5	cyrograf_doswiadczenia
+	item	77051	1	25	eq_bron_2
+	item	77054	1	25	eq_zbroja_2
+	item	77057	1	25	eq_bizu_2
+	item	71084	1	25	zmianka
+	item	71084	1	25	zmianka
+	item	71085	1	45	wzmocnienie
+	item	71084	3	10	zmianka
+	item	71084	3	10	zmianka
+	item	71085	3	10	wzmocnienie
+	item	70038	5	25	peleryna_mestwa
+	item	25040	1	25	zwoj_blogoslawienstwa
+	item	71044	1	86	dlon_krytyka
+	item	71045	1	86	dlon_przebicia
+	item	52901	1	2	poradnik_trenera
+	item	77060	1	3	kufer_czaru
+	item	77061	1	3	klucz_czaru
+	item	27989	1	30	wykrywacz
+	item	78402	1	20	ziarno_dzwoneczka
+}
+Group	mlody_kosarz
+{
+	Level_limit	1
+	Type	limit
+	max_level	50
+	Mob	2001
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.13	eq_bizu_3
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	pajak
+{
+	Level_limit	1
+	Type	limit
+	max_level	50
+	Mob	2002
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	mrowka
+{
+	Level_limit	1
+	Type	limit
+	max_level	50
+	Mob	2103
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	gigant_mrowka
+{
+	Level_limit	1
+	Type	limit
+	max_level	50
+	Mob	2102
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	ziel_truj_pajak
+{
+	Level_limit	1
+	Type	limit
+	max_level	60
+	Mob	2003
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	pajeczy_kosarz
+{
+	Level_limit	1
+	Type	limit
+	max_level	60
+	Mob	2004
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	plugawy_mlody_kosarz
+{
+	Level_limit	1
+	Type	limit
+	max_level	50
+	Mob	2051
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	podly_smioert_pajak
+{
+	Level_limit	1
+	Type	limit
+	max_level	50
+	Mob	2052
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	podly_ziel_truj_paj
+{
+	Level_limit	1
+	Type	limit
+	max_level	50
+	Mob	2053
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	pajeczy_plugawy_kosarz
+{
+	Level_limit	1
+	Type	limit
+	max_level	50
+	Mob	2054
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	ptasznik_olbrzymi
+{
+	Level_limit	1
+	Type	limit
+	max_level	50
+	Mob	2005
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	mlody_czlowiek_skorpion
+{
+	Level_limit	1
+	Type	limit
+	max_level	50
+	Mob	2104
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	skorpion_lucznik
+{
+	Level_limit	1
+	Type	limit
+	max_level	50
+	Mob	2104
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	cyklop_wojownik
+{
+	Level_limit	1
+	Type	limit
+	max_level	50
+	Mob	2106
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	cyklop_lucznik
+{
+	Level_limit	1
+	Type	limit
+	max_level	50
+	Mob	2107
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	pustynny_bojownik
+{
+	Level_limit	1
+	Type	limit
+	max_level	50
+	Mob	2108
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	pustynny_bojownik_silny
+{
+	Level_limit	1
+	Type	limit
+	max_level	50
+	Mob	2158
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	demoni_zolnierz
+{
+	Level_limit	1
+	Type	limit
+	max_level	65
+	Mob	1001
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	demoni_lucznik
+{
+	Level_limit	1
+	Type	limit
+	max_level	65
+	Mob	1002
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	demoni_wlocznik
+{
+	Level_limit	1
+	Type	limit
+	max_level	65
+	Mob	1003
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	podly_demoni_zolnierz
+{
+	Level_limit	1
+	Type	limit
+	max_level	65
+	Mob	1031
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	podly_demoni_lucznik
+{
+	Level_limit	1
+	Type	limit
+	max_level	65
+	Mob	1032
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	podly_demoni_wlocznik
+{
+	Level_limit	1
+	Type	limit
+	max_level	65
+	Mob	1033
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	brutalny_demoni_zolnierz
+{
+	Level_limit	1
+	Type	limit
+	max_level	65
+	Mob	1061
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	brutalny_demoni_lucznik
+{
+	Level_limit	1
+	Type	limit
+	max_level	65
+	Mob	1062
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	brutalny_demoni_wlocznik
+{
+	Level_limit	1
+	Type	limit
+	max_level	65
+	Mob	1063
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	slaby_malpi_zolnierz
+{
+	Level_limit	1
+	Type	limit
+	max_level	35
+	Mob	5101
+	item	50050	1	0.1	medal_konny
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	slaby_malpi_miotacz
+{
+	Level_limit	1
+	Type	limit
+	max_level	35
+	Mob	5102
+	item	50050	1	0.1	medal_konny
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	slaby_malpi_wojownik
+{
+	Level_limit	1
+	Type	limit
+	max_level	35
+	Mob	5103
+	item	50050	1	0.1	medal_konny
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	slaby_malpi_wojownik
+{
+	Level_limit	1
+	Type	limit
+	max_level	35
+	Mob	5103
+	item	50050	1	0.1	medal_konny
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	slaby_malpi_general
+{
+	Level_limit	1
+	Type	limit
+	max_level	40
+	Mob	5104
+	item	50050	1	0.1	medal_konny
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	malpi_zolnierz
+{
+	Level_limit	1
+	Type	limit
+	max_level	48
+	Mob	5111
+	item	50050	1	0.1	medal_konny
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	malpi_miotacz
+{
+	Level_limit	1
+	Type	limit
+	max_level	50
+	Mob	5112
+	item	50050	1	0.1	medal_konny
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	malpi_wojownik
+{
+	Level_limit	1
+	Type	limit
+	max_level	52
+	Mob	5113
+	item	50050	1	0.1	medal_konny
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	malpi_general
+{
+	Level_limit	1
+	Type	limit
+	max_level	55
+	Mob	5114
+	item	50050	1	0.1	medal_konny
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	malpi_general
+{
+	Level_limit	1
+	Type	limit
+	max_level	55
+	Mob	5114
+	item	50050	1	0.1	medal_konny
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	kamienna_malpa
+{
+	Level_limit	1
+	Type	limit
+	max_level	55
+	Mob	5115
+	item	50050	1	0.1	medal_konny
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	silny_malpi_zolnierz
+{
+	Level_limit	1
+	Type	limit
+	max_level	60
+	Mob	5121
+	item	50050	1	0.1	medal_konny
+	item	70038	1	0.2	peleryna
+	item	25040	1	0.1	zwoj_blogoslawienstwa
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.1	eq_bizu_3
+	item	71084	1	0.06	zmianka
+}
+Group	silny_malpi_miotacz
+{
+	Level_limit	1
+	Type	limit
+	max_level	60
+	Mob	5122
+	item	50050	1	0.1	medal_konny
+	item	70038	1	0.2	peleryna
+	item	25040	1	0.1	zwoj_blogoslawienstwa
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.1	eq_bizu_3
+	item	71084	1	0.06	zmianka
+}
+Group	silny_malpi_general
+{
+	Level_limit	1
+	Type	limit
+	max_level	65
+	Mob	5123
+	item	50050	1	0.1	medal_konny
+	item	70038	1	0.2	peleryna
+	item	25040	1	0.1	zwoj_blogoslawienstwa
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.1	eq_bizu_3
+	item	71084	1	0.06	zmianka
+}
+Group	silna_zlota_malpa
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	5151
+	item	50050	1	0.1	medal_konny
+	item	70038	1	0.2	peleryna
+	item	25040	1	0.1	zwoj_blogoslawienstwa
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.1	eq_bizu_3
+	item	71084	1	0.06	zmianka
+}
+Group	silna_zlota_malpa
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	5152
+	item	50050	1	0.1	medal_konny
+	item	70038	1	0.2	peleryna
+	item	25040	1	0.1	zwoj_blogoslawienstwa
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.1	eq_bizu_3
+	item	71084	1	0.06	zmianka
+}
+Group	silna_zlota_malpa
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	5153
+	item	50050	1	0.1	medal_konny
+	item	70038	1	0.2	peleryna
+	item	25040	1	0.1	zwoj_blogoslawienstwa
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.1	eq_bizu_3
+	item	71084	1	0.06	zmianka
+}
+Group	silna_zlota_malpa
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	5154
+	item	50050	1	0.1	medal_konny
+	item	70038	1	0.2	peleryna
+	item	25040	1	0.1	zwoj_blogoslawienstwa
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.1	eq_bizu_3
+	item	71084	1	0.06	zmianka
+}
+Group	silna_zlota_malpa
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	5155
+	item	50050	1	0.1	medal_konny
+	item	70038	1	0.2	peleryna
+	item	25040	1	0.1	zwoj_blogoslawienstwa
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.1	eq_bizu_3
+	item	71084	1	0.06	zmianka
+}
+Group	silna_zlota_malpa
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	5156
+	item	50050	1	0.1	medal_konny
+	item	70038	1	2.0	peleryna
+	item	25040	1	0.1	zwoj_blogoslawienstwa
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.1	eq_bizu_3
+	item	71084	1	0.06	zmianka
+}
+Group	silny_malpi_wojownik
+{
+	Level_limit	1
+	Type	limit
+	max_level	68
+	Mob	5124
+	item	50050	1	0.1	medal_konny
+	item	70038	1	2.0	peleryna
+	item	25040	1	0.1	zwoj_blogoslawienstwa
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.1	eq_bizu_3
+	item	71084	1	0.06	zmianka
+}
+Group	silna_kamienna_malpa
+{
+	Level_limit	1
+	Type	limit
+	max_level	68
+	Mob	5125
+	item	50050	1	0.1	medal_konny
+	item	70038	1	2.0	peleryna
+	item	25040	1	0.1	zwoj_blogoslawienstwa
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.1	eq_bizu_3
+	item	71084	1	0.06	zmianka
+}
+Group	silna_zlota_malpa
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	5126
+	item	50050	1	0.1	medal_konny
+	item	70038	1	2.0	peleryna
+	item	25040	1	0.1	zwoj_blogoslawienstwa
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.1	eq_bizu_3
+	item	71084	1	0.06	zmianka
+}
+
+Group	mroczny_krasnolud_wojownik
+{
+	Level_limit	1
+	Type	limit
+	max_level	40
+	Mob	601
+	item	70038	1	0.2	peleryna
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	78580	1	0.15	ulepszacze_srednie
+	item	77057	1	0.1	eq_bizu_2
+	item	71084	1	0.06	zmianka
+}
+Group	mroczny_elf
+{
+	Level_limit	1
+	Type	limit
+	max_level	42
+	Mob	602
+	item	70038	1	0.2	peleryna
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.1	eq_bizu_2
+	item	78580	1	0.15	ulepszacze_srednie
+	item	71084	1	0.06	zmianka
+}
+Group	silny_mroczny_krasnolud_wojownik
+{
+	Level_limit	1
+	Type	limit
+	max_level	45
+	Mob	631
+	item	70038	1	0.2	peleryna
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.1	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	78580	1	0.15	ulepszacze_srednie
+}
+Group	silny_mroczny_elf
+{
+	Level_limit	1
+	Type	limit
+	max_level	45
+	Mob	632
+	item	70038	1	0.2	peleryna
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.1	eq_bizu_2
+	item	78580	1	0.15	ulepszacze_srednie
+	item	71084	1	0.06	zmianka
+}
+Group	elit_ork_wojownik
+{
+	Level_limit	1
+	Type	limit
+	max_level	55
+	Mob	633
+	item	70038	1	0.2	peleryna
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.1	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	78580	1	0.15	ulepszacze_srednie
+}
+Group	elit_ork_czarodziej
+{
+	Level_limit	1
+	Type	limit
+	max_level	55
+	Mob	634
+	item	70038	1	0.2	peleryna
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.1	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	78580	1	0.15	ulepszacze_srednie
+}
+Group	zabojad_pospolity
+{
+	Level_limit	1
+	Type	limit
+	max_level	55
+	Mob	635
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	zielony_ork
+{
+	Level_limit	1
+	Type	limit
+	max_level	55
+	Mob	636
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	zielony_ork_niszczyciel
+{
+	Level_limit	1
+	Type	limit
+	max_level	55
+	Mob	637
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	szalenczy_mroczny_woj
+{
+	Level_limit	1
+	Type	limit
+	max_level	50
+	Mob	651
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	szalenczy_mrcozny_elf
+{
+	Level_limit	1
+	Type	limit
+	max_level	50
+	Mob	652
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	szalenczy_mroczny_woj
+{
+	Level_limit	1
+	Type	limit
+	max_level	55
+	Mob	653
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	szalenczy_mrcozny_elf
+{
+	Level_limit	1
+	Type	limit
+	max_level	55
+	Mob	654
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	lysy_ziel_ork
+{
+	Level_limit	1
+	Type	limit
+	max_level	60
+	Mob	656
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	niszczyciel_ziel_ork
+{
+	Level_limit	1
+	Type	limit
+	max_level	60
+	Mob	657
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	ezot_fanatyk
+{
+	Level_limit	1
+	Type	limit
+	max_level	47
+	Mob	701
+	item	70038	1	0.2	peleryna
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.1	eq_bizu_2
+	item	78580	1	0.15	ulepszacze_srednie
+	item	71084	1	0.06	zmianka
+}
+Group	ezot_arhan
+{
+	Level_limit	1
+	Type	limit
+	max_level	47
+	Mob	702
+	item	70038	1	0.2	peleryna
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.1	eq_bizu_2
+	item	78580	1	0.15	ulepszacze_srednie
+	item	71084	1	0.06	zmianka
+}
+Group	ezot_wojownik_arhan
+{
+	Level_limit	1
+	Type	limit
+	max_level	47
+	Mob	703
+	item	70038	1	0.2	peleryna
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.1	eq_bizu_2
+	item	78580	1	0.15	ulepszacze_srednie
+	item	71084	1	0.06	zmianka
+}
+Group	wodz_ezot_arhan
+{
+	Level_limit	1
+	Type	limit
+	max_level	47
+	Mob	704
+	item	70038	1	0.2	peleryna
+	item	77051	1	0.1	eq_bron_2
+	item	77054	1	0.1	eq_zbroja_2
+	item	77057	1	0.1	eq_bizu_2
+	item	78580	1	0.15	ulepszacze_srednie
+	item	71084	1	0.06	zmianka
+}
+Group	ezot_egzekutor
+{
+	Level_limit	1
+	Type	limit
+	max_level	55
+	Mob	705
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	ezot_dreczyciel
+{
+	Level_limit	1
+	Type	limit
+	max_level	55
+	Mob	706
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	ezot_przyzywacz
+{
+	Level_limit	1
+	Type	limit
+	max_level	55
+	Mob	707
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_2
+	item	77058	1	0.13	eq_bizu_2
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	jaszczurzy_wojownik
+{
+	Level_limit	1
+	Type	limit
+	max_level	65
+	Mob	731
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.13	eq_bizu_3
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	czerwony_jaszczurzy_wojownik
+{
+	Level_limit	1
+	Type	limit
+	max_level	65
+	Mob	732
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.13	eq_bizu_3
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	zraniony_jaszczurzy_wojownik
+{
+	Level_limit	1
+	Type	limit
+	max_level	65
+	Mob	733
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.13	eq_bizu_3
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	jaszczurzy_zawadiaka
+{
+	Level_limit	1
+	Type	limit
+	max_level	65
+	Mob	734
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.13	eq_bizu_3
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	jaszczurzy_lider
+{
+	Level_limit	1
+	Type	limit
+	max_level	65
+	Mob	735
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.13	eq_bizu_3
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	szary_jaszczurzy_zawadiaka
+{
+	Level_limit	1
+	Type	limit
+	max_level	65
+	Mob	736
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.13	eq_bizu_3
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	ognisty_jaszczurzy_zawadiaka
+{
+	Level_limit	1
+	Type	limit
+	max_level	65
+	Mob	737
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.13	eq_bizu_3
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	jaszczurzy_bossman
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	771
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.13	eq_bizu_3
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	jaszczurzy_ognik
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	772
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.13	eq_bizu_3
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	zraznionu_jaszczurzy_zawadiaka
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	773
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.13	eq_bizu_3
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	zabojad_siwatynny
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	774
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.13	eq_bizu_3
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	zabojad_wojownik
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	775
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.13	eq_bizu_3
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	swiatynny_zabojad_wojodnik
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	776
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.13	eq_bizu_3
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	swiatynny_zabojad_general
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	777
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.13	eq_bizu_3
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	swiatynny_legwan
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	1301
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.13	eq_bizu_3
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	czarny_swiatynny_legwan
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	1302
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.13	eq_bizu_3
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	general_pospolity
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	1303
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.13	eq_bizu_3
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	bandycki_zabojad
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	1305
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.13	eq_bizu_3
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	wielki_swiatynny_legwan
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	1331
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.13	eq_bizu_3
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	wielki_general_pospolity
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	1332
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.13	eq_bizu_3
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	wielki_swiatynny_legwan
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	1333
+	item	78582	1	0.15	ulepszacze_dobre
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.13	eq_bizu_3
+	item	71084	1	0.06	zmianka
+	item	70038	1	0.3	peleryna_mestwa
+}
+Group	duch_martwego_ciala
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	901
+	item	30021	1	1.5	ulepszacz_rubinowa
+	item	71084	1	1	zmianka
+	item	77052	1	0.5	eq_bron_3
+	item	77055	1	0.5	eq_zbroja_3
+	item	77058	1	0.5	eq_bizu_3
+	item	25040	1	0.3	zwoj_blogoslawienstwa
+}
+Group	zarazony_pies
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	902
+	item	30052	1	1.5	ulepszacz_rubinowa
+	item	71084	1	1	zmianka
+	item	77052	1	0.5	eq_bron_3
+	item	77055	1	0.5	eq_zbroja_3
+	item	77058	1	0.5	eq_bizu_3
+	item	25040	1	0.3	zwoj_blogoslawienstwa
+}
+Group	zarazony_czlowiek
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	903
+	item	30046	1	1.5	ulepszacz_rubinowa
+	item	71084	1	1	zmianka
+	item	77052	1	0.5	eq_bron_3
+	item	77055	1	0.5	eq_zbroja_3
+	item	77058	1	0.5	eq_bizu_3
+	item	25040	1	0.3	zwoj_blogoslawienstwa
+}
+Group	zly_duch_martwego_ciala
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	931
+	item	30022	1	1.5	ulepszacz_rubinowa
+	item	71084	1	1	zmianka
+	item	77052	1	0.5	eq_bron_3
+	item	77055	1	0.5	eq_zbroja_3
+	item	77058	1	0.5	eq_bizu_3
+	item	25040	1	0.3	zwoj_blogoslawienstwa
+}
+Group	zly_zarazony_pies
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	932
+	item	30006	1	1.5	ulepszacz_rubinowa
+	item	71084	1	1	zmianka
+	item	77052	1	0.5	eq_bron_3
+	item	77055	1	0.5	eq_zbroja_3
+	item	77058	1	0.5	eq_bizu_3
+	item	25040	1	0.3	zwoj_blogoslawienstwa
+}
+Group	zly_zarazony_czlowiek
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	933
+	item	30021	1	1.5	ulepszacz_rubinowa
+	item	71084	1	1	zmianka
+	item	77052	1	0.5	eq_bron_3
+	item	77055	1	0.5	eq_zbroja_3
+	item	77058	1	0.5	eq_bizu_3
+	item	25040	1	0.3	zwoj_blogoslawienstwa
+}
+Group	zarazony_miecznik
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	904
+	item	30075	1	1.5	ulepszacz_rubinowa
+	item	71084	1	1	zmianka
+	item	77052	1	0.5	eq_bron_3
+	item	77055	1	0.5	eq_zbroja_3
+	item	77058	1	0.5	eq_bizu_3
+	item	25040	1	0.3	zwoj_blogoslawienstwa
+}
+Group	zarazony_wlocznik
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	905
+	item	30021	1	1.5	ulepszacz_rubinowa
+	item	71084	1	1	zmianka
+	item	77052	1	0.5	eq_bron_3
+	item	77055	1	0.5	eq_zbroja_3
+	item	77058	1	0.5	eq_bizu_3
+	item	25040	1	0.3	zwoj_blogoslawienstwa
+}
+Group	zarazony_lucznik
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	906
+	item	30058	1	1.5	ulepszacz_rubinowa
+	item	71084	1	1	zmianka
+	item	77052	1	0.5	eq_bron_3
+	item	77055	1	0.5	eq_zbroja_3
+	item	77058	1	0.5	eq_bizu_3
+	item	25040	1	0.3	zwoj_blogoslawienstwa
+}
+Group	zly_zarazony_miecznik
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	934
+	item	30058	1	1.5	ulepszacz_rubinowa
+	item	71084	1	1	zmianka
+	item	77052	1	0.5	eq_bron_3
+	item	77055	1	0.5	eq_zbroja_3
+	item	77058	1	0.5	eq_bizu_3
+	item	25040	1	0.3	zwoj_blogoslawienstwa
+}
+Group	zly_zarazony_wlocznik
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	935
+	item	30075	1	1.5	ulepszacz_rubinowa
+	item	71084	1	1	zmianka
+	item	77052	1	0.5	eq_bron_3
+	item	77055	1	0.5	eq_zbroja_3
+	item	77058	1	0.5	eq_bizu_3
+	item	25040	1	0.3	zwoj_blogoslawienstwa
+}
+Group	zly_zarazony_lucznik
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	936
+	item	30030	1	1.5	ulepszacz_rubinowa
+	item	71084	1	1	zmianka
+	item	77052	1	0.5	eq_bron_3
+	item	77055	1	0.5	eq_zbroja_3
+	item	77058	1	0.5	eq_bizu_3
+	item	25040	1	0.3	zwoj_blogoslawienstwa
+}
+Group	zarazony_przyzywacz
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	907
+	item	30008	1	1.5	ulepszacz_rubinowa
+	item	71084	1	1	zmianka
+	item	77052	1	0.5	eq_bron_3
+	item	77055	1	0.5	eq_zbroja_3
+	item	77058	1	0.5	eq_bizu_3
+	item	25040	1	0.3	zwoj_blogoslawienstwa
+}
+Group	zly_zarazony_przyzywacz
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	937
+	item	30057	1	1.5	ulepszacz_rubinowa
+	item	71084	1	1	zmianka
+	item	77052	1	0.5	eq_bron_3
+	item	77055	1	0.5	eq_zbroja_3
+	item	77058	1	0.5	eq_bizu_3
+	item	25040	1	0.3	zwoj_blogoslawienstwa
+}
+Group	zaczarowany_lod
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	1101
+	item	30056	1	1.5	ulepszacz_rubinowa
+	item	71084	1	1	zmianka
+	item	77052	1	0.5	eq_bron_3
+	item	77055	1	0.5	eq_zbroja_3
+	item	77058	1	0.5	eq_bizu_3
+	item	25040	1	0.3	zwoj_blogoslawienstwa
+}
+Group	lodowy_wieloryb_zabojca
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	1102
+	item	30025	1	1.5	ulepszacz_rubinowa
+	item	71084	1	1	zmianka
+	item	77052	1	0.5	eq_bron_3
+	item	77055	1	0.5	eq_zbroja_3
+	item	77058	1	0.5	eq_bizu_3
+	item	25040	1	0.3	zwoj_blogoslawienstwa
+}
+Group	lodowy_robak
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	1103
+	item	30025	1	1.5	ulepszacz_rubinowa
+	item	71084	1	1	zmianka
+	item	77052	1	0.5	eq_bron_3
+	item	77055	1	0.5	eq_zbroja_3
+	item	77058	1	0.5	eq_bizu_3
+	item	25040	1	0.3	zwoj_blogoslawienstwa
+}
+Group	lodowy_lew
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	1104
+	item	30056	1	1.5	ulepszacz_rubinowa
+	item	71084	1	1	zmianka
+	item	77052	1	0.5	eq_bron_3
+	item	77055	1	0.5	eq_zbroja_3
+	item	77058	1	0.5	eq_bizu_3
+	item	25040	1	0.3	zwoj_blogoslawienstwa
+}
+Group	morzny_czlowiek
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	1105
+	item	30045	1	1.5	ulepszacz_rubinowa
+	item	71084	1	1	zmianka
+	item	77052	1	0.5	eq_bron_3
+	item	77055	1	0.5	eq_zbroja_3
+	item	77058	1	0.5	eq_bizu_3
+	item	25040	1	0.3	zwoj_blogoslawienstwa
+}
+Group	yeti
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	1106
+	item	30067	1	1.5	ulepszacz_rubinowa
+	item	71084	1	1	zmianka
+	item	77052	1	0.5	eq_bron_3
+	item	77055	1	0.5	eq_zbroja_3
+	item	77058	1	0.5	eq_bizu_3
+	item	25040	1	0.3	zwoj_blogoslawienstwa
+}
+Group	golem_lodowy
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	1107
+	item	30077	1	1.5	ulepszacz_rubinowa
+	item	71084	1	1	zmianka
+	item	77052	1	0.5	eq_bron_3
+	item	77055	1	0.5	eq_zbroja_3
+	item	77058	1	0.5	eq_bizu_3
+	item	25040	1	0.3	zwoj_blogoslawienstwa
+}
+Group	sluga_walczacego_tygrysa
+{
+	Level_limit	1
+	Type	limit
+	max_level	80
+	Mob	2201
+	item	30082	1	1	ulepszacz_zlota
+	item	71084	1	1	zmianka
+	item	77052	1	0.5	eq_bron_3
+	item	77055	1	0.5	eq_zbroja_3
+	item	77058	1	0.5	eq_bizu_3
+	item	25040	1	0.3	zwoj_blogoslawienstwa
+}
+Group	ognisty_duch
+{
+	Level_limit	1
+	Type	limit
+	max_level	80
+	Mob	2202
+	item	30079	1	0.4	ulepszacz_zlota
+	item	71084	1	1	zmianka
+	item	77052	1	0.5	eq_bron_3
+	item	77055	1	0.5	eq_zbroja_3
+	item	77058	1	0.5	eq_bizu_3
+	item	25040	1	0.3	zwoj_blogoslawienstwa
+}
+Group	walczacy_tygrysa
+{
+	Level_limit	1
+	Type	limit
+	max_level	80
+	Mob	2203
+	item	30084	1	1	ulepszacz_zlota
+	item	71084	1	1	zmianka
+	item	30048	1	1	ulepszacz_super
+	item	77052	1	0.5	eq_bron_3
+	item	77055	1	0.5	eq_zbroja_3
+	item	77058	1	0.5	eq_bizu_3
+	item	25040	1	0.3	zwoj_blogoslawienstwa
+}
+Group	plomien
+{
+	Level_limit	1
+	Type	limit
+	max_level	80
+	Mob	2204
+	item	30009	1	1.5	ulepszacz_rubinowa
+	item	30087	1	1	ulepszacz_zlota
+	item	71084	1	1	zmianka
+	item	77052	1	0.5	eq_bron_3
+	item	77055	1	0.5	eq_zbroja_3
+	item	77058	1	0.5	eq_bizu_3
+	item	25040	1	0.3	zwoj_blogoslawienstwa
+}
+Group	ognisty_woj
+{
+	Level_limit	1
+	Type	limit
+	max_level	80
+	Mob	2205
+	item	30015	1	1	ulepszacz_zlota
+	item	71084	1	1	zmianka
+	item	77052	1	0.5	eq_bron_3
+	item	77055	1	0.5	eq_zbroja_3
+	item	77058	1	0.5	eq_bizu_3
+	item	25040	1	0.3	zwoj_blogoslawienstwa
+	item	30048	1	1	ulepszacz_zlota
+	item	30090	1	1	ulepszacz_zlota
+	
+}
+
+Group	duch_drzewa
+{
+	Level_limit	1
+	Type	limit
+	max_level	78
+	Mob	2301
+	item	90011	1	0.2	dykta
+	item	71084	1	0.2	zmianka
+}
+Group	duch_pniaka
+{
+	Level_limit	1
+	Type	limit
+	max_level	78
+	Mob	2302
+	item	90011	1	0.06	dykta
+	item	71084	1	0.06	zmianka
+}
+Group	driada
+{
+	Level_limit	1
+	Type	limit
+	max_level	78
+	Mob	2303
+	item	90011	1	0.06	dykta
+	item	71084	1	0.06	zmianka
+}
+Group	duch_wierzby
+{
+	Level_limit	1
+	Type	limit
+	max_level	78
+	Mob	2304
+	item	90011	1	0.05	dykta
+	item	71084	1	0.06	zmianka
+}
+Group	zle_drzewo
+{
+	Level_limit	1
+	Type	limit
+	max_level	78
+	Mob	2305
+	item	90011	1	0.05	dykta
+	item	71084	1	0.05	zmianka
+}
+Group	czerw_ducha_drzewa
+{
+	Level_limit	1
+	Type	limit
+	max_level	78
+	Mob	2311
+	item	90012	1	0.2	pien
+	item	71084	1	0.2	zmianka
+}
+Group	czerw_ducha_pniaka
+{
+	Level_limit	1
+	Type	limit
+	max_level	78
+	Mob	2312
+	item	90012	1	0.06	pien
+	item	71084	1	0.06	zmianka
+}
+Group	czerw_driada
+{
+	Level_limit	1
+	Type	limit
+	max_level	78
+	Mob	2313
+	item	90012	1	0.06	pien
+	item	71084	1	0.06	zmianka
+}
+Group	duch_wierzby
+{
+	Level_limit	1
+	Type	limit
+	max_level	85
+	Mob	2314
+	item	90012	1	0.05	pien
+	item	71084	1	0.06	zmianka
+}
+Group	zle_drzewo
+{
+	Level_limit	1
+	Type	limit
+	max_level	85
+	Mob	2315
+	item	90012	1	0.05	pien
+	item	71084	1	0.06	zmianka
+}
+Group	niszczyciel
+{
+	Level_limit	1
+	Type	limit
+	max_level	90
+	Mob	1401
+	item	30016	1	1	ulepszacz_zlota
+	item	71084	1	1	zmianka
+	item	90010	1	0.3	kamien_wegielny
+	item	27987	1	0.2	malz
+}
+Group	ogr_wojownik
+{
+	Level_limit	1
+	Type	limit
+	max_level	90
+	Mob	1601
+	item	30019	1	1	ulepszacz_zlota
+	item	71084	1	1	zmianka
+	item	90010	1	0.3	kamien_wegielny
+	item	27987	1	0.2	malz
+}
+Group	ogr_rzexnik
+{
+	Level_limit	1
+	Type	limit
+	max_level	90
+	Mob	1602
+	item	30039	1	1	ulepszacz_zlota
+	item	71084	1	1	zmianka
+	item	90010	1	0.3	kamien_wegielny
+	item	27987	1	0.2	malz
+}
+Group	ogr_szaleniec
+{
+	Level_limit	1
+	Type	limit
+	max_level	90
+	Mob	1603
+	item	30060	1	1	ulepszacz_zlota
+	item	71084	1	1	zmianka
+	item	90010	1	0.3	kamien_wegielny
+	item	27987	1	0.2	malz
+}
+Group	skalny_golem
+{
+	Level_limit	1
+	Type	limit
+	max_level	90
+	Mob	1501
+	item	30061	1	1	ulepszacz_zlota
+	item	71084	1	1	zmianka
+	item	90010	1	0.4	kamien_wegielny
+	item	27987	1	0.2	malz
+}
+Group	kamienny_golem
+{
+	Level_limit	1
+	Type	limit
+	max_level	90
+	Mob	1502
+	item	30083	1	1	ulepszacz_zlota
+	item	71084	1	1	zmianka
+	item	90010	1	0.4	kamien_wegielny
+	item	27987	1	0.2	malz
+	item	30040	1	1	ulepszacz_zlota
+}
+Group	wojownik_z_toporkiem
+{
+	Level_limit	1
+	Type	limit
+	max_level	90
+	Mob	1402
+	item	30088	1	1	ulepszacz_zlota
+	item	71084	1	1	zmianka
+	item	90010	1	0.45	kamien_wegielny
+	item	27987	1	0.2	malz
+}
+Group	olbrzymi_skalny_golem
+{
+	Level_limit	1
+	Type	limit
+	max_level	90
+	Mob	1503
+	item	30089	1	1	ulepszacz_zlota
+	item	71084	1	1	zmianka
+	item	90010	1	0.45	kamien_wegielny
+	item	27987	1	0.2	malz
+}
+Group	tysieczny_wojownik
+{
+	Level_limit	1
+	Type	limit
+	max_level	90
+	Mob	1403
+	item	30091	1	1	ulepszacz_zlota
+	item	30050	1	1	ulepszacz_zlota
+	item	71084	1	1	zmianka
+	item	90010	1	0.75	kamien_wegielny
+	item	27987	1	0.25	malz
+	item	30750	1	0.55	czaszka_legwana
+	
+}
+Group	v1_maly_ptasznik
+{
+	Level_limit	1
+	Type	limit
+	max_level	65
+	Mob	2031
+	item	70038	1	0.2	peleryna
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.1	eq_bizu_3
+	item	71084	1	0.06	zmianka
+	item	71095	1	0.03	v2_przepustka
+}
+Group	v1_smiertelny_pajak
+{
+	Level_limit	1
+	Type	limit
+	max_level	67
+	Mob	2032
+	item	70038	1	0.2	peleryna
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.1	eq_bizu_3
+	item	71084	1	0.06	zmianka
+	item	71095	1	0.03	v2_przepustka
+}
+Group	v1_zly_ziel_trj_paj
+{
+	Level_limit	1
+	Type	limit
+	max_level	68
+	Mob	2033
+	item	70038	1	0.2	peleryna
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.1	eq_bizu_3
+	item	71084	1	0.06	zmianka
+	item	71095	1	0.03	v2_przepustka
+}
+Group	v1_paj_kosarz_naj
+{
+	Level_limit	1
+	Type	limit
+	max_level	68
+	Mob	2034
+	item	70038	1	0.2	peleryna
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.1	eq_bizu_3
+	item	71084	1	0.06	zmianka
+	item	71095	1	0.03	v2_przepustka
+}
+Group	v1_olbrzymi_ptasznik_kedz
+{
+	Level_limit	1
+	Type	limit
+	max_level	68
+	Mob	2035
+	item	70038	1	0.2	peleryna
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.1	eq_bizu_3
+	item	71084	1	0.06	zmianka
+	item	71095	1	0.03	v2_przepustka
+}
+Group	v1_tarantula
+{
+	Level_limit	1
+	Type	limit
+	max_level	68
+	Mob	2036
+	item	70038	1	0.2	peleryna
+	item	77052	1	0.1	eq_bron_3
+	item	77055	1	0.1	eq_zbroja_3
+	item	77058	1	0.1	eq_bizu_3
+	item	71084	1	0.06	zmianka
+	item	71095	1	0.03	v2_przepustka
+}
+Group	v2_plugawy_maly_ptasznik
+{
+	Level_limit	1
+	Type	limit
+	max_level	73
+	Mob	2061
+	item	70038	1	0.2	peleryna
+	item	71084	1	0.05	zmianka
+}
+Group	v2_plugawy_smiert_paj
+{
+	Level_limit	1
+	Type	limit
+	max_level	73
+	Mob	2062
+	item	70038	1	0.2	peleryna
+	item	71084	1	0.05	zmianka
+}
+Group	v2_ziel_smert_tryj_pajk
+{
+	Level_limit	1
+	Type	limit
+	max_level	75
+	Mob	2063
+	item	70038	1	0.2	peleryna
+	item	71084	1	0.05	zmianka
+}
+Group	v2_best_czlowike_skoriopn
+{
+	Level_limit	1
+	Type	limit
+	max_level	75
+	Mob	2131
+	item	70038	1	0.2	peleryna
+	item	71084	1	0.05	zmianka
+}
+Group	v2_skorpion_lucznik
+{
+	Level_limit	1
+	Type	limit
+	max_level	75
+	Mob	2132
+	item	70038	1	0.2	peleryna
+	item	71084	1	0.05	zmianka
+}
+Group	v2_cyklop_woj
+{
+	Level_limit	1
+	Type	limit
+	max_level	75
+	Mob	2133
+	item	70038	1	0.2	peleryna
+	item	71084	1	0.05	zmianka
+}
+Group	v2_cyklop_lucznik
+{
+	Level_limit	1
+	Type	limit
+	max_level	75
+	Mob	2134
+	item	70038	1	0.2	peleryna
+	item	71084	1	0.05	zmianka
+}
+Group	v2_pustynny_bojownik
+{
+	Level_limit	1
+	Type	limit
+	max_level	75
+	Mob	2135
+	item	70038	1	0.2	peleryna
+	item	71084	1	0.05	zmianka
+}
+Group	v2_pajeczy_kosarz_truciciel
+{
+	Level_limit	1
+	Type	limit
+	max_level	80
+	Mob	2064
+	item	70038	1	0.2	peleryna
+	item	71084	1	0.05	zmianka
+}
+Group	v2_zmutowana_czarna_wdowa
+{
+	Level_limit	1
+	Type	limit
+	max_level	80
+	Mob	2065
+	item	70038	1	0.2	peleryna
+	item	71084	1	0.05	zmianka
+}
+Group	mapa_75_demoni_szaman
+{
+	Level_limit	1
+	Type	limit
+	max_level	82
+	Mob	4000
+	item	80003	1	0.1	sztabki_golda_50k
+	item	71084	1	0.2	zmianka
+	item	70102	1	0.05	fasolka_zen
+	item	78203	1	0.05	przywolanie_metina
+	
+}
+Group	mapa_75_demoni_przywyczacz
+{
+	Level_limit	1
+	Type	limit
+	max_level	82
+	Mob	4001
+	item	80003	1	0.1	sztabki_golda_50k
+	item	71084	1	0.2	zmianka
+	item	70102	1	0.05	fasolka_zen
+	item	78203	1	0.05	przywolanie_metina
+}
+Group	mapa_75_demoni_wojownik
+{
+	Level_limit	1
+	Type	limit
+	max_level	82
+	Mob	4002
+	item	80003	1	0.1	sztabki_golda_50k
+	item	71084	1	0.2	zmianka
+	item	70102	1	0.05	fasolka_zen
+	item	78203	1	0.05	przywolanie_metina
+}
+Group	muchomor_szatanski
+{
+	Level_limit	1
+	Type	limit
+	max_level	80
+	Mob	3920
+	item	78204	1	0.5	przywolanie_metina_5
+}
+Group	muchomor_trawiasty
+{
+	Level_limit	1
+	Type	limit
+	max_level	80
+	Mob	3921
+	item	78204	1	0.5	przywolanie_metina_5
+}
+Group	muchomor_klasyczny
+{
+	Level_limit	1
+	Type	limit
+	max_level	80
+	Mob	3922
+	item	78204	1	0.5	przywolanie_metina_5
+}
+Group	muchomor_pelwiasty
+{
+	Level_limit	1
+	Type	limit
+	max_level	80
+	Mob	3923
+	item	78204	1	0.5	przywolanie_metina_5
+}
+Group	driada_aku
+{
+	Level_limit	1
+	Type	limit
+	max_level	80
+	Mob	3925
+	item	71084	1	0.05	zmianka
+	item	78204	1	0.025	przywolanie_metina_5
+	item	25040	1	0.03	zwoj_blogoslawienstwa
+}
+Group	driada_mere
+{
+	Level_limit	1
+	Type	limit
+	max_level	80
+	Mob	3926
+	item	71084	1	0.05	zmianka
+	item	78204	1	0.025	przywolanie_metina_5
+	item	25040	1	0.03	zwoj_blogoslawienstwa
+}
+Group	skarabeusz
+{
+	Level_limit	1
+	Type	limit
+	max_level	92
+	Mob	3930
+	item	71084	1	0.05	zmianka
+	item	78204	1	0.02	przywolanie_metina_5
+	item	25040	1	0.02	zwoj_blogoslawienstwa
+}
+Group	ork_komandor
+{
+	Level_limit	1
+	Type	limit
+	max_level	92
+	Mob	3931
+	item	71084	1	0.05	zmianka
+	item	78204	1	0.02	przywolanie_metina_5
+	item	25040	1	0.02	zwoj_blogoslawienstwa
+}
+Group	ork_komandor
+{
+	Level_limit	1
+	Type	limit
+	max_level	92
+	Mob	3931
+	item	71084	1	0.05	zmianka
+	item	78204	1	0.02	przywolanie_metina_5
+	item	25040	1	0.02	zwoj_blogoslawienstwa
+}
+Group	ork_mistyk
+{
+	Level_limit	1
+	Type	limit
+	max_level	92
+	Mob	3932
+	item	71084	1	0.05	zmianka
+	item	78204	1	0.02	przywolanie_metina_5
+	item	25040	1	0.02	zwoj_blogoslawienstwa
+}
+Group	ork_zolnierz
+{
+	Level_limit	1
+	Type	limit
+	max_level	92
+	Mob	3933
+	item	71084	1	0.05	zmianka
+	item	78204	1	0.02	przywolanie_metina_5
+	item	25040	1	0.02	zwoj_blogoslawienstwa
+}
+Group	ork_zolnierz
+{
+	Level_limit	1
+	Type	limit
+	max_level	92
+	Mob	3933
+	item	71084	1	0.05	zmianka
+	item	78204	1	0.02	przywolanie_metina_5
+	item	25040	1	0.02	zwoj_blogoslawienstwa
+}
+Group	slon
+{
+	Level_limit	1
+	Type	limit
+	max_level	92
+	Mob	3934
+	item	71084	1	0.05	zmianka
+	item	78204	1	0.02	przywolanie_metina_5
+	item	25040	1	0.02	zwoj_blogoslawienstwa
+}
+Group	wonsz1
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	3940
+	item	71084	1	0.05	zmianka
+	item	78204	1	0.02	przywolanie_metina_5
+	item	25040	1	0.02	zwoj_blogoslawienstwa
+}
+Group	wonsz2
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	3941
+	item	71084	1	0.05	zmianka
+	item	78204	1	0.02	przywolanie_metina_5
+	item	25040	1	0.02	zwoj_blogoslawienstwa
+}
+Group	wonsz3
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	3942
+	item	71084	1	0.05	zmianka
+	item	78204	1	0.02	przywolanie_metina_5
+	item	25040	1	0.02	zwoj_blogoslawienstwa
+}
+Group	wonsz4
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	3943
+	item	71084	1	0.05	zmianka
+	item	78204	1	0.02	przywolanie_metina_5
+	item	25040	1	0.02	zwoj_blogoslawienstwa
+}
+Group	wonsz5
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	3944
+	item	71084	1	0.05	zmianka
+	item	78204	1	0.025	przywolanie_metina_5
+	item	25040	1	0.02	zwoj_blogoslawienstwa
+}
+Group	kapitan_hak
+{
+	Level_limit	1
+	Type	limit
+	max_level	45
+	Mob	591
+	item	77011	1	10	cyrograf_doswiadczenia
+	item	77051	1	25	eq_bron_2
+	item	77054	1	25	eq_zbroja_2
+	item	77057	1	25	eq_bizu_2
+	item	71084	1	45	zmianka
+	item	71084	1	45	zmianka
+	item	71085	1	95	wzmocnienie
+	item	71084	3	20	zmianka
+	item	71084	3	20	zmianka
+	item	71085	3	15	wzmocnienie
+	item	70038	50	55	peleryna_mestwa
+	item	25040	1	75	zwoj_blogoslawienstwa
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	52901	1	2	poradnik_trenera
+	item	77060	1	75	kufer_czaru
+	item	77061	1	75	klucz_czaru
+	item	27989	1	30	wykrywacz
+	item	78402	1	33	ziarno_dzwoneczka
+	item	50513	1	5	kamien_duchowy
+	item	50314	1	25	ks_poli_1
+	item	50301	1	25	dowodzonko_1
+	item	50304	1	25	combo
+	item	50333	1	10	ks_rolnictwa
+	item	50325	1	50	ks_gorni_1
+	item	22010	1	10	zwoj_powrotu 
+	item	78750	1	5	szkat_bossa_1
+	item	27100	1	23	zielona_pota_m
+}
+Group	skalista_malpa_boss
+{
+	Level_limit	1
+	Type	limit
+	max_level	40
+	Mob	5161
+	item	25040	1	75	zwoj_blogoslawienstwa
+	item	50050	1	25.1	medal_konny
+	item	77051	1	40.1	eq_bron_2
+	item	77054	1	40.1	eq_zbroja_2
+	item	77057	1	40.13	eq_bizu_2
+	item	71084	5	100	zmianka
+	item	70038	1	100	peleryna_mestwa
+	item	77012	1	3.2	zaklinacz_czasu
+	item	77060	1	20	kufer_czaru
+	item	77061	1	20	klucz_czaru
+	item	50325	1	10	ks_gorni_1
+	item	22010	1	10	zwoj_powrotu
+	item	27100	1	23	zielona_pota_m
+}
+Group	chodzaca_malpa_boss
+{
+	Level_limit	1
+	Type	limit
+	max_level	60
+	Mob	5162
+	item	25040	1	75	zwoj_blogoslawienstwa
+	item	50050	1	55.1	medal_konny
+	item	77051	1	40.1	eq_bron_2
+	item	77054	1	40.1	eq_zbroja_2
+	item	77057	1	40.13	eq_bizu_2
+	item	71084	5	100	zmianka
+	item	70038	1	100	peleryna_mestwa
+	item	77012	1	4.2	zaklinacz_czasu
+	item	77060	1	10	kufer_czaru
+	item	77061	1	10	klucz_czaru
+	item	78402	1	33	ziarno_dzwoneczka
+	item	50325	1	10	ks_gorni_1
+	item	22010	1	10	zwoj_powrotu 
+	item	27100	1	23	zielona_pota_m
+}
+Group	boss_chodzaca_malpa
+{
+	Level_limit	1
+	Type	limit
+	max_level	60
+	Mob	5163
+	item	50050	1	100	medal_konny
+	item	71084	8	30	zmianka
+	item	71084	5	80	zmianka
+	item	71084	1	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	25040	1	75	zwoj_blogoslawienstwa
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	22010	1	10	zwoj_powrotu 
+	item	78402	1	33	ziarno_dzwoneczka
+	item	50513	1	10	kamien_duchowy
+	item	78750	1	33	szkat_bossa_1
+	item	27100	1	53	zielona_pota_m
+}
+Group	boss_wodz_orkow
+{
+	Level_limit	1
+	Type	limit
+	max_level	70
+	Mob	691
+	item	71084	8	30	zmianka
+	item	71084	5	80	zmianka
+	item	71084	1	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	25040	1	75	zwoj_blogoslawienstwa
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	50325	1	50	ks_gorni_1
+	item	22010	1	10	zwoj_powrotu 
+	item	50513	1	10	kamien_duchowy
+	item	78403	1	33	ziarno_zielonego_dzwoneczka
+	item	78750	1	100	szkat_bossa_1
+	item	27100	1	73	zielona_pota_m
+	item	52901	1	2	poradnik_trenera
+}
+Group	boss_krolowa_pajakonow
+{
+	Level_limit	1
+	Type	limit
+	max_level	80
+	Mob	2091
+	item	71084	8	30	zmianka
+	item	71084	5	80	zmianka
+	item	71084	1	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	25040	1	75	zwoj_blogoslawienstwa
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	78410	1	33	ziarno_fiolet_rozy
+	item	22010	1	10	zwoj_powrotu 
+	item	50513	1	9	kamien_duchowy
+	item	78750	1	100	szkat_bossa_1
+	item	27100	1	76	zielona_pota_m
+	item	52901	1	2	poradnik_trenera
+}
+Group	boss_ognisty_krol
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	2206
+	item	71084	15	30	zmianka
+	item	71084	5	80	zmianka
+	item	71084	1	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	25040	1	75	zwoj_blogoslawienstwa
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	50304	1	30	combo
+	item	78408	1	33	ziarno_czerw_rozy
+	item	22010	1	10	zwoj_powrotu 
+	item	50513	1	9	kamien_duchowy
+	item	78751	1	100	szkat_bossa_2
+	item	27101	1	77	ziel_pota_s
+	item	25040	1	75	zwoj_blogoslawienstwa
+	item	77011	1	30	cyrograf_doswiadczenia
+	item	71032	1	5	zwoj_boga_smokow
+	item	71027	1	12	ataki_bg
+	item	71028	1	12	ataki_bg
+	item	71029	1	12	ataki_bg
+	item	71030	1	12	ataki_bg
+	item	27987	1	5	malz
+}
+Group	zolw
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	2191
+	item	71084	15	30	zmianka
+	item	71084	5	80	zmianka
+	item	71084	1	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	25040	1	75	zwoj_blogoslawienstwa
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	50304	1	30	combo
+	item	78408	1	33	ziarno_czerw_rozy
+	item	22010	1	10	zwoj_powrotu
+	item	50513	1	11	kamien_duchowy
+	item	78751	1	100	szkat_bossa_2
+	item	27101	1	77	ziel_pota_s
+	item	27101	1	77	ziel_pota_s
+	item	25040	1	75	zwoj_blogoslawienstwa
+	item	77011	1	30	cyrograf_doswiadczenia
+	item	71032	1	5	zwoj_boga_smokow
+	item	71027	1	12	ataki_bg
+	item	71028	1	12	ataki_bg
+	item	71029	1	12	ataki_bg
+	item	71030	1	12	ataki_bg
+	item	27987	1	5	malz
+}
+Group	boss_9_ogonow
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	1901
+	item	71084	15	30	zmianka
+	item	71084	5	80	zmianka
+	item	71084	1	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	25040	1	75	zwoj_blogoslawienstwa
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	50304	1	30	combo
+	item	78406	1	33	ziarno_czerw_pozeracza_stop
+	item	22010	1	10	zwoj_powrotu 
+	item	50513	1	11	kamien_duchowy
+	item	78751	1	100	szkat_bossa_2
+	item	27101	1	77	ziel_pota_s
+	item	27101	1	77	ziel_pota_s
+	item	25040	1	75	zwoj_blogoslawienstwa
+	item	77011	1	30	cyrograf_doswiadczenia
+	item	71032	1	5	zwoj_boga_smokow
+	item	71027	1	12	ataki_bg
+	item	71028	1	12	ataki_bg
+	item	71029	1	12	ataki_bg
+	item	71030	1	12	ataki_bg
+	item	27987	1	5	malz
+}
+Group	krol_demonow
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	1090
+	item	25040	1	75	zwoj_blogoslawienstwa
+	item	77051	1	40.1	eq_bron_2
+	item	77054	1	40.1	eq_zbroja_2
+	item	77057	1	40.13	eq_bizu_2
+	item	71084	5	100	zmianka
+	item	70038	1	100	peleryna_mestwa
+	item	77012	1	4.2	zaklinacz_czasu
+	item	77060	1	100	kufer_czaru
+	item	77061	1	100	klucz_czaru
+}
+Group	krol_demonow
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	1091
+	item	25040	1	75	zwoj_blogoslawienstwa
+	item	77051	1	40.1	eq_bron_2
+	item	77054	1	40.1	eq_zbroja_2
+	item	77057	1	40.13	eq_bizu_2
+	item	71084	5	100	zmianka
+	item	70038	1	100	peleryna_mestwa
+	item	77012	1	4.2	zaklinacz_czasu
+	item	77060	1	100	kufer_czaru
+	item	77061	1	100	klucz_czaru
+}
+Group	krol_demonow
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	1092
+	item	71084	15	30	zmianka
+	item	71084	5	80	zmianka
+	item	71084	1	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	25040	1	75	zwoj_blogoslawienstwa
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	50304	1	30	combo
+	item	78409	1	33	ziarno_nieb_rozy
+	item	50513	1	11	kamien_duchowy
+	item	78751	1	100	szkat_bossa_2
+	item	27101	1	77	ziel_pota_s
+	item	27101	1	77	ziel_pota_s
+	item	25040	1	75	zwoj_blogoslawienstwa
+	item	77011	1	30	cyrograf_doswiadczenia
+	item	71032	1	5	zwoj_boga_smokow
+	item	71027	1	12	ataki_bg
+	item	71028	1	12	ataki_bg
+	item	71029	1	12	ataki_bg
+	item	71030	1	12	ataki_bg
+	item	27987	1	5	malz
+	item	78409	1	33	ziarno_nieb_rozy
+}
+Group	boss_zjawa
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	1304
+	item	71084	15	30	zmianka
+	item	71084	5	80	zmianka
+	item	71084	1	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	25040	1	75	zwoj_blogoslawienstwa
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	50304	1	30	combo
+	item	78407	1	33	ziarno_purpurowego
+	item	22010	1	10	zwoj_powrotu 
+	item	50513	1	11	kamien_duchowy
+	item	78751	1	100	szkat_bossa_2
+	item	27101	1	77	ziel_pota_s
+	item	27101	1	77	ziel_pota_s
+	item	25040	1	75	zwoj_blogoslawienstwa
+	item	77011	1	30	cyrograf_doswiadczenia
+	item	71032	1	5	zwoj_boga_smokow
+	item	71027	1	12	ataki_bg
+	item	71028	1	12	ataki_bg
+	item	71029	1	12	ataki_bg
+	item	71030	1	12	ataki_bg
+	item	27987	1	5	malz
+	item	78405	1	33	ziarno_zielonego
+	    
+}
+Group	boss_duch_drzewa
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	2306
+	item	77011	1	30	cyrograf_doswiadczenia
+	item	77070	1	15	eq_bron_4
+	item	77071	1	15	eq_zbroja_4
+	item	77072	1	15	eq_bizu_4
+	item	71084	15	100	zmianka
+	item	71084	5	100	zmianka
+	item	71084	1	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	77062	1	55	kufer_czaru_2
+	item	77063	1	55	kufer_czaru_2
+	item	71032	1	15	zwoj_boga_smokow
+	item	27987	1	30	malz
+	item	25040	1	75	zwoj_blogoslawienstwa
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	52901	1	2	poradnik_trenera
+	item	27989	1	30	wykrywacz
+	item	50513	1	18	kamien_duchowy
+	item	50315	1	25	ks_poli_2
+	item	50326	1	25	ks_gorni_2
+	item	50302	1	25	dowodzonko_2
+	item	50304	1	30	combo
+	item	71027	1	12	ataki_bg
+	item	71028	1	12	ataki_bg
+	item	71029	1	12	ataki_bg
+	item	71030	1	12	ataki_bg
+	item	78408	1	33	ziarno_czerw_rozy
+	item	22010	1	10	zwoj_powrotu
+	item	78751	1	100	szkat_bossa_2
+	item	27101	1	77	ziel_pota_s
+}
+Group	boss_duch_drzewa2
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	2307
+	item	77011	1	30	cyrograf_doswiadczenia
+	item	77070	1	15	eq_bron_4
+	item	77071	1	15	eq_zbroja_4
+	item	77072	1	15	eq_bizu_4
+	item	71084	15	100	zmianka
+	item	71084	5	100	zmianka
+	item	71084	1	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	77063	1	55	kufer_czaru_2
+	item	77062	1	55	kufer_czaru_2
+	item	71032	1	15	zwoj_boga_smokow
+	item	27987	1	30	malz
+	item	25040	1	75	zwoj_blogoslawienstwa
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	52901	1	2	poradnik_trenera
+	item	27989	1	30	wykrywacz
+	item	50513	1	20	kamien_duchowy
+	item	50315	1	25	ks_poli_2
+	item	50326	1	25	ks_gorni_2
+	item	50302	1	25	dowodzonko_2
+	item	50304	1	30	combo
+	item	71027	1	12	ataki_bg
+	item	71028	1	12	ataki_bg
+	item	71029	1	12	ataki_bg
+	item	71030	1	12	ataki_bg
+	item	78408	1	33	ziarno_czerw_rozy
+	item	22010	1	10	zwoj_powrotu
+	item	78751	1	100	szkat_bossa_2
+	item	27101	1	77	ziel_pota_s
+}
+Group	mushroom_boss_1
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	3924
+	item	77011	1	30	cyrograf_doswiadczenia
+	item	77070	1	15	eq_bron_4
+	item	77071	1	15	eq_zbroja_4
+	item	77072	1	15	eq_bizu_4
+	item	71084	15	100	zmianka
+	item	71084	5	100	zmianka
+	item	71084	1	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	77064	1	55	kufer_czaru_3
+	item	77065	1	55	kufer_czaru_3
+	item	71032	1	15	zwoj_boga_smokow
+	item	27987	1	30	malz
+	item	25040	1	75	zwoj_blogoslawienstwa
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	52901	1	2	poradnik_trenera
+	item	27989	1	30	wykrywacz
+	item	50513	1	20	kamien_duchowy
+	item	50315	1	25	ks_poli_2
+	item	50326	1	25	ks_gorni_2
+	item	50302	1	25	dowodzonko_2
+	item	50304	1	30	combo
+	item	71027	1	12	ataki_bg
+	item	71028	1	12	ataki_bg
+	item	71029	1	12	ataki_bg
+	item	71030	1	12	ataki_bg
+	item	78406	1	33	ziarno_cczerw_pozeracza_stop
+	item	22010	1	10	zwoj_powrotu
+}
+Group	mushroom_boss_2
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	3927
+	item	77011	1	30	cyrograf_doswiadczenia
+	item	77070	1	15	eq_bron_4
+	item	77071	1	15	eq_zbroja_4
+	item	77072	1	15	eq_bizu_4
+	item	71084	15	100	zmianka
+	item	71084	5	100	zmianka
+	item	71084	1	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	77062	1	55	kufer_czaru_2
+	item	77063	1	55	kufer_czaru_2
+	item	71032	1	15	zwoj_boga_smokow
+	item	27987	1	30	malz
+	item	25040	1	75	zwoj_blogoslawienstwa
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	52901	1	2	poradnik_trenera
+	item	27989	1	30	wykrywacz
+	item	50513	1	20	kamien_duchowy
+	item	50315	1	25	ks_poli_2
+	item	50326	1	25	ks_gorni_2
+	item	50302	1	25	dowodzonko_2
+	item	50304	1	30	combo
+	item	71027	1	12	ataki_bg
+	item	71028	1	12	ataki_bg
+	item	71029	1	12	ataki_bg
+	item	71030	1	12	ataki_bg
+	item	78404	1	33	ziarno_fiolet_pozeracza
+	item	50334	1	15	ks_rolnictwa
+	item	22010	1	10	zwoj_powrotu
+	item	78751	1	100	szkat_bossa_2
+}
+Group	mushroom_boss_main
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	3928
+	item	78401	1	100	ziarno_nadmorskiego_zarlacza
+	item	77064	1	25	kufer_czaru_3
+	item	77065	1	25	kufer_czaru_3
+	item	30430	1	4	krolewska_wszywska
+	item	50081	1	100	szkat_grzybopajeczaka
+	item	77013	1	10	cyrograf_doswiadczenia+
+	item	77070	1	15	eq_bron_4
+	item	77071	1	15	eq_zbroja_4
+	item	77072	1	15	eq_bizu_4
+	item	71084	15	100	zmianka
+	item	71084	5	100	zmianka
+	item	71084	1	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	71032	1	30	zwoj_boga_smokow
+	item	27987	1	30	malz
+	item	25040	1	75	zwoj_blogoslawienstwa
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	52901	1	2	poradnik_trenera
+	item	27989	1	30	wykrywacz
+	item	50513	1	35	kamien_duchowy
+	item	50316	1	55	ks_poli_2
+	item	50327	1	55	ks_gorni_2
+	item	50303	1	55	dowodzonko_2
+	item	50304	1	30	combo
+	item	71027	1	25	ataki_bg
+	item	71028	1	25	ataki_bg
+	item	71029	1	25	ataki_bg
+	item	71030	1	25	ataki_bg
+	item	78400	1	100	zarlacz_sloneczny
+	item	50334	1	20	ks_rolnictwa
+	item	78491	1	100	sakiewka
+	item	22010	1	10	zwoj_powrotu
+	item	78751	1	100	szkat_bossa_2
+	item	27101	1	77	ziel_pota_s
+}
+Group	riper
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	1093
+	item	78404	1	33	ziarno_fiolet_pozeracza
+	item	50082	1	100	szkat_ripera
+	item	30431	1	3	krysztal_rozpruwacza
+	item	50334	1	12	ks_rolnictwa
+	item	77011	1	30	cyrograf_doswiadczenia
+	item	77070	1	15	eq_bron_4
+	item	77071	1	15	eq_zbroja_4
+	item	77072	1	15	eq_bizu_4
+	item	71084	15	30	zmianka
+	item	71084	5	80	zmianka
+	item	71084	1	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	77062	1	55	kufer_czaru_2
+	item	77063	1	55	kufer_czaru_2
+	item	71032	1	5	zwoj_boga_smokow
+	item	27987	1	30	malz
+	item	25040	1	75	zwoj_blogoslawienstwa
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	52901	1	2	poradnik_trenera
+	item	27989	1	30	wykrywacz
+	item	50513	1	30	kamien_duchowy
+	item	50315	1	25	ks_poli_2
+	item	50326	1	25	ks_gorni_2
+	item	50302	1	25	dowodzonko_2
+	item	50304	1	30	combo
+	item	71027	1	12	ataki_bg
+	item	71028	1	12	ataki_bg
+	item	71029	1	12	ataki_bg
+	item	71030	1	12	ataki_bg
+	item	78490	1	100	sygnet
+	item	22010	1	10	zwoj_powrotu
+	item	78751	1	100	szkat_bossa_2
+	item	27101	1	77	ziel_pota_s
+}
+
+
+Group	dung1_pajecze_jajo
+{
+	Level_limit	1
+	Type	limit
+	max_level	50
+	Mob	2095
+	item	25040	1	10	zwoj_blogoslawienstwa
+	item	71044	1	19	dlon_krytyka
+	item	71045	1	17	dlon_przebicia
+	item	77052	1	8	eq_bron_3
+	item	77055	1	8	eq_zbroja_3
+	item	77058	1	8	eq_bizu_3
+	item	71084	1	100	zmianka
+	item	27003	25	50	czerwona_mikstura_d
+	item	27006	15	50	niebieska_mikstura_d
+	item	27104	1	15	mikstura_f
+	item	27989	1	15	wykrywacz
+}
+Group	dung1_mini_boss
+{
+	Level_limit	1
+	Type	limit
+	max_level	50
+	Mob	999
+	item	25040	1	10	zwoj_blogoslawienstwa
+	item	71044	1	19	dlon_krytyka
+	item	71045	1	17	dlon_przebicia
+	item	77052	1	8	eq_bron_3
+	item	77055	1	8	eq_zbroja_3
+	item	77058	1	8	eq_bizu_3
+	item	71084	1	100	zmianka
+	item	27003	25	50	czerwona_mikstura_d
+	item	27006	15	50	niebieska_mikstura_d
+	item	27104	1	15	mikstura_f
+	item	27989	1	15	wykrywacz
+	item	50513	1	2	kamien_duchowy
+	item	28030	1	3.7	kd_0
+	item	28031	1	3.7	kd_0
+	item	28032	1	3.7	kd_0
+	item	28033	1	3.7	kd_0
+	item	28034	1	3.7	kd_0
+	item	28035	1	3.7	kd_0
+	item	28036	1	3.7	kd_0
+	item	28037	1	3.7	kd_0
+	item	28038	1	3.7	kd_0
+	item	28039	1	3.7	kd_0
+	item	28040	1	3.7	kd_0
+	item	28041	1	3.7	kd_0
+	item	28042	1	3.7	kd_0
+	item	28043	1	3.7	kd_0
+	item	28044	1	3.7	kd_0
+	item	28130	1	2.4	kd_1
+	item	28131	1	2.4	kd_1
+	item	28132	1	2.4	kd_1
+	item	28133	1	2.4	kd_1
+	item	28134	1	2.4	kd_1
+	item	28135	1	2.4	kd_1
+	item	28136	1	2.4	kd_1
+	item	28137	1	2.4	kd_1
+	item	28138	1	2.4	kd_1
+	item	28139	1	2.4	kd_1
+	item	28140	1	2.4	kd_1
+	item	28141	1	2.4	kd_1
+	item	28142	1	2.4	kd_1
+	item	28143	1	2.4	kd_1
+	item	28144	1	2.4	kd_1
+}
+Group	dung1_mini_boss
+{
+	Level_limit	1
+	Type	limit
+	max_level	50
+	Mob	997
+	item	28030	1	2.7	kd_0
+	item	28031	1	2.7	kd_0
+	item	28032	1	2.7	kd_0
+	item	28033	1	2.7	kd_0
+	item	28034	1	2.7	kd_0
+	item	28035	1	2.7	kd_0
+	item	28036	1	2.7	kd_0
+	item	28037	1	2.7	kd_0
+	item	28038	1	2.7	kd_0
+	item	28039	1	2.7	kd_0
+	item	28040	1	2.7	kd_0
+	item	28041	1	2.7	kd_0
+	item	28042	1	2.7	kd_0
+	item	28043	1	2.7	kd_0
+	item	28044	1	2.7	kd_0
+	item	28130	1	1.4	kd_1
+	item	28131	1	1.4	kd_1
+	item	28132	1	1.4	kd_1
+	item	28133	1	1.4	kd_1
+	item	28134	1	1.4	kd_1
+	item	28135	1	1.4	kd_1
+	item	28136	1	1.4	kd_1
+	item	28137	1	1.4	kd_1
+	item	28138	1	1.4	kd_1
+	item	28139	1	1.4	kd_1
+	item	28140	1	1.4	kd_1
+	item	28141	1	1.4	kd_1
+	item	28142	1	1.4	kd_1
+	item	28143	1	1.4	kd_1
+	item	28144	1	1.4	kd_1
+}
+Group	dung1_mini_boss
+{
+	Level_limit	1
+	Type	limit
+	max_level	50
+	Mob	998
+	item	28030	1	3.7	kd_0
+	item	28031	1	3.7	kd_0
+	item	28032	1	3.7	kd_0
+	item	28033	1	3.7	kd_0
+	item	28034	1	3.7	kd_0
+	item	28035	1	3.7	kd_0
+	item	28036	1	3.7	kd_0
+	item	28037	1	3.7	kd_0
+	item	28038	1	3.7	kd_0
+	item	28039	1	3.7	kd_0
+	item	28040	1	3.7	kd_0
+	item	28041	1	3.7	kd_0
+	item	28042	1	3.7	kd_0
+	item	28043	1	3.7	kd_0
+	item	28044	1	3.7	kd_0
+	item	28130	1	2.4	kd_1
+	item	28131	1	2.4	kd_1
+	item	28132	1	2.4	kd_1
+	item	28133	1	2.4	kd_1
+	item	28134	1	2.4	kd_1
+	item	28135	1	2.4	kd_1
+	item	28136	1	2.4	kd_1
+	item	28137	1	2.4	kd_1
+	item	28138	1	2.4	kd_1
+	item	28139	1	2.4	kd_1
+	item	28140	1	2.4	kd_1
+	item	28141	1	2.4	kd_1
+	item	28142	1	2.4	kd_1
+	item	28143	1	2.4	kd_1
+	item	28144	1	2.4	kd_1
+}
+Group	dung1_BOSS
+{
+	Level_limit	1
+	Type	limit
+	max_level	50
+	Mob	2096
+	item	77011	1	30	cyrograf_doswiadczenia
+	item	77070	1	15	eq_bron_4
+	item	77071	1	15	eq_zbroja_4
+	item	77072	1	15	eq_bizu_4
+	item	71084	10	100	zmianka
+	item	71084	2	100	zmianka
+	item	71084	1	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	77062	1	55	kufer_czaru_2
+	item	77063	1	55	kufer_czaru_2
+	item	71032	1	20	zwoj_boga_smokow
+	item	27987	1	35	malz
+	item	25040	1	75	zwoj_blogoslawienstwa
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	52901	1	2	poradnik_trenera
+	item	27989	1	30	wykrywacz
+	item	50513	1	30	kamien_duchowy
+	item	50314	1	49	ks_poli_1
+	item	50301	1	49	dowodzonko_1
+	item	50304	1	30	combo
+	item	78403	1	33	ziarno_zielonego_dzwoneczka
+	item	71027	1	12	ataki_bg
+	item	71028	1	12	ataki_bg
+	item	71029	1	12	ataki_bg
+	item	71030	1	12	ataki_bg
+	item	50333	1	25	ks_rolnictwa
+	item	30759	1	100	piaskowy_kufer
+	item	72723	1	3	autopoty_m
+	item	72724	1	3	autopoty_m
+	item	71129	1	5	smocza_luska
+	item	30522	1	9	ogniwa_lancucha
+	item	30521	1	35	pierscien_do_talizmanow
+	item	78750	1	100	szkat_bossa
+	item	80004	1	100	gold
+	item	80004	1	55	gold
+	item	80003	1	100	gold
+	item	80004	1	55	gold
+	item	30517	1	100	zloty_material
+}
+
+Group	dung2_Mini_BOSS
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	680
+	item	30193	1	0.5	zegar
+	item	25040	1	5	zwoj_blogoslawienstwa
+}
+Group	dung2_Mini_BOSS_2
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	681
+	item	30193	1	1	zegar
+	item	25040	1	5	zwoj_blogoslawienstwa
+}
+Group	dung2_Mini_BOSS_3
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	682
+	item	30193	1	1.5	zegar
+	item	25040	1	5	zwoj_blogoslawienstwa
+}
+Group	dung2_Mini_BOSS_4
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	683
+	item	30193	1	2	zegar
+	item	25040	1	5	zwoj_blogoslawienstwa
+}
+
+Group	dung2_BOSS
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	685
+	item	77011	1	30	cyrograf_doswiadczenia
+	item	77070	1	20	eq_bron_4
+	item	77071	1	20	eq_zbroja_4
+	item	77072	1	20	eq_bizu_4
+	item	71084	12	100	zmianka
+	item	71084	10	100	zmianka
+	item	71084	1	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	77062	1	100	kufer_czaru_2
+	item	77063	1	100	kufer_czaru_2
+	item	71032	1	35	zwoj_boga_smokow
+	item	27987	1	60	malz
+	item	25040	1	100	zwoj_blogoslawienstwa
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	52901	1	2	poradnik_trenera
+	item	27989	1	30	wykrywacz
+	item	50513	1	60	kamien_duchowy
+	item	50315	1	25	ks_poli_2
+	item	50326	1	25	ks_gorni_2
+	item	50302	1	25	dowodzonko_2
+	item	50304	1	30	combo
+	item	71027	1	22	ataki_bg
+	item	71028	1	22	ataki_bg
+	item	71029	1	22	ataki_bg
+	item	71030	1	22	ataki_bg
+	item	78406	1	33	ziarno_czerw_pozeracza_stop
+	item	30760	1	100	swiatynny_kufer
+	item	72723	1	6	autopoty_m
+	item	72724	1	6	autopoty_m
+	item	71129	1	5	smocza_luska
+	item	30522	1	9	ogniwa_lancucha
+	item	78751	1	100	szkat_bossa_2
+	item	80004	1	100	gold
+	item	80004	1	55	gold
+	item	80003	1	100	gold
+	item	80004	1	55	gold
+	item	80004	1	100	gold
+	item	80004	1	55	gold
+	item	80003	1	100	gold
+	item	80004	1	55	gold
+	item	30521	1	35	pierscien_do_talizmanow
+	item	50037	1	7	szkat_tali
+}
+
+Group	dung3_Mini_BOSS_1
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	2350
+	item	30014	1	2	zebra_yeti
+	item	27987	1	3	malz
+	item	50513	1	1	kamien_duchowy
+}
+Group	dung3_Mini_BOSS_2
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	2351
+	item	30014	1	2	zebra_yeti
+	item	27987	1	3	malz
+	item	50513	1	1	kamien_duchowy
+}
+
+Group	dung3_BOSS
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	2352
+	item	77011	1	30	cyrograf_doswiadczenia
+	item	77013	1	10	cyrograf_doswiadczenia+
+	item	77070	1	15	eq_bron_4
+	item	77071	1	15	eq_zbroja_4
+	item	77072	1	15	eq_bizu_4
+	item	71084	15	100	zmianka
+	item	71084	5	100	zmianka
+	item	71084	1	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	77062	1	75	kufer_czaru_2
+	item	77063	1	75	kufer_czaru_2
+	item	71032	1	40	zwoj_boga_smokow
+	item	27987	1	30	malz
+	item	25040	1	75	zwoj_blogoslawienstwa
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	52901	1	2	poradnik_trenera
+	item	27989	1	30	wykrywacz
+	item	50513	1	60	kamien_duchowy
+	item	50315	1	65	ks_poli_2
+	item	50326	1	65	ks_gorni_2
+	item	50302	1	65	dowodzonko_2
+	item	50304	1	30	combo
+	item	71027	1	20	ataki_bg
+	item	71028	1	20	ataki_bg
+	item	71029	1	20	ataki_bg
+	item	71030	1	20	ataki_bg
+	item	78407	1	33	ziarno_purpourowego
+	item	77014	1	2.5	oko_auro
+	item	30429	1	3	koszutka
+	item	50334	1	8	ks_rolnictwa
+	item	78301	1	10	prywatne_mushroom
+	item	78210	1	2.5	klepsydra_kowala
+	item	78211	1	2.5	mlot_kowala
+	item	30758	1	100	demoini_kufer
+	item	72727	1	4	autopoty_s
+	item	72728	1	4	autopoty_s
+	item	71129	1	5	smocza_luska
+	item	30522	1	9	ogniwa_lancucha
+	item	78751	1	100	szkat_bossa_2
+	item	80004	1	100	sztabki_golda
+	item	80004	1	100	sztabki_golda
+	item	80004	1	100	sztabki_golda
+	item	80004	1	100	sztabki_golda
+	item	80004	1	100	sztabki_golda
+	item	80004	1	55	sztabki_golda
+	item	80004	1	55	gold
+	item	80004	1	55	sztabki_golda
+	item	50037	1	9	szkat_tali
+	item	30521	1	35	pierscien_do_talizmanow
+}
+
+Group	dung4_level_1_smok
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	6115
+	item	30767	1	5	ulepszacz_bizu_exp
+}
+Group	dung4_level_1_statua
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	8153
+	item	31304	1	8	ulepszacz_uniwersal_80
+	item	28430	1	2	kd_4
+	item	28431	1	2	kd_4
+	item	28432	1	2	kd_4
+	item	28433	1	2	kd_4
+	item	28434	1	2	kd_4
+	item	28435	1	2	kd_4
+	item	28436	1	2	kd_4
+	item	28437	1	2	kd_4
+	item	28438	1	2	kd_4
+	item	28439	1	2	kd_4
+	item	28440	1	2	kd_4
+	item	28441	1	2	kd_4
+	item	28442	1	2	kd_4
+	item	28443	1	2	kd_4
+	item	28444	1	2	kd_4
+}
+Group	dung4_level_2_ogniste_stwory
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	6110
+	item	30763	1	3	ulepszacz_bizu_exp
+	item	27987	1	1	malz
+	item	71032	1	1	zwoj_boga_smokow
+	item	71084	1	4	zmianka
+	item	80003	1	1	sztabki_golda_50k
+}
+Group	dung4_level_2_ogniste_stwory
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	6114
+	item	31302	1	2	ulepszacz_uniwersal_80
+	item	27987	1	1	malz
+	item	71032	1	1	zwoj_boga_smokow
+	item	71084	1	4	zmianka
+	item	80003	1	1	sztabki_golda_50k
+}
+Group	dung4_level_2_ogniste_stwory
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	6113
+	item	31303	1	2	ulepszacz_uniwersal_80
+	item	27987	1	1	malz
+	item	71032	1	1	zwoj_boga_smokow
+	item	71084	1	4	zmianka
+	item	80003	1	1	sztabki_golda_50k
+}
+Group	dung4_level_2_ogniste_stwory
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	6112
+	item	31306	1	2	ulepszacz_uniwersal_80
+	item	27987	1	1	malz
+	item	71032	1	1	zwoj_boga_smokow
+	item	71084	1	4	zmianka
+	item	80003	1	1	sztabki_golda_50k
+}
+Group	dung4_level_2_ognisty_czlowiek
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	6111
+	item	31308	1	0.8	ulepszacz_uniwersal_80
+}
+Group	dung4_BOSS
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	6119
+	item	31305	1	100	ulepszacz_uniwersal_80
+	item	31301	1	100	ulepszacz_uniwersal_80
+	item	77011	1	50	cyrograf_doswiadczenia
+	item	77013	1	20	cyrograf_doswiadczenia+
+	item	71084	20	100	zmianka
+	item	71084	10	100	zmianka
+	item	71084	1	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	77064	1	75	kufer_czaru_3
+	item	77065	1	75	kufer_czaru_3
+	item	71032	1	100	zwoj_boga_smokow
+	item	27987	1	100	malz
+	item	25040	1	100	zwoj_blogoslawienstwa
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	50513	1	60	kamien_duchowy
+	item	50316	1	65	ks_poli_3
+	item	50327	1	65	ks_gorni_3
+	item	50303	1	65	dowodzonko_3
+	item	71027	1	40	ataki_bg
+	item	71028	1	40	ataki_bg
+	item	71029	1	40	ataki_bg
+	item	71030	1	40	ataki_bg
+	item	78210	1	3.5	klepsydra_kowala
+	item	78211	1	3.5	mlot_kowala
+	item	72727	1	4	autopoty_s
+	item	72728	1	4	autopoty_s
+	item	78497	1	3	bizu_viorda
+	item	78310	1	1	pieczec_legendy
+	item	78311	1	1	pieczec_legendy
+	item	78312	1	1	pieczec_legendy
+	item	78313	1	1	pieczec_legendy
+	item	71129	1	5	smocza_luska
+	item	30522	1	9	ogniwa_lancucha
+	item	80004	1	100	gold
+	item	80004	1	55	gold
+	item	80004	1	100	gold
+	item	80004	1	55	gold
+	item	80004	1	100	gold
+	item	80004	1	55	gold
+	item	80004	1	100	sztabki_golda
+	item	80004	1	100	sztabki_golda
+	item	80004	1	100	sztabki_golda
+	item	80004	1	100	sztabki_golda
+	item	30521	1	35	pierscien_do_talizmanow
+	item	31304	1	8	lusko_wachlarz
+	item	27986	1	20	BURSZTYNOWA_MALZ
+}
+
+Group	dung_konny_1_hybrozaur
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	4011
+	item	30767	1	4.2	ulepszacz_bizu_exp
+	item	30768	1	3.8	ulepszacz_bizu_exp
+	item	30766	1	2.25	ulepszacz_bizu_exp
+	item	30765	1	2.6	ulepszacz_bizu_exp
+}
+
+Group	dung_konny_1_fagozaur
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	4012
+	item	30767	1	4.2	ulepszacz_bizu_exp
+	item	30768	1	3.8	ulepszacz_bizu_exp
+	item	30766	1	2.25	ulepszacz_bizu_exp
+	item	30765	1	1	ulepszacz_bizu_exp
+}
+Group	dung_konny_1_kordon
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	4013
+	item	30763	1	0.90	ulepszacz_bizu_exp
+	item	50048	1	1	stajenna_moneta
+}
+Group	dung_konny_1_kordon
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	4014
+	item	30764	1	0.80	ulepszacz_bizu_exp
+}
+Group	dung_konny_1_kordon
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	4015
+	item	30765	1	1.35	ulepszacz_bizu_exp
+}
+Group	dung_konny_Mini_BOSS_1
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	4016
+	item	30769	1	22	ulepszacz_bizu_exp
+	item	80003	1	100	sztabki_golda_50k
+}
+Group	dung_konny_Mini_BOSS_2
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	4017
+	item	30770	1	22	ulepszacz_bizu_exp
+	item	80004	1	100	sztabki_golda_100k
+}
+Group	dung_konny_Mini_BOSS_3
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	4018
+	item	30769	1	22	ulepszacz_bizu_exp
+	item	80005	1	100	sztabki_golda_500k
+}
+Group	dung_konny_Mini_BOSS_4
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	4019
+	item	30770	1	22	ulepszacz_bizu_exp
+	item	80006	1	100	sztabki_golda_1kk
+}
+Group	dung_konny_BOSS
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	4020
+	item	30771	1	33	ulepszacz_bizu_exp
+	item	11330	1	1	czarna_stal
+	item	11510	1	1	czarna_ninja
+	item	11710	1	1	czarna_sura
+	item	11900	1	1	czarna_szaman
+	item	71084	15	100	zmianka
+	item	71084	5	100	zmianka
+	item	71084	1	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	77062	1	75	kufer_czaru_2
+	item	77063	1	75	kufer_czaru_2
+	item	71032	1	40	zwoj_boga_smokow
+	item	27987	1	30	malz
+	item	25040	1	75	zwoj_blogoslawienstwa
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	52901	1	2	poradnik_trenera
+	item	27989	1	30	wykrywacz
+	item	50513	1	34	kamien_duchowy
+	item	50315	1	65	ks_poli_2
+	item	50326	1	65	ks_gorni_2
+	item	50302	1	65	dowodzonko_2
+	item	50304	1	30	combo
+	item	71027	1	20	ataki_bg
+	item	71028	1	20	ataki_bg
+	item	71029	1	20	ataki_bg
+	item	71030	1	20	ataki_bg
+	item	78407	1	33	ziarno_purpourowego
+	item	77014	1	2.5	oko_auro
+	item	30429	1	3	koszutka
+	item	50334	1	8	ks_rolnictwa
+	item	78301	1	10	prywatne_mushroom
+	item	80007	1	100	sztabki_golda_2kk
+}
+
+
+
+
+Group	BOSS_80
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	3939
+	item	30767	1	100	ulepszacz_bizu_exp
+	item	30767	1	20	ulepszacz_bizu_exp
+	item	30768	1	100	ulepszacz_bizu_exp
+	item	30768	1	20	ulepszacz_bizu_exp
+	item	30766	1	20	ulepszacz_bizu_exp
+	item	30765	1	20	ulepszacz_bizu_exp
+	item	77064	1	67	kufer_czaru_3
+	item	77065	1	67	kufer_czaru_3
+	item	77070	1	15	eq_bron_4
+	item	77071	1	15	eq_zbroja_4
+	item	77072	1	15	eq_bizu_4
+	item	77013	1	20	cyrograf_doswiadczenia+
+	item	71084	45	100	zmianka
+	item	71084	5	100	zmianka
+	item	71084	1	100	zmianka
+	item	71084	40	100	zmianka
+	item	71084	3	100	zmianka
+	item	71084	1	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	71032	1	20	zwoj_boga_smokow
+	item	27987	1	20	malz
+	item	25040	1	55	zwoj_blogoslawienstwa
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	52901	1	2	poradnik_trenera
+	item	27989	1	30	wykrywacz
+	item	50513	1	35	kamien_duchowy
+	item	50316	1	65	ks_poli_3
+	item	50327	1	65	ks_gorni_3
+	item	50303	1	65	dowodzonko_3
+	item	71027	1	20	ataki_bg
+	item	71028	1	20	ataki_bg
+	item	71029	1	20	ataki_bg
+	item	71030	1	20	ataki_bg
+	item	78401	1	33	ziarno_zarlacza
+	item	78230	1	13	trunek_adwokata
+	item	78310	1	1	pieczec_legendy
+	item	78311	1	1	pieczec_legendy
+	item	78312	1	1	pieczec_legendy
+	item	78313	1	1	pieczec_legendy
+	item	78752	1	100	szkat_bossa
+	item	27102	1	80	ziel_pota_d
+}
+
+Group	BOSS_90
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	3949
+	item	30419	1	8	ulepszacz_nsu_bronie_tarcze
+	item	30412	1	8	ulepszacz_nsu_bronie_tarcze
+	item	30425	1	8	ulepszacz_nsu_zbroje
+	item	30421	1	8	ulepszacz_nsu_zbroje
+	item	30753	1	21	ulepszacz_bizu_pvp
+	item	30751	1	21	ulepszacz_bizu_pvp
+	item	30757	1	21	ulepszacz_bizu_pvp
+	item	27986	1	100	BURSZTYNOWA_MALZ
+	item	77064	1	67	kufer_czaru_3
+	item	77065	1	67	kufer_czaru_3
+	item	77070	1	19	eq_bron_4
+	item	77071	1	19	eq_zbroja_4
+	item	77072	1	19	eq_bizu_4
+	item	77013	1	30	cyrograf_doswiadczenia+
+	item	71084	50	100	zmianka
+	item	71084	30	75	zmianka
+	item	71084	3	100	zmianka
+	item	71084	50	100	zmianka
+	item	71084	30	75	zmianka
+	item	71084	3	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	71032	1	35	zwoj_boga_smokow
+	item	27987	1	100	malz
+	item	25040	1	55	zwoj_blogoslawienstwa
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	52901	1	2	poradnik_trenera
+	item	27989	1	30	wykrywacz
+	item	50513	1	56	kamien_duchowy
+	item	50316	1	72	ks_poli_3
+	item	50327	1	72	ks_gorni_3
+	item	50303	1	72	dowodzonko_3
+	item	71027	1	30	ataki_bg
+	item	71028	1	30	ataki_bg
+	item	71029	1	30	ataki_bg
+	item	71030	1	30	ataki_bg
+	item	78400	1	33	ziarno_zarlacza
+	item	78231	1	13	trunek_adwokata_s
+	item	78232	1	13	trunek_adwokata_d
+	item	78310	1	5	pieczec_legendy
+	item	78311	1	5	pieczec_legendy
+	item	78312	1	5	pieczec_legendy
+	item	78313	1	5	pieczec_legendy
+	item	78752	1	100	szkat_bossa
+	item	27102	1	85	ziel_pota_d
+}
+Group	BOSS_80_PLUS
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	3970
+	item	30754	1	100	ulepszacz_bizu_pvp
+	item	30754	1	10	ulepszacz_bizu_pvp
+	item	30755	1	100	ulepszacz_bizu_pvp
+	item	30755	1	10	ulepszacz_bizu_pvp
+	item	30752	1	29	ulepszacz_bizu_pvp
+	item	30756	1	29	ulepszacz_bizu_pvp
+	item	27995	1	35	turkusowa_perla
+	item	27996	1	35	niebieska_perla
+	item	27997	1	35	czerwona_perla
+	item	27986	1	100	BURSZTYNOWA_MALZ
+	item	77064	1	67	kufer_czaru_3
+	item	77065	1	67	kufer_czaru_3
+	item	77013	1	30	cyrograf_doswiadczenia+
+	item	71084	40	100	zmianka
+	item	71084	20	75	zmianka
+	item	71084	40	100	zmianka
+	item	71084	40	100	zmianka
+	item	71084	20	75	zmianka
+	item	71084	40	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	71032	1	100	zwoj_boga_smokow
+	item	27987	1	100	malz
+	item	25040	1	100	zwoj_blogoslawienstwa
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	52901	1	5	poradnik_trenera
+	item	27989	1	30	wykrywacz
+	item	50513	1	75	kamien_duchowy
+	item	50316	1	100	ks_poli_3
+	item	50327	1	100	ks_gorni_3
+	item	50303	1	100	dowodzonko_3
+	item	71027	1	100	ataki_bg
+	item	71028	1	100	ataki_bg
+	item	71029	1	100	ataki_bg
+	item	71030	1	100	ataki_bg
+	item	78400	1	100	ziarno_zarlacza
+	item	78231	1	100	trunek_adwokata_s
+	item	78232	1	100	trunek_adwokata_d
+	item	25041	1	37	magiczny_metal
+	item	78610	1	37	ks_archimagii
+	item	28430	1	10.25	kd_4
+	item	28431	1	10.25	kd_4
+	item	28432	1	10.25	kd_4
+	item	28433	1	10.25	kd_4
+	item	28434	1	10.25	kd_4
+	item	28435	1	10.25	kd_4
+	item	28436	1	10.25	kd_4
+	item	28437	1	10.25	kd_4
+	item	28438	1	10.25	kd_4
+	item	28439	1	10.25	kd_4
+	item	28440	1	10.25	kd_4
+	item	28441	1	10.25	kd_4
+	item	28442	1	10.25	kd_4
+	item	28443	1	10.25	kd_4
+	item	28444	1	10.25	kd_4
+	item	78310	1	25	pieczec_legendy
+	item	78311	1	25	pieczec_legendy
+	item	78312	1	25	pieczec_legendy
+	item	78313	1	25	pieczec_legendy
+	item	78752	1	100	szkat_bossa
+	item	27102	1	100	ziel_pota_d
+	
+}
+Group	BOSS_90_PLUS
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	3971
+	item	30754	1	100	ulepszacz_bizu_pvp
+	item	30754	1	10	ulepszacz_bizu_pvp
+	item	30755	1	100	ulepszacz_bizu_pvp
+	item	30755	1	10	ulepszacz_bizu_pvp
+	item	30416	1	29	ulepszacz_nsu_bronie_tarcze
+	item	30424	1	29	ulepszacz_nsu_zbroje
+	item	30418	1	20	ulepszacz_nsu_bronie_tarcze
+	item	30427	1	20	ulepszacz_nsu_zbroje
+	item	30411	1	25	ulepszacz_nsu_bronie_tarcze
+	item	30420	1	25	ulepszacz_nsu_zbroje
+	item	30752	1	25	ulepszacz_bizu_pvp
+	item	30756	1	25	ulepszacz_bizu_pvp
+	item	27995	1	75	turkusowa_perla
+	item	27996	1	75	niebieska_perla
+	item	27997	1	75	czerwona_perla
+	item	27986	1	100	BURSZTYNOWA_MALZ
+	item	77064	1	67	kufer_czaru_3
+	item	77065	1	67	kufer_czaru_3
+	item	77013	1	30	cyrograf_doswiadczenia+
+	item	71084	60	100	zmianka
+	item	71084	20	75	zmianka
+	item	71084	60	100	zmianka
+	item	71084	40	100	zmianka
+	item	71084	20	75	zmianka
+	item	71084	60	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	71032	1	100	zwoj_boga_smokow
+	item	27987	1	100	malz
+	item	25040	1	100	zwoj_blogoslawienstwa
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	52901	1	5	poradnik_trenera
+	item	27989	1	30	wykrywacz
+	item	50513	1	75	kamien_duchowy
+	item	50316	1	100	ks_poli_3
+	item	50327	1	100	ks_gorni_3
+	item	50303	1	100	dowodzonko_3
+	item	71027	1	100	ataki_bg
+	item	71028	1	100	ataki_bg
+	item	71029	1	100	ataki_bg
+	item	71030	1	100	ataki_bg
+	item	78400	1	100	ziarno_zarlacza
+	item	78231	1	100	trunek_adwokata_s
+	item	78232	1	100	trunek_adwokata_d
+	item	25041	1	37	magiczny_metal
+	item	78610	1	37	ks_archimagii
+	item	78495	1	25	szkat_artefaktu_bron
+	item	78496	1	25	szkat_artefaktu_zbroja
+	item	28430	1	10.25	kd_4
+	item	28431	1	10.25	kd_4
+	item	28432	1	10.25	kd_4
+	item	28433	1	10.25	kd_4
+	item	28434	1	10.25	kd_4
+	item	28435	1	10.25	kd_4
+	item	28436	1	10.25	kd_4
+	item	28437	1	10.25	kd_4
+	item	28438	1	10.25	kd_4
+	item	28439	1	10.25	kd_4
+	item	28440	1	10.25	kd_4
+	item	28441	1	10.25	kd_4
+	item	28442	1	10.25	kd_4
+	item	28443	1	10.25	kd_4
+	item	28444	1	10.25	kd_4
+	item	78310	1	25	pieczec_legendy
+	item	78311	1	25	pieczec_legendy
+	item	78312	1	25	pieczec_legendy
+	item	78313	1	25	pieczec_legendy
+	item	78752	1	100	szkat_bossa
+	item	27102	1	100	ziel_pota_d
+}
+
+
+
+
+
+
+Group	Zefir_smok
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	6501
+	item	30412	1	100	ulepszacz_nsu_bronie_tarcze
+	item	30419	1	100	ulepszacz_nsu_zbroje
+	item	77064	1	23	kufer_czaru_3
+	item	77065	1	23	kufer_czaru_3
+	item	77013	1	30	cyrograf_doswiadczenia+
+	item	50513	1	23	kamien_duchowy
+	item	27987	1	35	malz
+	item	25040	1	100	zwoj_blogoslawienstwa
+	item	50316	1	22	ks_poli_3
+	item	50327	1	22	ks_gorni_3
+	item	50303	1	22	dowodzonko_3
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	71027	1	21	ataki_bg
+	item	71028	1	21	ataki_bg
+	item	71029	1	21	ataki_bg
+	item	71030	1	21	ataki_bg
+}
+Group	Zefir_mob_110
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	3701
+	item	80003	1	4	sztabki_golda_50k
+	item	80004	1	2	sztabki_golda_100k
+	item	27987	1	2	malz
+	item	71032	1	1	zwoj_boga_smokow
+}
+Group	Zefir_mob_220
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	3702
+	item	80003	1	4	sztabki_golda_50k
+	item	80004	1	2	sztabki_golda_100k
+	item	27987	1	2	malz
+	item	71032	1	1	zwoj_boga_smokow
+	
+}
+Group	Zefir_SKILL_BOSS_1
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	6502
+	item	30427	1	55	ulepszacz_nsu_zbroje
+	item	30418	1	55	ulepszacz_nsu_bronie_tarcze
+	item	77064	1	53	kufer_czaru_3
+	item	77065	1	53	kufer_czaru_3
+	item	77013	1	50	cyrograf_doswiadczenia+
+	item	50513	1	73	kamien_duchowy
+	item	27987	1	55	malz
+	item	71032	1	100	zwoj_boga_smokow
+	item	50316	1	52	ks_poli_3
+	item	50327	1	52	ks_gorni_3
+	item	50303	1	52	dowodzonko_3
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	71027	1	81	ataki_bg
+	item	71028	1	81	ataki_bg
+	item	71029	1	81	ataki_bg
+	item	71030	1	81	ataki_bg
+	item	80005	1	100	sztabki_golda
+	item	50037	1	3	szkat_tali
+}
+Group	Zefir_SKILL_BOSS_2
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	6503
+	item	30424	1	55	ulepszacz_nsu_zbroje
+	item	30416	1	55	ulepszacz_nsu_bronie_tarcze
+	item	77064	1	53	kufer_czaru_3
+	item	77065	1	53	kufer_czaru_3
+	item	77013	1	50	cyrograf_doswiadczenia+
+	item	50513	1	73	kamien_duchowy
+	item	27987	1	55	malz
+	item	71032	1	100	zwoj_boga_smokow
+	item	50316	1	52	ks_poli_3
+	item	50327	1	52	ks_gorni_3
+	item	50303	1	52	dowodzonko_3
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	71027	1	81	ataki_bg
+	item	71028	1	81	ataki_bg
+	item	71029	1	81	ataki_bg
+	item	71030	1	81	ataki_bg
+	item	80005	1	100	sztabki_golda
+	item	50037	1	3	szkat_tali
+}
+Group	Zefir_SKILL_BOSS_3
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	6504
+	item	30420	1	55	ulepszacz_nsu_zbroje
+	item	30411	1	55	ulepszacz_nsu_bronie_tarcze
+	item	77064	1	53	kufer_czaru_3
+	item	77065	1	53	kufer_czaru_3
+	item	77013	1	50	cyrograf_doswiadczenia+
+	item	50513	1	73	kamien_duchowy
+	item	27987	1	55	malz
+	item	71032	1	100	zwoj_boga_smokow
+	item	50316	1	52	ks_poli_3
+	item	50327	1	52	ks_gorni_3
+	item	50303	1	52	dowodzonko_3
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	71027	1	81	ataki_bg
+	item	71028	1	81	ataki_bg
+	item	71029	1	81	ataki_bg
+	item	71030	1	81	ataki_bg
+	item	80005	1	100	sztabki_golda
+	item	50037	1	3	szkat_tali
+}
+Group	Zefir_mob_LAST
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	3703
+	item	30410	1	1	ulepszacz_nsu_bronie_tarcze
+	item	30413	1	1	ulepszacz_nsu_bronie_tarcze
+	item	30417	1	1	ulepszacz_nsu_bronie_tarcze
+	item	30423	1	1	ulepszacz_nsu_zbroje
+	item	30426	1	1	ulepszacz_nsu_zbroje
+	item	30428	1	1	ulepszacz_nsu_zbroje
+	item	80003	1	4	sztabki_golda_50k
+	item	80004	1	2	sztabki_golda_100k
+}
+Group	Zefir_mob_LAST
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	3704
+	item	30410	1	1	ulepszacz_nsu_bronie_tarcze
+	item	30413	1	1	ulepszacz_nsu_bronie_tarcze
+	item	30417	1	1	ulepszacz_nsu_bronie_tarcze
+	item	30423	1	1	ulepszacz_nsu_zbroje
+	item	30426	1	1	ulepszacz_nsu_zbroje
+	item	30428	1	1	ulepszacz_nsu_zbroje
+	item	80003	1	4	sztabki_golda_50k
+	item	80004	1	2	sztabki_golda_100k
+}
+Group	Zefir_mob_LAST
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	3705
+	item	30410	1	1	ulepszacz_nsu_bronie_tarcze
+	item	30413	1	1	ulepszacz_nsu_bronie_tarcze
+	item	30417	1	1	ulepszacz_nsu_bronie_tarcze
+	item	30423	1	1	ulepszacz_nsu_zbroje
+	item	30426	1	1	ulepszacz_nsu_zbroje
+	item	30428	1	1	ulepszacz_nsu_zbroje
+	item	80003	1	4	sztabki_golda_50k
+	item	80004	1	2	sztabki_golda_100k
+}
+
+
+
+
+Group	LEGENDY_1
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	3960
+	item	31307	1	100	zloty_puchar
+	item	30416	1	100	ulepszacz_nsu_bronie_tarcze
+	item	30424	1	100	ulepszacz_nsu_zbroje
+	item	30418	1	100	ulepszacz_nsu_bronie_tarcze
+	item	30427	1	100	ulepszacz_nsu_zbroje
+	item	30411	1	100	ulepszacz_nsu_bronie_tarcze
+	item	30420	1	100	ulepszacz_nsu_zbroje
+	item	30752	1	100	ulepszacz_bizu_pvp
+	item	30756	1	100	ulepszacz_bizu_pvp
+	item	27995	1	100	turkusowa_perla
+	item	27996	1	100	niebieska_perla
+	item	27997	1	100	czerwona_perla
+	item	77064	1	100	kufer_czaru_3
+	item	77065	1	100	kufer_czaru_3
+	item	77013	1	100	cyrograf_doswiadczenia+
+	item	77013	1	100	cyrograf_doswiadczenia+
+	item	77013	1	100	cyrograf_doswiadczenia+
+	item	77013	1	100	cyrograf_doswiadczenia+
+	item	71084	20	100	zmianka
+	item	71084	10	75	zmianka
+	item	71084	20	100	zmianka
+	item	71084	20	100	zmianka
+	item	71084	10	75	zmianka
+	item	71084	20	100	zmianka
+	item	71084	20	100	zmianka
+	item	71084	10	75	zmianka
+	item	71084	20	100	zmianka
+	item	71084	20	100	zmianka
+	item	71084	10	75	zmianka
+	item	71084	20	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	71032	1	100	zwoj_boga_smokow
+	item	27987	1	100	malz
+	item	52901	1	10	poradnik_trenera
+	item	50513	1	100	kamien_duchowy
+	item	50316	1	100	ks_poli_3
+	item	50327	1	100	ks_gorni_3
+	item	50303	1	100	dowodzonko_3
+	item	71027	5	100	ataki_bg
+	item	71028	5	100	ataki_bg
+	item	71029	5	100	ataki_bg
+	item	71030	5	100	ataki_bg
+	item	78400	1	100	ziarno_zarlacza
+	item	78231	1	100	trunek_adwokata_s
+	item	78232	1	100	trunek_adwokata_d
+	item	25041	1	100	magiczny_metal
+	item	78610	1	100	ks_archimagii
+	item	78495	1	100	szkat_artefaktu_bron
+	item	78496	1	100	szkat_artefaktu_zbroja
+	item	28430	1	20.25	kd_4
+	item	28431	1	20.25	kd_4
+	item	28432	1	20.25	kd_4
+	item	28433	1	20.25	kd_4
+	item	28434	1	20.25	kd_4
+	item	28435	1	20.25	kd_4
+	item	28436	1	20.25	kd_4
+	item	28437	1	20.25	kd_4
+	item	28438	1	20.25	kd_4
+	item	28439	1	20.25	kd_4
+	item	28440	1	20.25	kd_4
+	item	28441	1	20.25	kd_4
+	item	28442	1	20.25	kd_4
+	item	28443	1	20.25	kd_4
+	item	28444	1	20.25	kd_4
+	item	78109	1	100	orkiena
+}
+Group	LEGENDY_2
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	3961
+	item	31307	1	100	zloty_puchar
+	item	30416	1	100	ulepszacz_nsu_bronie_tarcze
+	item	30424	1	100	ulepszacz_nsu_zbroje
+	item	30418	1	100	ulepszacz_nsu_bronie_tarcze
+	item	30427	1	100	ulepszacz_nsu_zbroje
+	item	30411	1	100	ulepszacz_nsu_bronie_tarcze
+	item	30420	1	100	ulepszacz_nsu_zbroje
+	item	30752	1	100	ulepszacz_bizu_pvp
+	item	30756	1	100	ulepszacz_bizu_pvp
+	item	27995	1	100	turkusowa_perla
+	item	27996	1	100	niebieska_perla
+	item	27997	1	100	czerwona_perla
+	item	77064	1	100	kufer_czaru_3
+	item	77065	1	100	kufer_czaru_3
+	item	77013	1	100	cyrograf_doswiadczenia+
+	item	77013	1	100	cyrograf_doswiadczenia+
+	item	77013	1	100	cyrograf_doswiadczenia+
+	item	77013	1	100	cyrograf_doswiadczenia+
+	item	71084	20	100	zmianka
+	item	71084	10	75	zmianka
+	item	71084	20	100	zmianka
+	item	71084	20	100	zmianka
+	item	71084	10	75	zmianka
+	item	71084	20	100	zmianka
+	item	71084	20	100	zmianka
+	item	71084	10	75	zmianka
+	item	71084	20	100	zmianka
+	item	71084	20	100	zmianka
+	item	71084	10	75	zmianka
+	item	71084	20	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	71032	1	100	zwoj_boga_smokow
+	item	27987	1	100	malz
+	item	52901	1	10	poradnik_trenera
+	item	50513	1	100	kamien_duchowy
+	item	50316	1	100	ks_poli_3
+	item	50327	1	100	ks_gorni_3
+	item	50303	1	100	dowodzonko_3
+	item	71027	5	100	ataki_bg
+	item	71028	5	100	ataki_bg
+	item	71029	5	100	ataki_bg
+	item	71030	5	100	ataki_bg
+	item	78400	1	100	ziarno_zarlacza
+	item	78231	1	100	trunek_adwokata_s
+	item	78232	1	100	trunek_adwokata_d
+	item	25041	1	100	magiczny_metal
+	item	78610	1	100	ks_archimagii
+	item	78495	1	100	szkat_artefaktu_bron
+	item	78496	1	100	szkat_artefaktu_zbroja
+	item	28430	1	20.25	kd_4
+	item	28431	1	20.25	kd_4
+	item	28432	1	20.25	kd_4
+	item	28433	1	20.25	kd_4
+	item	28434	1	20.25	kd_4
+	item	28435	1	20.25	kd_4
+	item	28436	1	20.25	kd_4
+	item	28437	1	20.25	kd_4
+	item	28438	1	20.25	kd_4
+	item	28439	1	20.25	kd_4
+	item	28440	1	20.25	kd_4
+	item	28441	1	20.25	kd_4
+	item	28442	1	20.25	kd_4
+	item	28443	1	20.25	kd_4
+	item	28444	1	20.25	kd_4
+	item	78109	1	100	orkiena
+}
+Group	LEGENDY_3
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	3962
+	item	31307	1	100	zloty_puchar
+	item	30416	1	100	ulepszacz_nsu_bronie_tarcze
+	item	30424	1	100	ulepszacz_nsu_zbroje
+	item	30418	1	100	ulepszacz_nsu_bronie_tarcze
+	item	30427	1	100	ulepszacz_nsu_zbroje
+	item	30411	1	100	ulepszacz_nsu_bronie_tarcze
+	item	30420	1	100	ulepszacz_nsu_zbroje
+	item	30752	1	100	ulepszacz_bizu_pvp
+	item	30756	1	100	ulepszacz_bizu_pvp
+	item	27995	1	100	turkusowa_perla
+	item	27996	1	100	niebieska_perla
+	item	27997	1	100	czerwona_perla
+	item	77064	1	100	kufer_czaru_3
+	item	77065	1	100	kufer_czaru_3
+	item	77013	1	100	cyrograf_doswiadczenia+
+	item	77013	1	100	cyrograf_doswiadczenia+
+	item	77013	1	100	cyrograf_doswiadczenia+
+	item	77013	1	100	cyrograf_doswiadczenia+
+	item	71084	20	100	zmianka
+	item	71084	10	75	zmianka
+	item	71084	20	100	zmianka
+	item	71084	20	100	zmianka
+	item	71084	10	75	zmianka
+	item	71084	20	100	zmianka
+	item	71084	20	100	zmianka
+	item	71084	10	75	zmianka
+	item	71084	20	100	zmianka
+	item	71084	20	100	zmianka
+	item	71084	10	75	zmianka
+	item	71084	20	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	71032	1	100	zwoj_boga_smokow
+	item	27987	1	100	malz
+	item	52901	1	10	poradnik_trenera
+	item	50513	1	100	kamien_duchowy
+	item	50316	1	100	ks_poli_3
+	item	50327	1	100	ks_gorni_3
+	item	50303	1	100	dowodzonko_3
+	item	71027	5	100	ataki_bg
+	item	71028	5	100	ataki_bg
+	item	71029	5	100	ataki_bg
+	item	71030	5	100	ataki_bg
+	item	78400	1	100	ziarno_zarlacza
+	item	78231	1	100	trunek_adwokata_s
+	item	78232	1	100	trunek_adwokata_d
+	item	25041	1	100	magiczny_metal
+	item	78610	1	100	ks_archimagii
+	item	78495	1	100	szkat_artefaktu_bron
+	item	78496	1	100	szkat_artefaktu_zbroja
+	item	28430	1	20.25	kd_4
+	item	28431	1	20.25	kd_4
+	item	28432	1	20.25	kd_4
+	item	28433	1	20.25	kd_4
+	item	28434	1	20.25	kd_4
+	item	28435	1	20.25	kd_4
+	item	28436	1	20.25	kd_4
+	item	28437	1	20.25	kd_4
+	item	28438	1	20.25	kd_4
+	item	28439	1	20.25	kd_4
+	item	28440	1	20.25	kd_4
+	item	28441	1	20.25	kd_4
+	item	28442	1	20.25	kd_4
+	item	28443	1	20.25	kd_4
+	item	28444	1	20.25	kd_4
+	item	78109	1	100	orkiena
+}
+Group	LEGENDY_4
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	3963
+	item	31307	1	100	zloty_puchar
+	item	30416	1	100	ulepszacz_nsu_bronie_tarcze
+	item	30424	1	100	ulepszacz_nsu_zbroje
+	item	30418	1	100	ulepszacz_nsu_bronie_tarcze
+	item	30427	1	100	ulepszacz_nsu_zbroje
+	item	30411	1	100	ulepszacz_nsu_bronie_tarcze
+	item	30420	1	100	ulepszacz_nsu_zbroje
+	item	30752	1	100	ulepszacz_bizu_pvp
+	item	30756	1	100	ulepszacz_bizu_pvp
+	item	27995	1	100	turkusowa_perla
+	item	27996	1	100	niebieska_perla
+	item	27997	1	100	czerwona_perla
+	item	77064	1	100	kufer_czaru_3
+	item	77065	1	100	kufer_czaru_3
+	item	77013	1	100	cyrograf_doswiadczenia+
+	item	77013	1	100	cyrograf_doswiadczenia+
+	item	77013	1	100	cyrograf_doswiadczenia+
+	item	77013	1	100	cyrograf_doswiadczenia+
+	item	71084	20	100	zmianka
+	item	71084	10	75	zmianka
+	item	71084	20	100	zmianka
+	item	71084	20	100	zmianka
+	item	71084	10	75	zmianka
+	item	71084	20	100	zmianka
+	item	71084	20	100	zmianka
+	item	71084	10	75	zmianka
+	item	71084	20	100	zmianka
+	item	71084	20	100	zmianka
+	item	71084	10	75	zmianka
+	item	71084	20	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	71032	1	100	zwoj_boga_smokow
+	item	27987	1	100	malz
+	item	52901	1	10	poradnik_trenera
+	item	50513	1	100	kamien_duchowy
+	item	50316	1	100	ks_poli_3
+	item	50327	1	100	ks_gorni_3
+	item	50303	1	100	dowodzonko_3
+	item	71027	5	100	ataki_bg
+	item	71028	5	100	ataki_bg
+	item	71029	5	100	ataki_bg
+	item	71030	5	100	ataki_bg
+	item	78400	1	100	ziarno_zarlacza
+	item	78231	1	100	trunek_adwokata_s
+	item	78232	1	100	trunek_adwokata_d
+	item	25041	1	100	magiczny_metal
+	item	78610	1	100	ks_archimagii
+	item	78495	1	100	szkat_artefaktu_bron
+	item	78496	1	100	szkat_artefaktu_zbroja
+	item	28430	1	20.25	kd_4
+	item	28431	1	20.25	kd_4
+	item	28432	1	20.25	kd_4
+	item	28433	1	20.25	kd_4
+	item	28434	1	20.25	kd_4
+	item	28435	1	20.25	kd_4
+	item	28436	1	20.25	kd_4
+	item	28437	1	20.25	kd_4
+	item	28438	1	20.25	kd_4
+	item	28439	1	20.25	kd_4
+	item	28440	1	20.25	kd_4
+	item	28441	1	20.25	kd_4
+	item	28442	1	20.25	kd_4
+	item	28443	1	20.25	kd_4
+	item	28444	1	20.25	kd_4
+	item	78109	1	100	orkiena
+}
+
+Group	boss_smok_beran
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	2291
+	item	80007	1	100	sztabki_golda_2kk
+	item	80007	1	100	sztabki_golda_2kk
+	item	80007	1	100	sztabki_golda_2kk
+	item	80007	1	100	sztabki_golda_2kk
+	item	80007	1	100	sztabki_golda_2kk
+	item	80006	1	100	sztabki_golda_1kk
+	item	80006	1	100	sztabki_golda_1kk
+	item	80006	1	100	sztabki_golda_1kk
+	item	80006	1	100	sztabki_golda_1kk
+	item	80006	1	100	sztabki_golda_1kk
+	item	80005	1	100	sztabki_golda_500k
+	item	80005	1	100	sztabki_golda_500k
+	item	80005	1	100	sztabki_golda_500k
+	item	80005	1	100	sztabki_golda_500k
+	item	80005	1	100	sztabki_golda_500k
+	item	28430	1	50.25	kd_4
+	item	28431	1	50.25	kd_4
+	item	28432	1	50.25	kd_4
+	item	28433	1	50.25	kd_4
+	item	28434	1	50.25	kd_4
+	item	28435	1	50.25	kd_4
+	item	28436	1	50.25	kd_4
+	item	28437	1	50.25	kd_4
+	item	28438	1	50.25	kd_4
+	item	28439	1	50.25	kd_4
+	item	28440	1	50.25	kd_4
+	item	28441	1	50.25	kd_4
+	item	28442	1	50.25	kd_4
+	item	28443	1	50.25	kd_4
+	item	28444	1	50.25	kd_4
+	item	78497	1	100	bizu_viorda
+	item	78497	1	25	bizu_viorda
+	item	78497	1	25	bizu_viorda
+	item	78497	1	25	bizu_viorda
+	item	78497	1	25	bizu_viorda
+	item	77064	3	100	kufer_czaru_3
+	item	77065	3	100	kufer_czaru_3
+	item	77013	1	100	cyrograf_doswiadczenia+
+	item	71084	75	100	zmianka
+	item	71084	25	100	zmianka
+	item	71084	15	100	zmianka
+	item	71084	20	100	zmianka
+	item	71084	20	100	zmianka
+	item	71084	35	100	zmianka
+	item	71084	50	100	zmianka
+	item	71084	50	100	zmianka
+	item	71084	50	100	zmianka
+	item	71084	50	100	zmianka
+	item	71084	20	100	zmianka
+	item	71084	75	100	zmianka
+	item	71084	25	100	zmianka
+	item	71084	15	100	zmianka
+	item	71084	20	100	zmianka
+	item	71084	20	100	zmianka
+	item	71084	35	100	zmianka
+	item	71084	50	100	zmianka
+	item	71084	50	100	zmianka
+	item	71084	50	100	zmianka
+	item	71084	50	100	zmianka
+	item	71084	20	100	zmianka
+	item	71085	10	100	wzmocnienie
+	item	71085	10	100	wzmocnienie
+	item	71085	10	100	wzmocnienie
+	item	71032	1	100	zwoj_boga_smokow
+	item	27987	1	100	malz
+	item	52901	1	100	poradnik_trenera
+	item	50513	1	100	kamien_duchowy
+	item	78310	1	25	pieczec_legendy
+	item	78311	1	25	pieczec_legendy
+	item	78312	1	25	pieczec_legendy
+	item	78313	1	25	pieczec_legendy
+	item	25041	1	100	magiczny_metal
+	item	77000	1	100	zmianka_bron
+	item	78753	1	100	zmianka_bron
+}
+
+Group	duch_ziemi
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	3994
+	item	78497	1	14.5	bizu_viorda
+	item	77064	1	67	kufer_czaru_3
+	item	77065	1	67	kufer_czaru_3
+	item	77070	1	15	eq_bron_4
+	item	77071	1	15	eq_zbroja_4
+	item	77072	1	15	eq_bizu_4
+	item	77013	1	20	cyrograf_doswiadczenia+
+	item	71084	15	100	zmianka
+	item	71084	5	100	zmianka
+	item	71084	1	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	71032	1	20	zwoj_boga_smokow
+	item	27987	1	20	malz
+	item	25040	1	55	zwoj_blogoslawienstwa
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	52901	1	2	poradnik_trenera
+	item	27989	1	30	wykrywacz
+	item	50513	1	35	kamien_duchowy
+	item	50316	1	65	ks_poli_3
+	item	50327	1	65	ks_gorni_3
+	item	50303	1	65	dowodzonko_3
+	item	71027	1	20	ataki_bg
+	item	71028	1	20	ataki_bg
+	item	71029	1	20	ataki_bg
+	item	71030	1	20	ataki_bg
+	item	78401	1	33	ziarno_zarlacza
+	item	78230	1	13	trunek_adwokata
+	item	78310	1	3	pieczec_legendy
+	item	78311	1	3	pieczec_legendy
+	item	78312	1	3	pieczec_legendy
+	item	78313	1	3	pieczec_legendy
+}
+Group	duch_ognia
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	3995
+	item	78497	1	14.5	bizu_viorda
+	item	77064	1	67	kufer_czaru_3
+	item	77065	1	67	kufer_czaru_3
+	item	77070	1	15	eq_bron_4
+	item	77071	1	15	eq_zbroja_4
+	item	77072	1	15	eq_bizu_4
+	item	77013	1	20	cyrograf_doswiadczenia+
+	item	71084	15	100	zmianka
+	item	71084	5	100	zmianka
+	item	71084	1	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	71032	1	20	zwoj_boga_smokow
+	item	27987	1	20	malz
+	item	25040	1	55	zwoj_blogoslawienstwa
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	52901	1	2	poradnik_trenera
+	item	27989	1	30	wykrywacz
+	item	50513	1	35	kamien_duchowy
+	item	50316	1	65	ks_poli_3
+	item	50327	1	65	ks_gorni_3
+	item	50303	1	65	dowodzonko_3
+	item	71027	1	20	ataki_bg
+	item	71028	1	20	ataki_bg
+	item	71029	1	20	ataki_bg
+	item	71030	1	20	ataki_bg
+	item	78401	1	33	ziarno_zarlacza
+	item	78230	1	13	trunek_adwokata
+	item	78310	1	3	pieczec_legendy
+	item	78311	1	3	pieczec_legendy
+	item	78312	1	3	pieczec_legendy
+	item	78313	1	3	pieczec_legendy
+}
+Group	duch_ziemi
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	3996
+	item	78497	1	14.5	bizu_viorda
+	item	77064	1	67	kufer_czaru_3
+	item	77065	1	67	kufer_czaru_3
+	item	77070	1	15	eq_bron_4
+	item	77071	1	15	eq_zbroja_4
+	item	77072	1	15	eq_bizu_4
+	item	77013	1	20	cyrograf_doswiadczenia+
+	item	71084	15	100	zmianka
+	item	71084	5	100	zmianka
+	item	71084	1	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	71032	1	20	zwoj_boga_smokow
+	item	27987	1	20	malz
+	item	25040	1	55	zwoj_blogoslawienstwa
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	52901	1	2	poradnik_trenera
+	item	27989	1	30	wykrywacz
+	item	50513	1	35	kamien_duchowy
+	item	50316	1	65	ks_poli_3
+	item	50327	1	65	ks_gorni_3
+	item	50303	1	65	dowodzonko_3
+	item	71027	1	20	ataki_bg
+	item	71028	1	20	ataki_bg
+	item	71029	1	20	ataki_bg
+	item	71030	1	20	ataki_bg
+	item	78401	1	33	ziarno_zarlacza
+	item	78230	1	13	trunek_adwokata
+	item	78310	1	3	pieczec_legendy
+	item	78311	1	3	pieczec_legendy
+	item	78312	1	3	pieczec_legendy
+	item	78313	1	3	pieczec_legendy
+}
+Group	duch_ziemi
+{
+	Level_limit	1
+	Type	limit
+	max_level	100
+	Mob	3997
+	item	78497	1	14.5	bizu_viorda
+	item	77064	1	67	kufer_czaru_3
+	item	77065	1	67	kufer_czaru_3
+	item	77070	1	15	eq_bron_4
+	item	77071	1	15	eq_zbroja_4
+	item	77072	1	15	eq_bizu_4
+	item	77013	1	20	cyrograf_doswiadczenia+
+	item	71084	15	100	zmianka
+	item	71084	5	100	zmianka
+	item	71084	1	100	zmianka
+	item	71085	1	55	wzmocnienie
+	item	71032	1	20	zwoj_boga_smokow
+	item	27987	1	20	malz
+	item	25040	1	55	zwoj_blogoslawienstwa
+	item	71044	1	100	dlon_krytyka
+	item	71045	1	100	dlon_przebicia
+	item	52901	1	2	poradnik_trenera
+	item	27989	1	30	wykrywacz
+	item	50513	1	35	kamien_duchowy
+	item	50316	1	65	ks_poli_3
+	item	50327	1	65	ks_gorni_3
+	item	50303	1	65	dowodzonko_3
+	item	71027	1	20	ataki_bg
+	item	71028	1	20	ataki_bg
+	item	71029	1	20	ataki_bg
+	item	71030	1	20	ataki_bg
+	item	78401	1	33	ziarno_zarlacza
+	item	78230	1	13	trunek_adwokata
+	item	78310	1	3	pieczec_legendy
+	item	78311	1	3	pieczec_legendy
+	item	78312	1	3	pieczec_legendy
+	item	78313	1	3	pieczec_legendy
+}

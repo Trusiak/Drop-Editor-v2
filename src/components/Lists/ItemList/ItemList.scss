@@ -36,6 +36,10 @@
         }
     }
 
+    &__title--id{
+        color: #dfb11c;
+    }
+
     &__list {
         @include flex(fs, c, row);
         margin-top: 20px;
