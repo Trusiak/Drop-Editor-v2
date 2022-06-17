@@ -1,5 +1,5 @@
 // @ts-nocheck
-const AppReducer = (state, action) => {
+const AppReducer = (state:any , action:any) => {
   switch(action.type) {
     case 'ADD_ITEM_NAMES': {
       return {
@@ -17,6 +17,12 @@ const AppReducer = (state, action) => {
       return {
         ...state,
         dropList: action.payload
+      }
+    }
+    case 'TEST_UPDATE_FLAG': {
+      return {
+        ...state,
+        flag: state.flag+1
       }
     }
     case 'ADD_MOB_TO_DROP':
@@ -37,6 +43,29 @@ const AppReducer = (state, action) => {
         ...state,
         dropList: state.dropList
       }
+    case 'CREATE_DEEP_DROP_COPY': {
+      return {
+        ...state,
+        dropListCopy: JSON.parse(JSON.stringify(state.dropList))
+      }
+    }
+    case 'UPDATE_DEEP_DROP_COPY': {
+      const drop = state.dropListCopy.map((drop: Drop) => {
+        if(drop.mob === action.payload.mobId){
+          setTimeout(() => {
+            let tempDrop = sessionStorage.getItem(`${action.payload.mobId}`)
+            tempDrop = JSON.parse(tempDrop)
+            drop.items = tempDrop
+          }, 0);
+        }
+        return drop
+      });
+
+      return {
+        ...state,
+        dropListCopy: drop
+      }
+    }
     case 'ADD_ITEM_TO_MOB':
     {
       const drop = state.dropList.map(drop => {
@@ -61,6 +90,14 @@ const AppReducer = (state, action) => {
         ...state,
         firstRun: true
       }
+      case 'CHANGE_FIRST_RENDER_MOB_LIST_STATUS': {
+        console.log("tak")
+        return {
+          ...state,
+          firstRenderMobList: false
+        }
+      }
+      
     case 'CHANGE_HAMBURGER_STATUS': {
       return {
         ...state,
@@ -70,7 +107,8 @@ const AppReducer = (state, action) => {
     case 'DELETE_MOB': {
       return {
         ...state,
-        dropList: state.dropList.filter(drop => drop.mob !== action.payload)
+        dropList: state.dropList.filter(drop => drop.mob !== action.payload),
+        dropListCopy: state.dropListCopy.filter(drop => drop.mob !== action.payload)
       }
     }
     case 'DELETE_ITEM_FROM_MOB':

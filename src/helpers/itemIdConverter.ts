@@ -1,5 +1,6 @@
 export const convertItemId = (id: any, name: any) => {
     const idlength = id.toString().length;
+    
     let tempId = "";
     let itemId = ""
     let checkIfItemHaveUpgradeLevel = name.indexOf("+") + 1;

@@ -1,9 +1,7 @@
 import { GlobalProvider} from '../context/GlobalState';
 import { BrowserRouter as Router } from 'react-router-dom';
-import Header from './Header/Header';
-import List from './Lists/List';
 import ScrollTopButton from './Buttons/ScrollTopButton/ScrollTopButton';
-import Footer from './Footer/Footer';
+import Layout from './Layout';
 
 
 function App() {
@@ -11,9 +9,7 @@ function App() {
     <Router>
       <GlobalProvider>
         <div className="App">
-            <Header/>
-            <List/>
-            <Footer/>
+            <Layout/>
         </div>
         <ScrollTopButton/>
       </GlobalProvider>

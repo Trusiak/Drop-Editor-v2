@@ -38,6 +38,13 @@ h2{
     }
 }
 
+.ExpandMobList{
+    &__name{
+        font-size: 14px;
+        font-weight: 300;
+    }
+}
+
 .AddMobList{
     &__title{
         font-size: 16px;
@@ -96,6 +103,8 @@ h2{
         font-weight: 400;
     }
 }
+
+
 
 .Menu__option{
     font-size: 10px;

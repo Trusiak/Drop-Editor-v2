@@ -10,7 +10,7 @@ const Footer = () => {
             </Link>
             <nav className="Footer_nav">
                 <ul className="Footer__list">
-                    <li className="Footer__item">O Autorze</li>
+                    <li className="Footer__item">Jak używać?</li>
                     <li className="Footer__item">Changelog</li>
                     <li className="Footer__item">Github</li>
                 </ul>

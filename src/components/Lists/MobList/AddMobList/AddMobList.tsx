@@ -8,7 +8,7 @@ import { Drop } from '../../../../types/interfaces/Drop';
 const AddMobList = () => {
     const [chosenMob, setChosenMob] = useState({value: 0, label: "x"});
     const [error, setError] = useState(false);
-    const  { mobNames, addMob, dropList, changeFirstRunStatus } = useContext(GlobalContext) as any;
+    const  { mobNames, createDeepDropCopy, addMob, dropList, changeFirstRunStatus } = useContext(GlobalContext) as any;
     const addMobListForm = useRef(null);
     const [minLevel, setMinLevel] = useState('');
     const [maxLevel, setMaxLevel] = useState('');
@@ -32,6 +32,7 @@ const AddMobList = () => {
             clearInputs();
             changeFirstRunStatus();
             setError(false)
+            createDeepDropCopy()
         }
     }
 

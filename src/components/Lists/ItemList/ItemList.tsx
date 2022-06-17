@@ -13,12 +13,12 @@ interface ItemListProps {
 
 const ItemList: React.FC<ItemListProps> = ({match}) => {
 
-    const { dropList } = useContext(GlobalContext);
+    const { dropList, dropListCopy } = useContext(GlobalContext);
     const itemID = parseInt(match.params.id);
     const itemName = useItemName(itemID);
     const itemList = useRef(null);
 
-    const mobList = dropList.reduce((p,n)=>{
+    const mobList = dropListCopy.reduce((p,n)=>{
         let items = n.items.filter((item: ItemInMob) => item.id === itemID)
         if(items.length > 0){
             items.forEach((item: ItemInMob) => p.push(

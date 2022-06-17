@@ -2,6 +2,7 @@
 import React, {useContext, useRef, useState, useEffect} from 'react';
 import { ItemInMob } from "../../../types/interfaces/ItemInMob";
 import { GlobalContext } from "../../../context/GlobalState";
+import { MobListContext } from '../../../context/MobList';
 
 interface MobItemContentEditProps {
     item: ItemInMob,
@@ -12,8 +13,9 @@ interface MobItemContentEditProps {
 
 const MobItemContentEdit: React.FC<MobItemContentEditProps> = ({edit, item, stopEditing, mob}) => {
 
-    const { editItem } = useContext(GlobalContext) as any;
-    const inputRef = useRef(null!) as React.MutableRefObject<HTMLInputElement>;;
+    const { editItem2, saveLocalDropToSessionStorage } = useContext(MobListContext) as any;
+    const { updateDeepDropCopy } = useContext(GlobalContext) as any;
+    const inputRef = useRef(null!) as React.MutableRefObject<HTMLInputElement>;
     const [amountInputValue, setAmountInputValue] = useState(item.amount);
     const [chanceInputValue, setChanceInputValue] = useState(item.chance);
 
@@ -25,12 +27,15 @@ const MobItemContentEdit: React.FC<MobItemContentEditProps> = ({edit, item, stop
     const handleSubmit = (e: any) => {
         e.preventDefault();
         stopEditing();
-        console.log(Number(amountInputValue), Number(chanceInputValue))
-        editItem({
+
+        editItem2({
             id: item.id,
             amount: Number(amountInputValue),
             chance: Number(chanceInputValue)
-        }, item, mob)
+        }, item)
+
+        saveLocalDropToSessionStorage(mob);
+        updateDeepDropCopy(mob);
     }
 
     const handleInputChange = (e: any) => {

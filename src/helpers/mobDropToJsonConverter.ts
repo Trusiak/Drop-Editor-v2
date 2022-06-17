@@ -3,7 +3,6 @@
 export const convertMobDroptoJSON = (mobDrop: any) => {
     const tempResult: any = [];
     let actualMob = 0;
-    
     mobDrop
             .split('\n\t')
             .filter(el => el.includes('Mob') || el.includes('item'))
@@ -16,7 +15,6 @@ export const convertMobDroptoJSON = (mobDrop: any) => {
                     tempResult.push({mob: parseInt(actualMob), item: {id: parseInt(itemTab[1]), amount: parseInt(itemTab[2]), chance: parseFloat(itemTab[3])}})
                 }
             })
-        console.log(tempResult)
 
     const finalResult = tempResult
                         .reduce((p,n)=>{

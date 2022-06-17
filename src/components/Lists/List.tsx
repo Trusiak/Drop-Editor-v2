@@ -1,81 +1,59 @@
-import React, {useContext, useEffect, useLayoutEffect, useState} from 'react';
+import React, {useContext, useEffect, useLayoutEffect, useMemo, useState} from 'react';
 import MobList from './MobList/MobList';
 import ItemList from "./ItemList/ItemList"
 import { GlobalContext } from './../../context/GlobalState';
-import { convertTextData } from "../../helpers/dataConverter";
 import { Route, Switch } from 'react-router-dom';
-import AddMobList from './MobList/AddMobList/AddMobList';
 import { Drop } from '../../types/interfaces/Drop';
-import { convertMobDroptoJSON } from '../../helpers/mobDropToJsonConverter';
+import { MobListProvider } from '../../context/MobList';
 
 
-const List = React.memo(() => {
-    const { addDrop, dropList, addMobNames, addItemNames, firstRun } = useContext(GlobalContext) as any;
-    const [loading, setLoading] = useState(true);
+interface ListProps {
+    dropList: Drop[]
+}
+const List: React.FC<ListProps> = React.memo(({dropList}) => {
+    const { firstRun } = useContext(GlobalContext) as any;
     const mobLists = firstRun ?
     dropList
-        .map((drop: Drop) => <MobList level={drop.level} items={drop.items} key={drop.mob} id={drop.mob}/>)
+        .map((drop: Drop, index:number) => {
+         return (
+            <MobListProvider>
+                <MobList level={drop.level} items={drop.items} key={drop.mob} index={index+1} id={drop.mob}/>
+            </MobListProvider>
+         )
+        })
     :
     dropList
         .sort((a:Drop, b:Drop)=>a.mob-b.mob)
-        .map((drop: Drop) => <MobList level={drop.level} items={drop.items} key={drop.mob} id={drop.mob}/>)
-    
-    useEffect(() => {
-      const fetchItemNames = fetch('/item_names.txt')
-          .then((response) => response.text())
-          .then(data  => {
-               const itemNames = convertTextData(data, "item")
-              addItemNames(itemNames) 
-          })
-          .catch(err => console.warn(err)) 
+        .map((drop: Drop, index:number) => {
+            return (
+                <MobListProvider>
+                    <MobList level={drop.level} items={drop.items} key={drop.mob} index={index+1} id={drop.mob}/>
+                </MobListProvider>
+            )
+        })
 
-        const fetchMobNames = fetch('/mob_names.txt')
-          .then((response) => response.text())
-          .then(data  => {
-              const mobNames = convertTextData(data, "mob")
-              addMobNames(mobNames)
-          })
-          .catch(err => console.warn(err)) 
-
-          // This will be work on production, now disabled 
-
-          /* const fetchMobDrop = fetch('/mob_drop_item.txt')
-          .then((response) => response.text())
-          .then(data  => {
-            const mobDrop = convertMobDroptoJSON(data)
-              addDrop(mobDrop)
-          })
-          .catch(err => console.warn(err))  */
-
-          Promise.all([fetchItemNames, fetchMobNames, /* fetchMobDrop */]).then((values) => {
-            setLoading(false);
-          });
-
-    }, []);
-    
-    return (
-        <>
-            <AddMobList/>
-            <div className="List">
-                <div className="wrapper">
-                    { loading ? (<div className="Loader"/>
-                    ) : (
-                    <Switch>
-                        <Route path="/" exact render={()=>mobLists} />
-                        <Route path="/items/:id" component={ItemList} />
-                        {<Route render={() => (
-                            <>
-                                <div style={{color: 'gray', textAlign: 'center', fontSize: '55px'}}>404</div>
-                                <div style={{color: 'white',  textAlign: 'center', fontSize: '55px'}}>Nie ma takiej strony!</div>
-                                <div style={{color: 'white', textAlign: 'center', fontSize: '25px'}}>Coś Ci się pomyliło.</div>
-                            </>
-                        )} />}
-                    </Switch>
-                    )}
+        return (
+            <>
+                <div className="List">
+                    {console.log("★ LISTA GŁÓWNA ZOSTAŁA WYRENDEROWANA ★")}
+                    <div className="wrapper">
+                        <Switch>
+                            <Route path="/" exact render={()=>mobLists} />
+                            <Route path="/items/:id" component={ItemList} />
+                            {<Route render={() => (
+                                <>
+                                    <div style={{color: 'gray', textAlign: 'center', fontSize: '55px'}}>404</div>
+                                    <div style={{color: 'white',  textAlign: 'center', fontSize: '55px'}}>Nie ma takiej strony!</div>
+                                    <div style={{color: 'white', textAlign: 'center', fontSize: '25px'}}>Coś Ci się pomyliło.</div>
+                                </>
+                            )} />}
+                        </Switch>
+                    </div>
                 </div>
-            </div>
-        </>
-    );
-});
+            </>
+        )
+  
+}, (prevProps, nextProps) => { return (
+    prevProps.dropList.length === nextProps.dropList.length)})
 
 export default List;
