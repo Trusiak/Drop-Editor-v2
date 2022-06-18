@@ -3,27 +3,22 @@
 export const convertMobDroptoJSON = (mobDrop: any) => {
     const tempResult: any = [];
     let actualMob = 0;
-    let type = false;
+    let startReadDrop = false;
     mobDrop
             .split('\n')
             .map(el => {
-                if(el.includes('Mob')){
-                    actualMob = el.slice(5);
-                }
                 if(el.includes('}')){
-                    type = false;
+                    startReadDrop = false;
                 }
-                
-                if(type){
+                if(startReadDrop){
                     let itemTab = el.split('\t');
                     tempResult.push({mob: parseInt(actualMob), item: {id: parseInt(itemTab[2]), amount: parseInt(itemTab[3]), chance: parseFloat(itemTab[4])}}) 
                 }
-                if(el.includes('Type')){
-                    type = true;
+                if(el.includes('Mob')){
+                    actualMob = el.slice(5);
+                    startReadDrop = true;
                 }
-                
             })
-
 
     const finalResult = tempResult
                         .reduce((p,n)=>{

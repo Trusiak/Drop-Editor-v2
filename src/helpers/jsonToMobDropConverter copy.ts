@@ -13,10 +13,11 @@ Group	monster_${index}
 {
 	Level_limit	${drop.level.min}
 	Type	limit
+	max_level	${drop.level.max}
 	Mob	${drop.mob}
 `
     drop.items.forEach((el: ItemInMob, index: number)=>{
-        dropToWrite+=`	${index+1}	${el.id}	${el.amount}	${el.chance}\n`
+        dropToWrite+=`	item	${el.id}	${el.amount}	${el.chance}\n`
     })
     dropToWrite+=`}`
      })
