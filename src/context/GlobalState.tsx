@@ -193,9 +193,8 @@ import AppReducer from './AppReducer';
       }
     ],
     dropListCopy: [],
-    kurnik: [],
     isHamburgerOpen: false,
-} 
+}  
 
 interface IinitialState {
   activeList: string,
@@ -207,7 +206,6 @@ interface IinitialState {
   isHamburgerOpen: boolean,
   firstRun: boolean,
   firstRenderMobList: boolean,
-  kurnik: any[]
 }
 
 export const GlobalContext = createContext<IinitialState>(initialState);
@@ -215,13 +213,6 @@ export const GlobalContext = createContext<IinitialState>(initialState);
 // @ts-ignore
 export const GlobalProvider = ({children}) => {
     const [state, dispatch] = useReducer(AppReducer, initialState);
-
-    function changeJajko(jajko){
-      dispatch({
-          type: 'CHANGE_JAJKO',
-          payload: jajko
-      });
-    }
 
     function addDrop(drop: any){
       dispatch({
@@ -328,7 +319,6 @@ export const GlobalProvider = ({children}) => {
             mobNames: state.mobNames, 
             isHamburgerOpen: state.isHamburgerOpen,
             dropListCopy: state.dropListCopy,
-            changeJajko,
             createDeepDropCopy,
             updateDeepDropCopy,
             addDrop,

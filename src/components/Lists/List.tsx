@@ -1,4 +1,4 @@
-import React, {useContext, useEffect, useLayoutEffect, useMemo, useState} from 'react';
+import React, {useContext} from 'react';
 import MobList from './MobList/MobList';
 import ItemList from "./ItemList/ItemList"
 import { GlobalContext } from './../../context/GlobalState';
@@ -16,7 +16,7 @@ const List: React.FC<ListProps> = React.memo(({dropList}) => {
     dropList
         .map((drop: Drop, index:number) => {
          return (
-            <MobListProvider>
+            <MobListProvider key={drop.mob+index*3}>
                 <MobList level={drop.level} items={drop.items} key={drop.mob} index={index+1} id={drop.mob}/>
             </MobListProvider>
          )
@@ -26,7 +26,7 @@ const List: React.FC<ListProps> = React.memo(({dropList}) => {
         .sort((a:Drop, b:Drop)=>a.mob-b.mob)
         .map((drop: Drop, index:number) => {
             return (
-                <MobListProvider>
+                <MobListProvider key={drop.mob+index*3}>
                     <MobList level={drop.level} items={drop.items} key={drop.mob} index={index+1} id={drop.mob}/>
                 </MobListProvider>
             )
@@ -35,7 +35,6 @@ const List: React.FC<ListProps> = React.memo(({dropList}) => {
         return (
             <>
                 <div className="List">
-                    {console.log("★ LISTA GŁÓWNA ZOSTAŁA WYRENDEROWANA ★")}
                     <div className="wrapper">
                         <Switch>
                             <Route path="/" exact render={()=>mobLists} />

@@ -1,4 +1,4 @@
-import React, {useState, useContext, useRef, useLayoutEffect, useEffect, createContext, useMemo} from 'react';
+import React, {useState, useContext, useRef, useEffect, useMemo} from 'react';
 import { ItemInMob } from '../../../types/interfaces/ItemInMob';
 import { LevelDrop } from '../../../types/interfaces/LevelDrop';
 import AddMobItem from "../../MobItem/AddMobItem/AddMobItem";
@@ -8,8 +8,7 @@ import MobItem from '../../MobItem/MobItem';
 import { GlobalContext } from '../../../context/GlobalState';
 import { createListAnimation, removeListAnimation } from "../../../helpers/animations"
 import { useMobName } from "../../../helpers/useMobName";
-import { MobListContext, MobListProvider } from '../../../context/MobList';
-import { Drop } from "../../../types/interfaces/Drop";
+import { MobListContext } from '../../../context/MobList';
 import ExpandMobList from './ExpandMobList/ExpandMobList';
 import { useLocation } from 'react-router-dom'
 
@@ -72,7 +71,7 @@ const MobList: React.FC<MobListProps> = ({id, items, level, index}) => {
                     return <MobItem key={key} mob={id} item={item}/>
                 })
         }
-        else return <ExpandMobList numberOfItems={items.length} handleToogleList={handleToogleList}/>
+        else return <ExpandMobList numberOfItems={mobDropList.length} handleToogleList={handleToogleList}/>
         
     }, [isOpened, mobDropList.length, mobDropList])
 
@@ -96,7 +95,7 @@ const MobList: React.FC<MobListProps> = ({id, items, level, index}) => {
                         <button onClick={handleAddItem} className="MobList__actionButton MobList__actionButton--add">
                             <img src={addIcon} className="MobList__addIcon" alt="moblist icon"/>
                         </button>
-{/*                         {console.log("☆ MOBLISTA została wyrenderowana ☆", id)} */}
+                        {/* {console.log("☆ MOBLISTA została wyrenderowana ☆", id)} */}
                         <button onClick={handleDeleteMob} className="MobList__actionButton MobList__actionButton--delete">
                             <img className="MobList__addIcon" src={removeIcon} alt="ikona usuwania"/>
                         </button>

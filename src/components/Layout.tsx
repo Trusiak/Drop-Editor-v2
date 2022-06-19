@@ -11,7 +11,7 @@ import AddMobList from './Lists/MobList/AddMobList/AddMobList';
 const Layout = () => {
     const [loading, setLoading] = useState(true);
     
-    const { dropList, dropListCopy, addMobNames, addItemNames, addDrop, createDeepDropCopy } = useContext(GlobalContext) as any;
+    const { firstRun, dropListCopy, addMobNames, addItemNames, addDrop, createDeepDropCopy } = useContext(GlobalContext) as any;
 
   
     useEffect(() => {
@@ -54,7 +54,6 @@ const Layout = () => {
     return useMemo(()=> {
         return (
             <div className='Layout'>
-                {console.log("LAYOUT TEZ")}
                 <Header/>
                 <AddMobList/>
                 { loading ? 

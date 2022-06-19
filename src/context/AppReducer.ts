@@ -60,6 +60,10 @@ const AppReducer = (state:any , action:any) => {
         }
         return drop
       });
+      setTimeout(()=>{
+        sessionStorage.setItem('drop', JSON.stringify(drop))
+      }, 0)
+      
 
       return {
         ...state,
@@ -91,7 +95,6 @@ const AppReducer = (state:any , action:any) => {
         firstRun: true
       }
       case 'CHANGE_FIRST_RENDER_MOB_LIST_STATUS': {
-        console.log("tak")
         return {
           ...state,
           firstRenderMobList: false

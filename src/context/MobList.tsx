@@ -36,7 +36,6 @@ export const MobListProvider = ({children}) => {
     }
 
     function editItem2(updatedItem: any, item: any){
-      console.log("(2) WYWOŁANY GLOBAL CONTEXT", item, updatedItem)
        dispatch({
           type: 'EDIT_ITEM_IN_MOB',
           payload: {updatedItem, item}

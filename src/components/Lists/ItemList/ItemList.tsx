@@ -6,6 +6,8 @@ import { MobInItem } from "../../../types/interfaces/MobInItem";
 import { ItemInMob } from "../../../types/interfaces/ItemInMob";
 import { useItemName } from "../../../helpers/useItemName";
 import MobItemIcon from '../../MobItem/MobItemIcon/MobItemIcon';
+import { Drop } from '../../../types/interfaces/Drop';
+import { useDropFromSession } from '../../../helpers/useDropFromSession';
 
 interface ItemListProps {
     match: {params: {id: string}}
@@ -13,24 +15,28 @@ interface ItemListProps {
 
 const ItemList: React.FC<ItemListProps> = ({match}) => {
 
-    const { dropList, dropListCopy } = useContext(GlobalContext);
+    const { dropListCopy } = useContext(GlobalContext);
     const itemID = parseInt(match.params.id);
     const itemName = useItemName(itemID);
     const itemList = useRef(null);
+    const dropFromLocalStorage:Drop = useDropFromSession();
+    const mobList = dropFromLocalStorage ? prepareItemListData(dropFromLocalStorage) : prepareItemListData(dropListCopy);
 
-    const mobList = dropListCopy.reduce((p,n)=>{
-        let items = n.items.filter((item: ItemInMob) => item.id === itemID)
-        if(items.length > 0){
-            items.forEach((item: ItemInMob) => p.push(
-                {
-                    id: n.mob, 
-                    amount: item.amount,
-                    chance: item.chance
-                }));
-        }
-        return p
-    },[])
-
+    function prepareItemListData(drop: any){
+        return drop.reduce((p: any,n: any)=>{
+            let items = n.items.filter((item: ItemInMob) => item.id === itemID)
+            if(items.length > 0){
+                items.forEach((item: ItemInMob) => p.push(
+                    {
+                        id: n.mob, 
+                        amount: item.amount,
+                        chance: item.chance
+                    }));
+            }
+            return p
+        },[])
+    }
+    
     const renderMobs = mobList.map((mob: MobInItem, index: number) => {
         return <ItemMob mobData={mob} key={index}/>
     }) 
