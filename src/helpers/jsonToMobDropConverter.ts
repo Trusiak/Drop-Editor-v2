@@ -5,6 +5,7 @@ import { ItemInMob } from '../types/interfaces/ItemInMob';
 
 const jsonToMobDropConverter = (dropList: any) => {
     
+    
    let dropToWrite: string = "";
      dropList.forEach((drop: Drop, index: number) => {
     dropToWrite += 
@@ -16,6 +17,7 @@ Group	monster_${index}
 	Mob	${drop.mob}
 `
     drop.items.forEach((el: ItemInMob, index: number)=>{
+        console.log(el)
         dropToWrite+=`	${index+1}	${el.id}	${el.amount}	${el.chance}\n`
     })
     dropToWrite+=`}`

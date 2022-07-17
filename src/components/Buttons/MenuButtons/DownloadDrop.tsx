@@ -5,11 +5,11 @@ import jsonToMobDropConverter from '../../../helpers/jsonToMobDropConverter';
 import { Drop } from '../../../types/interfaces/Drop';
 
 const DownloadDrop = () => {
-    const  { dropList, dropListCopy } = useContext(GlobalContext);
-    const dropToJSON = JSON.stringify(dropList, null, 2);
+    const  { /* dropList */ dropListCopy } = useContext(GlobalContext);
+   /*  const dropToJSON = JSON.stringify(dropList, null, 2); */
     
     const handleClick = () => {
-        saveDropToLocalStorage();
+        //saveDropToLocalStorage();
         viewDropInNewTab();
     }
 
@@ -31,14 +31,18 @@ const DownloadDrop = () => {
             return drop
         }) */
 
-         const sortedDropList = dropListCopy.sort((a:Drop, b:Drop)=>a.mob-b.mob)
-        jsonToMobDropConverter(sortedDropList);
-        
+         let dropListInSession: any = sessionStorage.getItem("drop") as any
+         let dropList = JSON.parse(dropListInSession)
+                            .sort((a:Drop, b:Drop)=>a.mob-b.mob) 
+         
+         setTimeout(() => {
+            jsonToMobDropConverter(dropList);
+         }, 300);
     }
 
-    const saveDropToLocalStorage = () => {
+/*     const saveDropToLocalStorage = () => {
         localStorage.setItem("drop", dropToJSON);
-    }
+    } */
     return (
         <>
             <button onClick={handleClick} className="MenuButton">

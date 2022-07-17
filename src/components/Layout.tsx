@@ -34,7 +34,7 @@ const Layout = () => {
   
             // This will be work on production, now disabled 
   
-            const fetchMobDrop = fetch('/mob_drop_item.txt')
+            const fetchMobDrop = fetch('/testowe/mob_drop_item.txt')
             .then((response) => response.text())
             .then(data  => {
               const mobDrop = convertMobDroptoJSON(data)

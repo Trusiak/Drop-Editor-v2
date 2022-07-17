@@ -6,13 +6,16 @@ import { convertMobDroptoJSON } from "../../../helpers/mobDropToJsonConverter";
 import { separateMobDrop } from '../../../helpers/separateMobDrop';
 
 const UploadDrop = () => {
-    const  { addDrop } = useContext(GlobalContext) as any;
-    let fileReader: FileReader;
+    const  { addDrop, createDeepDropCopy } = useContext(GlobalContext) as any;
+    let fileReader: FileReader
     
     const handleFileRead = () => {
+        sessionStorage.clear();
         const content = convertMobDroptoJSON(fileReader.result)
+        let packDropToSessionStorage = JSON.stringify(content)
+        sessionStorage.setItem("drop", packDropToSessionStorage) 
         addDrop(content)
-        //separateMobDrop(content)
+        createDeepDropCopy();
       };
 
     const handleFileChosen = (file: File) => {

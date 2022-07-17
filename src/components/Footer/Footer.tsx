@@ -15,7 +15,7 @@ const Footer = () => {
                     <li className="Footer__item">Github</li>
                 </ul>
             </nav>
-            <p className="Footer__rights">All rights reserved @ 2021 Trusiak</p>
+            <p className="Footer__rights">All rights reserved @ {new Date().getFullYear()} Trusiak</p>
         </footer>
     );
 };

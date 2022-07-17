@@ -63,6 +63,7 @@ interface AddMobItemProps {
                     portalTarget={document.body}
                     className={'MobListSelect'}
                     classPrefix={'MobListSelect'}
+                    autoFocus={true}
                 />
                 <input 
                     value={chosenItemAmount}

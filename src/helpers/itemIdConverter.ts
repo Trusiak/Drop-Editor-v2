@@ -1,9 +1,9 @@
 export const convertItemId = (id: any, name: any) => {
     const idlength = id.toString().length;
-    
+    const compose:any = (...fns: any) => (x:any) => fns.reduceRight((prev:any, next:any)=>next(x),x)
     let tempId = "";
-    let itemId = ""
-    let checkIfItemHaveUpgradeLevel = name.indexOf("+") + 1;
+    let itemId:any = ""
+    let checkIfItemHaveUpgradeLevel = name.indexOf("+") + 1
 
     if(checkIfItemHaveUpgradeLevel){
         if(id >= 28030 && id < 28443)
@@ -13,6 +13,10 @@ export const convertItemId = (id: any, name: any) => {
     }
     else
         itemId = id
+
+    if(id >= 50070 && id < 50082){
+        itemId = checkIsBossBox(id)
+    }
 
     if(idlength < 5){
         for(let i=0; i<5-idlength;i++){
@@ -44,5 +48,8 @@ function checkIsStoneOfSoul(id: any){
             id -= 430;
 
         return id
-        
+}
+
+function checkIsBossBox(id: number){
+    return 50070
 }

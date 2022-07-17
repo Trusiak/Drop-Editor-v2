@@ -1,14 +1,15 @@
 import React, {useContext} from 'react';
 import uploadIcon from "../../../img/icon-send.svg";
 import { GlobalContext } from "../../../context/GlobalState";
+import { convertTextData } from "../../../helpers/dataConverter";
 
 const UploadMobNames = () => {
-    const  { addDrop } = useContext(GlobalContext) as any;
+    const  { addMobNames } = useContext(GlobalContext) as any;
     let fileReader: FileReader;
     
     const handleFileRead = () => {
-        const content = JSON.parse(fileReader.result as string);
-        addDrop(content)
+        const mobNames = convertTextData(fileReader.result, "item")
+        addMobNames(mobNames) 
       };
 
     const handleFileChosen = (file: File) => {

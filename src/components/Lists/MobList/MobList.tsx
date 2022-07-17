@@ -27,7 +27,7 @@ const MobList: React.FC<MobListProps> = ({id, items, level, index}) => {
     const location = useLocation(); 
     const [isOpened, setIsOpened] = useState(()=> index < 4 ? false : true)
     const { addLocalDrop, mobDropList } = useContext(MobListContext) as any;
-    const { deleteMob, updateDeepDropCopy } = useContext(GlobalContext) as any;
+    const { deleteMob, updateDeepDropCopy, mobNames } = useContext(GlobalContext) as any;
     const mobList = useRef(null);
     const mobName = useMobName(id)
 
@@ -106,7 +106,7 @@ const MobList: React.FC<MobListProps> = ({id, items, level, index}) => {
                     </ul>
                 </section>
     )
-}, [mobDropList, isAddingNewItem, isOpened]) 
+}, [mobDropList, isAddingNewItem, isOpened,mobNames]) 
 }
 
 export default MobList;

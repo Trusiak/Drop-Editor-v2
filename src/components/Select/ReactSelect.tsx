@@ -2,13 +2,14 @@ import React from 'react';
 import Select, { createFilter } from 'react-select'
 import { FixedSizeList as List } from "react-window";
 // @ts-ignore
-const ReactSelect: any = ({setChosenItem, classPrefix="ReactSelect", options, defaultValue, value, className, portalTarget}) => {
+const ReactSelect: any = ({autoFocus, setChosenItem, classPrefix="ReactSelect", options, defaultValue, value, className, portalTarget}) => {
     return (
         <Select 
                 onChange={setChosenItem} 
                 classNamePrefix={classPrefix} 
                 className={className} 
                 options={options} 
+                autoFocus={autoFocus}
                 placeholder="Wybierz..."
                 components={{ MenuList } as any}
                 menuPortalTarget={portalTarget}
